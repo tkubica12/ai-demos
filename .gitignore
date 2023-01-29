@@ -1,64 +1,23 @@
-.classpath
-.project
-target
-node_modules
-.idea
-*.iml
-
-.factorypath
-*.pydevproject
-.metadata
-.gradle
-bin/**
-tmp/**
-tmp/**/*
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/**
-*/.settings/**
-.vscode/**
-*/.vscode/**
-.loadpath
-
-# External tool builders
-.externalToolBuilders/
-
-# Locally stored "Eclipse launch configurations"
-*.launch
-
-# CDT-specific
-.cproject
-
-# PDT-specific
-.buildpath
-
-# TeXlipse plugin
-.texlipse
-
-w-aks-intro/resources/kustomize/environments/tomas
-w-aks-intro/challenge/solutions/
-
+# Terraform
 .terraform
 .terraform*
 *tfstate*
+
+# Secrets
 .secrets
 
-garage
-DELETE.terraform/
-
+# Notebooks
 .ipynb_aml_checkpoints
 *.amltmp 
 *.amltemp
 .amlignore.amltmp
 .amlignore
-d-azureml/local_dev/y_train.csv
-d-azureml/local_dev/X_test.csv
-d-azureml/local_dev/X_train.csv
-d-azureml/local_dev/y_test.csv
-d-azureml/local_dev/scaler.save
 
-d-azureml/data/intel_image_classification/localdata/
-d-azureml/local_dev/localdata/
+# Azure ML
+azureml/local_dev/y_train.csv
+azureml/local_dev/X_test.csv
+azureml/local_dev/X_train.csv
+azureml/local_dev/y_test.csv
+azureml/local_dev/scaler.save
+azureml/data/intel_image_classification/localdata/
+azureml/local_dev/localdata/
