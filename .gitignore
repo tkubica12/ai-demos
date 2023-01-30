@@ -5,6 +5,7 @@
 
 # Secrets
 .secrets
+.env
 
 # Notebooks
 .ipynb_aml_checkpoints

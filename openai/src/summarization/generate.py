@@ -1,6 +1,7 @@
 import os
 import openai
 import csv
+
 openai.api_type = "azure"
 openai.api_base = os.getenv("OPENAI_API_URL")
 openai.api_version = "2022-12-01"
