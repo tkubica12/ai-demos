@@ -1,0 +1,22 @@
+## COMMAND ## "Přelož text do češtiny."
+
+Typická triáda ve západní hudbě se skládá z intervalu nad kořenem, který je mollovou třetinou (tři půltóny) nebo durovou třetinou (čtyři půltóny) a perfektní kvintou (sedm půltónů). Použití zmenšené kvinty nebo zvětšené kvinty je možné, ale méně obvyklé v populární hudbě. Běžný akordový progres v jazzu je následnost akordů, jejichž kořeny klesají ve kvintách od druhého stupně (supertonik) po pátý stupeň (dominantní) a nakonec k toniku. V durové tonalitě je supertoniková triáda (ii) mollová a v mollové tonalitě je zmenšená. Dominantní je ve své normální formě durová triáda a obvykle dominantní sedmý akord.
+
+## COMMAND ##  "Přelož text do češtiny."
+                major triad = durový kvintakord
+                third = tercie, velká nebo malá
+                perfect = čistá
+                seventh chord = septakord
+                dominant = dominanta
+                supertonic = střídavá dominanta
+                tonik = tónika
+                major key = durový klíč
+
+
+Typická trojzvuková akordová struktura ve západní hudbě se skládá z intervalu nad kořenem, který je buď malou tercií (tři půltóny) nebo velkou tercií (čtyři půltóny) a čistou kvintou (sedm půltónů). Použití zmenšené kvinty nebo zvětšené kvinty je možné, ale méně běžné v populární hudbě. Běžný akordový progres v jazzu je následování akordů, jejichž kořeny klesají v kvintách od druhého stupně (střídavé dominanty) po pátý stupeň (dominanta) a nakonec k tónice. V durovém klíči je střídavá dominanta (ii) mollová a v mollovém klíči je zmenšená. Dominanta je ve své normální formě durový kvintakord a obvykle septakord.
+
+
+
+Custom translator se slovnikem
+Typická triáda v západní hudbě se skládá z intervalu nad kořenem, který je mollový tercie (tři půltóny) nebo durové tercie (čtyři půltóny) a čistá kvinta (sedm půltónů). Použití zmenšeného kvinta nebo rozšířeného kvinta je možné, ale méně časté v populární hudbě. Obvyklým postupem akordů v jazzu je posloupnost akordů, jejichž kořeny sestupují v pětinách z druhého stupně (střídavá dominanta) do kvinta stupně (dominanta) a nakonec do tónika. V durový klíč je střídavá dominanta triáda (ii) menší a v mollový klíč je zmenšena. dominanta je ve své normální formě durový kvintakord a obvykle dominanta septakord.
+

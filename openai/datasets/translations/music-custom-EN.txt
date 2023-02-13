@@ -1,0 +1,11 @@
+major triad
+minor triad
+third
+perfect
+fifth
+seventh chord
+dominant
+supertonic
+tonic
+major key
+minor key
