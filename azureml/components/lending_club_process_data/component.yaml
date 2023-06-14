@@ -1,0 +1,21 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+type: command
+
+name: lending_club_process_data
+display_name: lending_club_process_data
+is_deterministic: true
+
+code: ./src/
+
+inputs:
+  raw_data: 
+    type: uri_file
+
+outputs:
+  processed_data:
+    type: uri_folder
+
+environment: azureml://registries/azureml/environments/sklearn-1.1/versions/4
+
+command: >-
+  python run.py --raw-data ${{inputs.raw_data}} --processed-data ${{outputs.processed_data}}/lending_club.csv;

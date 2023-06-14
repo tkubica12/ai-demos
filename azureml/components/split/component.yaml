@@ -1,0 +1,33 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+type: command
+
+name: split
+display_name: split
+is_deterministic: true
+
+code: ./src/
+
+inputs:
+  data: 
+    type: uri_folder
+  file_name: 
+    type: string
+  label_name: 
+    type: string
+  test_size: 
+    type: number
+
+outputs:
+  train:
+    type: uri_folder
+  test:
+    type: uri_folder
+
+environment: azureml://registries/azureml/environments/sklearn-1.1/versions/4
+
+command: >-
+  python run.py --data ${{inputs.data}}/${{inputs.file_name}} \
+                --output-path-train ${{outputs.train}} \
+                --output-path-test ${{outputs.test}} \
+                --label-name ${{inputs.label_name}} \
+                --test-size ${{inputs.test_size}};

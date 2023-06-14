@@ -1,0 +1,33 @@
+# Terraform
+.terraform
+.terraform*
+*tfstate*
+
+# Secrets
+.secrets
+.env
+
+# Notebooks
+.ipynb_aml_checkpoints
+*.amltmp 
+*.amltemp
+.amlignore.amltmp
+.amlignore
+
+# Azure ML
+azureml/local_dev/y_train.csv
+azureml/local_dev/X_test.csv
+azureml/local_dev/X_train.csv
+azureml/local_dev/y_test.csv
+azureml/local_dev/scaler.save
+azureml/data/intel_image_classification/localdata/
+azureml/local_dev/localdata/
+
+# Pytorch
+lightning_logs/
+
+vector_database_wikipedia_articles_embedded.zip
+openai/vector_databases/data/
+
+.terraform
+.terraform.lock.hcl

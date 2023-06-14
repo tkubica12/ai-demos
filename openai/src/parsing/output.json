@@ -1,0 +1,247 @@
+[
+    {
+        "file": "01.txt",
+        "topic": "Transformace \u010cesk\u00e9 po\u0161ty",
+        "persons": [
+            "V\u00edt Raku\u0161an",
+            "Miroslav \u0160t\u011bp\u00e1n"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra",
+            "\u010cesk\u00e1 po\u0161ta"
+        ],
+        "abstract": "Ministerstvo vnitra letos p\u0159iprav\u00ed n\u00e1vrh transformace \u010cesk\u00e9 po\u0161ty, kter\u00e1 st\u00e1tn\u00edmu podniku umo\u017en\u00ed adekv\u00e1tn\u011b reagovat na v\u00fdvoj na po\u0161tovn\u00edm trhu. C\u00edlem bude naj\u00edt politickou shodu na tom, jakou podobu m\u00e1 st\u00e1tn\u00ed podnik m\u00edt. Sou\u010dasn\u00fd gener\u00e1ln\u00ed \u0159editel skon\u010d\u00ed a od 1. b\u0159ezna po\u0161tu povede jeho statut\u00e1rn\u00ed z\u00e1stupce."
+    },
+    {
+        "file": "02.txt",
+        "topic": "Novinky ve volb\u00e1ch",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra",
+            "Parlament",
+            "Poslaneck\u00e1 sn\u011bmovna",
+            "Nejvy\u0161\u0161\u00ed spr\u00e1vn\u00ed soud",
+            "Legislativn\u00ed rada vl\u00e1dy"
+        ],
+        "abstract": "Vl\u00e1da dala zelenou n\u00e1vrhu Ministerstva vnitra, aby se v\u0161echny druhy voleb konaly v jednom dni. Nov\u011b bude mo\u017en\u00e9 \u017e\u00e1dat o voli\u010dsk\u00fd pr\u016fkaz na kter\u00e9mkoli obecn\u00edm \u00fa\u0159ad\u011b. Dal\u0161\u00ed novinkou je stanoven\u00ed pevn\u00e9ho term\u00ednu kon\u00e1n\u00ed voleb. Zm\u011bny by m\u011bly platit od 1. ledna 2026."
+    },
+    {
+        "file": "03.txt",
+        "topic": "Nam\u00e1tkov\u00e9 kontroly na hranic\u00edch se Slovenskem",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "vl\u00e1da",
+            "policie",
+            "voj\u00e1ci",
+            "celn\u00edci"
+        ],
+        "abstract": "Vl\u00e1da rozhodla o prodlou\u017een\u00ed kontrol na hranic\u00edch se Slovenskem o dal\u0161\u00edch 10 dn\u016f. Kontroly, kter\u00e9 posledn\u00ed m\u011bs\u00edc prob\u00edhaly nam\u00e1tkov\u011b, bude m\u00edt od \u010dtvrtka 26. ledna 2023 nov\u011b na starosti pouze policie. Ministr vnitra V\u00edt Raku\u0161an prosadil na vl\u00e1d\u011b prodlou\u017een\u00ed do\u010dasn\u00fdch kontrol na hranic\u00edch se Slovenskem o dal\u0161\u00edch 10 dn\u016f."
+    },
+    {
+        "file": "04.txt",
+        "topic": "\u010cesk\u00e1 po\u0161ta",
+        "persons": [
+            "V\u00edt Raku\u0161an",
+            "Martin F. Herrmann"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra",
+            "Ministerstvo financ\u00ed"
+        ],
+        "abstract": "Ministr vnitra dnes p\u0159edsed\u016fm koali\u010dn\u00edch stran p\u0159edstav\u00ed hlavn\u00ed body, kter\u00e9 by m\u011bl st\u00e1t p\u0159ijmout, aby \u010cesk\u00e1 po\u0161ta dok\u00e1zala i v budoucnu plnit v\u0161echny sv\u00e9 slu\u017eby a byla ekonomicky stabiln\u00ed. V\u00fdsledkem by m\u011bla b\u00fdt politick\u00e1 shoda na konkr\u00e9tn\u00edch kroc\u00edch, kter\u00fdmi pot\u00e9 vl\u00e1da po\u0161tu podpo\u0159\u00ed."
+    },
+    {
+        "file": "05.txt",
+        "topic": "Volby prezidenta republiky",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Port\u00e1l ob\u010dana",
+            "obecn\u00ed \u00fa\u0159ad"
+        ],
+        "abstract": "V lednov\u00fdch volb\u00e1ch prezidenta republiky m\u016f\u017eete volit na voli\u010dsk\u00fd pr\u016fkaz, kter\u00fd lze nov\u011b \u017e\u00e1dat online p\u0159es Port\u00e1l ob\u010dana. O voli\u010dsk\u00fd pr\u016fkaz m\u016f\u017eete \u017e\u00e1dat tak\u00e9 osobn\u011b u obecn\u00edho \u00fa\u0159adu."
+    },
+    {
+        "file": "06.txt",
+        "topic": "Bezpe\u010dnostn\u00ed d\u016fsledky v\u00e1lky na Ukrajin\u011b, p\u0159edsednictv\u00ed EU, rozvoj elektronizace i \u0159e\u0161en\u00ed neleg\u00e1ln\u00ed migrace",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra",
+            "EU"
+        ],
+        "abstract": "Leto\u0161n\u00ed rok p\u0159inesl Ministerstvu vnitra jako \u00fast\u0159edn\u00ed t\u00e9ma \u0159e\u0161en\u00ed bezpe\u010dnostn\u00ed situace a d\u016fsledk\u016f rusk\u00e9 agrese na Ukrajin\u011b. Ne\u0159e\u0161ilo se ale jenom to. Mezi dal\u0161\u00ed t\u00e9mata nap\u0159. pat\u0159il rozvoj elektronizace st\u00e1tn\u00ed spr\u00e1vy nebo \u010desk\u00e9 p\u0159edsednictv\u00ed EU."
+    },
+    {
+        "file": "07.txt",
+        "topic": "Veden\u00ed NAKITu",
+        "persons": [
+            "Jan \u010eoubal",
+            "Luk\u00e1\u0161 Kol\u00e1\u0159\u00edk",
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "NAKIT",
+            "Ministerstvo vnitra"
+        ],
+        "abstract": "Veden\u00edm st\u00e1tn\u00ed N\u00e1rodn\u00ed agentury pro komunika\u010dn\u00ed a informa\u010dn\u00ed technologie (NAKIT) byl pov\u011b\u0159en pr\u00e1vn\u00edk Jan \u010eoubal. Na n\u00e1vrh n\u00e1m\u011bstka ministra vnitra Luk\u00e1\u0161e Kol\u00e1\u0159\u00edka byl dnes po dohod\u011b ministra vnitra V\u00edta Raku\u0161ana s n\u00e1m\u011bstky pov\u011b\u0159en \u0159\u00edzen\u00edm NAKITu."
+    },
+    {
+        "file": "08.txt",
+        "topic": "prezidentsk\u00e9 volby",
+        "persons": [
+            "Petr Vok\u00e1\u010d"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra"
+        ],
+        "abstract": "Ministerstvo vnitra p\u0159ipravilo informa\u010dn\u00ed kampa\u0148 k nadch\u00e1zej\u00edc\u00edm prezidentsk\u00fdm volb\u00e1m. Kampa\u0148 spo\u010d\u00edv\u00e1 v postupn\u00e9m zve\u0159ej\u0148ov\u00e1n\u00ed kr\u00e1tk\u00fdch videospot\u016f, grafik a mem\u016f na soci\u00e1ln\u00edch s\u00edt\u00edch."
+    },
+    {
+        "file": "09.txt",
+        "topic": "Integrace cizinc\u016f v \u010cesk\u00e9 republice",
+        "persons": "ob\u010dan\u016f ze t\u0159et\u00edch zem\u00ed, interkulturn\u00edch pracovn\u00edk\u016f",
+        "institutions": "AMIF, Ministerstvo vnitra",
+        "abstract": "EU finan\u010dn\u011b podpo\u0159ila projekt na zlep\u0161en\u00ed integrace cizinc\u016f v \u010cesk\u00e9 republice. Projekt byl realizov\u00e1n prost\u0159ednictv\u00edm \u0161irok\u00e9 \u0161k\u00e1ly v\u00edce ne\u017e 24 000 intervenc\u00ed, kter\u00e9 poskytovalo 17 interkulturn\u00edch pracovn\u00edk\u016f. Krom\u011b toho byl vytvo\u0159en modern\u00ed informa\u010dn\u00ed port\u00e1l pro cizince."
+    },
+    {
+        "file": "10.txt",
+        "topic": "\u00fasp\u011bchy Rady EU",
+        "persons": "minist\u0159i vnitra",
+        "institutions": "Rada EU, Evropsk\u00fd parlament",
+        "abstract": "\u010cesk\u00e9 p\u0159edsednictv\u00ed v Rade EU dos\u00e1hlo z\u00e1sadn\u00edho pr\u016flomu v azylov\u00e9 a migra\u010dn\u00ed reform\u011b, schv\u00e1len\u00ed spole\u010dn\u00fdch pravidel v oblasti kritick\u00e9 infrastruktury, prodlou\u017een\u00ed do\u010dasn\u00e9 ochrany pro ukrajinsk\u00e9 uprchl\u00edky, zah\u00e1jen\u00ed strukturovan\u00e9ho bezpe\u010dnostn\u00edho dialogu s ukrajinsk\u00fdmi \u00fa\u0159ady a schv\u00e1len\u00ed vstupu Chorvatska do schengenu."
+    },
+    {
+        "file": "11.txt",
+        "topic": "Datov\u00e9 schr\u00e1nky",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra"
+        ],
+        "abstract": "Do roku 2023 bude Ministerstvo vnitra postupn\u011b z\u0159izovat datov\u00e9 schr\u00e1nky v\u0161em subjekt\u016fm veden\u00fdm v registru osob. B\u011b\u017en\u00fdch ob\u010dan\u016f se povinnost nakonec net\u00fdk\u00e1. Do konce b\u0159ezna bude z\u0159\u00edzeno p\u0159es 2,2 milionu datov\u00fdch schr\u00e1nek. Od t\u00e9 doby budou u\u017eivatel\u00e9 dost\u00e1vat ve\u0161kerou komunikaci od st\u00e1tu do datov\u00e9 schr\u00e1nky."
+    },
+    {
+        "file": "12.txt",
+        "topic": "Kontroly na hranic\u00edch se Slovenskem",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "vl\u00e1da",
+            "Policie",
+            "Celn\u00ed spr\u00e1va",
+            "Arm\u00e1da"
+        ],
+        "abstract": "Vl\u00e1da dnes rozhodla prodlou\u017eit kontroly na hranic\u00edch se Slovenskem o dal\u0161\u00edch 30 dn\u016f. Intenzita kontrol se v\u0161ak zm\u00edrn\u00ed a sn\u00ed\u017e\u00ed se po\u010dty policist\u016f, celn\u00edk\u016f a voj\u00e1k\u016f, kte\u0159\u00ed se na nich pod\u00edlej\u00ed."
+    },
+    {
+        "file": "13.txt",
+        "topic": "V\u00edzov\u00e1 reciprocita a v\u00e1lka na Ukrajin\u011b",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Evropsk\u00e1 unie",
+            "Spojen\u00e9 st\u00e1ty"
+        ],
+        "abstract": "Minist\u0159i Evropsk\u00e9 unie a Spojen\u00fdch st\u00e1t\u016f se 15. prosince 2022 se\u0161li ve Washingtonu, aby diskutovali o v\u00edzov\u00e9 reciprocit\u011b, boji proti terorismu a v\u00e1lce na Ukrajin\u011b. Jedn\u00e1n\u00ed se zam\u011b\u0159ilo na dosa\u017een\u00ed pln\u00e9 v\u00edzov\u00e9 reciprocity mezi EU a USA, sd\u00edlen\u00ed informac\u00ed v boji proti terorismu a podporu ukrajinsk\u00fdch uprchl\u00edk\u016f."
+    },
+    {
+        "file": "14.txt",
+        "topic": "Migration and Development Conference in Cadiz",
+        "persons": [
+            "Radek Ka\u0148a"
+        ],
+        "institutions": [
+            "EU"
+        ],
+        "abstract": "The 6th Ministerial Meeting of the Euro-African Dialogue on Migration and Development, the so-called Rabat Process, was held in Cadiz, Spain on 13-14 December 2022. The Czech Republic was represented by Deputy Minister of the Interior Radek Ka\u0148a. The two-day meeting discussed the progress in the established priority areas of cooperation, such as addressing the causes of illegal migration and displacement, cooperation on returns and readmissions, combating smugglers and traffickers, and protecting vulnerable persons."
+    },
+    {
+        "file": "15.txt",
+        "topic": "spolupr\u00e1ce mezi Ministerstvem vnitra a D\u011btsk\u00fdm fondem OSN (UNICEF)",
+        "persons": [
+            "V\u00edt Raku\u0161an",
+            "Yulia Oleinik",
+            "Pavel Bac\u00edk"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra",
+            "UNICEF",
+            "Spr\u00e1va uprchlick\u00fdch za\u0159\u00edzen\u00ed"
+        ],
+        "abstract": "Dne\u0161n\u00edm dnem zapo\u010dala unik\u00e1tn\u00ed spolupr\u00e1ce mezi Ministerstvem vnitra a D\u011btsk\u00fdm fondem OSN (UNICEF) v Praze. UNICEF p\u0159isp\u011bje resortu vnitra \u010d\u00e1stkou p\u0159es 14 mil. EUR (t\u00e9m\u011b\u0159 357 mil. K\u010d). Podpis p\u0159idal i Pavel Bac\u00edk, \u0159editel Spr\u00e1vy uprchlick\u00fdch za\u0159\u00edzen\u00ed."
+    },
+    {
+        "file": "16.txt",
+        "topic": "\u00dasp\u011bch \u010desk\u00e9ho p\u0159edsednictv\u00ed: schengen se roz\u0161\u00ed\u0159\u00ed o Chorvatsko",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Rada pro vnit\u0159n\u00ed v\u011bci",
+            "EU"
+        ],
+        "abstract": "\u010clensk\u00e9 st\u00e1ty EU dnes na jedn\u00e1n\u00ed Rady pro vnit\u0159n\u00ed v\u011bci jednomysln\u011b schv\u00e1lily roz\u0161\u00ed\u0159en\u00ed schengenu o Chorvatsko. Jedn\u00e1 se o mimo\u0159\u00e1dn\u00fd \u00fasp\u011bch, kter\u00fd si \u010cesk\u00e1 republika p\u0159ipisuje na z\u00e1v\u011br sv\u00e9ho p\u0159edsednictv\u00ed v Rad\u011b EU."
+    },
+    {
+        "file": "17.txt",
+        "topic": "Kontroly na hranic\u00edch se Slovenskem",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "vl\u00e1da",
+            "Evropsk\u00e1 komise",
+            "Schengensk\u00fd hrani\u010dn\u00ed kodex"
+        ],
+        "abstract": "Kontroly na \u010desko-slovensk\u00fdch hranic\u00edch zaveden\u00e9 kv\u016fli prudk\u00e9mu n\u00e1r\u016fstu neleg\u00e1ln\u00ed migrace budou pokra\u010dovat i po 12. prosinci 2022. Na sv\u00e9m zased\u00e1n\u00ed to dnes schv\u00e1lila vl\u00e1da. Policist\u016fm budou s kontrolami i nad\u00e1le pom\u00e1hat voj\u00e1ci a p\u0159\u00edslu\u0161n\u00edci Celn\u00ed spr\u00e1vy \u010cR."
+    },
+    {
+        "file": "18.txt",
+        "topic": "datov\u00e9 schr\u00e1nky",
+        "persons": [
+            "V\u00edt Raku\u0161an",
+            "Roman Vrba"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra"
+        ],
+        "abstract": "S bl\u00ed\u017e\u00edc\u00edm se term\u00ednem zaveden\u00ed datov\u00fdch schr\u00e1nek pro \u017eivnostn\u00edky, spolky a nadace roste z\u00e1jem o jejich z\u0159\u00edzen\u00ed v p\u0159edstihu. Podle aktu\u00e1ln\u00edch statistik je v posledn\u00edm \u010dtvrtlet\u00ed po\u010det nov\u011b z\u0159izovan\u00fdch datov\u00fdch schr\u00e1nek t\u00e9m\u011b\u0159 dvojn\u00e1sobn\u00fd oproti dlouhodob\u00e9mu pr\u016fm\u011bru. Od ledna 2023 bude Ministerstvo vnitra z\u0159izovat datov\u00e9 schr\u00e1nky v\u0161em subjekt\u016fm veden\u00fdm v registru osob."
+    },
+    {
+        "file": "19.txt",
+        "topic": "Politick\u00e9 procesy",
+        "persons": [
+            "Rudolf Sl\u00e1nsk\u00fd",
+            "Milada Hor\u00e1kov\u00e1"
+        ],
+        "institutions": [
+            "N\u00e1rodn\u00ed archiv",
+            "Archiv \u010cesk\u00e9ho rozhlasu",
+            "\u00dastav pro studium totalitn\u00edch re\u017eim\u016f"
+        ],
+        "abstract": "Unik\u00e1tn\u00ed internetov\u00fd projekt Politick\u00e9 procesy, kter\u00fd dnes tv\u016frci p\u0159edstavili v budov\u011b N\u00e1rodn\u00edho archivu v Praze, mapuje manipulace a propagandu politick\u00fdch proces\u016f v 50. letech 20. stolet\u00ed. D\u00edky tomu lze p\u0159edstavit dosud nepublikovan\u00e9 informace o metod\u00e1ch, jak\u00fdmi komunistick\u00e1 propaganda manipulovala s obrazem procesu na ve\u0159ejnosti."
+    },
+    {
+        "file": "20.txt",
+        "topic": "Do\u010dasn\u00e1 ochrana pro Ukrajince",
+        "persons": [
+            "V\u00edt Raku\u0161an"
+        ],
+        "institutions": [
+            "Ministerstvo vnitra",
+            "Policie \u010cR",
+            "Ministerstvo zdravotnictv\u00ed"
+        ],
+        "abstract": "Vl\u00e1da schv\u00e1lila Lex Ukrajina IV, kter\u00fd umo\u017e\u0148uje prodlou\u017een\u00ed do\u010dasn\u00e9 ochrany pro Ukrajince a\u017e do 31. b\u0159ezna 2024. Bal\u00ed\u010dek z\u00e1kon\u016f tak\u00e9 zjednodu\u0161uje pravidla pro z\u00edsk\u00e1n\u00ed kvalifikace v oboru psychologie, z\u00e1pisy d\u011bt\u00ed do p\u0159ed\u0161koln\u00edho vzd\u011bl\u00e1v\u00e1n\u00ed a vy\u0159azen\u00ed d\u011bt\u00ed z mate\u0159sk\u00e9 \u0161koly."
+    }
+]

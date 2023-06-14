@@ -1,0 +1,25 @@
+## COMMAND ## "Přelož text do češtiny."
+
+Typická triáda ve západní hudbě se skládá z intervalu nad kořenem, který je mollovou třetinou (tři půltóny) nebo durovou třetinou (čtyři půltóny) a perfektní kvintou (sedm půltónů). Použití zmenšené kvinty nebo zvětšené kvinty je možné, ale méně obvyklé v populární hudbě. Běžný akordový progres v jazzu je následnost akordů, jejichž kořeny klesají ve kvintách od druhého stupně (supertonik) po pátý stupeň (dominantní) a nakonec k toniku. V durové tonalitě je supertoniková triáda (ii) mollová a v mollové tonalitě je zmenšená. Dominantní je ve své normální formě durová triáda a obvykle dominantní sedmý akord.
+
+## COMMAND ##  "Přelož text do češtiny."
+                minor triad => molový kvintakord
+                major triad => durový kvintakord
+                second => sekunda, velká nebo malá
+                minor second => malá sekunda
+                major second => velká sekunda
+                third => tercie, velká nebo malá
+                fourth => kvarta, čistá, zvětšená nebo zmenšená
+                fifth => kvinta, čistá, zvětšená nebo zmenšená
+                sixth => sexta, velká nebo malá
+                seventh => septima, velká nebo malá
+                perfect => čistá
+                seventh chord => septakord
+                dominant => dominanta
+                supertonic => střídavá dominanta
+                tonic => tónika
+                major key => durový klíč
+                minor key => mollový klíč
+
+
+Typická triáda v západní hudbě se skládá z intervalu nad kořenem, který je malou tercií (tři půltóny) nebo velkou tercií (čtyři půltóny) a čistou kvintou (sedm půltónů). Použití zmenšené kvinty nebo zvětšené kvinty je možné, ale méně běžné v populární hudbě. Běžný akordový progres v jazzu je následování akordů, jejichž kořeny klesají v kvintách od druhého stupně (střídavá dominanta) po pátý stupeň (dominanta) a nakonec k tónice. V durovém klíči je střídavá dominanta (ii) mollová a v mollovém klíči je zmenšená. Dominanta je ve své normální formě durový kvintakord a obvykle septakord.
