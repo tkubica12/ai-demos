@@ -31,3 +31,6 @@ openai/vector_databases/data/
 
 .terraform
 .terraform.lock.hcl
+
+runs/
+yolo/*.pt
