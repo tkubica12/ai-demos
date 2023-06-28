@@ -34,3 +34,10 @@ openai/vector_databases/data/
 
 runs/
 yolo/*.pt
+yolo/*_saved_*
+yolo/datasets/coco8
+benchmarks.log
+yolo/*.torchscript
+yolo/*.onnx
+yolo/models/*/*/*.pt
+yolo/models/*/*/*.onnx
