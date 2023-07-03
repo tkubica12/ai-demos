@@ -41,3 +41,7 @@ yolo/*.torchscript
 yolo/*.onnx
 yolo/models/*/*/*.pt
 yolo/models/*/*/*.onnx
+yolo/val2017.zip
+yolo/test2017.zip
+yolo/val2017
+yolo/test2017
