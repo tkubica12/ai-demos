@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: triton
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: triton
+  template:
+    metadata:
+      labels:
+        app: triton
+    spec:
+      containers:
+        - name: triton
+          image: nvcr.io/nvidia/tritonserver:23.05-py3
+          command: ["/opt/tritonserver/bin/tritonserver"]
+          args: 
+            - "--model-repository=as://{{ .Values.storage_account_name }}/models"
+          env:
+            - name: AZURE_STORAGE_ACCOUNT
+              value: {{ .Values.storage_account_name }}
+            - name: AZURE_STORAGE_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: storage
+                  key: azure_storage_key
+          ports:
+            - containerPort: 8000
+              name: http
+            - containerPort: 8001
+              name: grpc
+            - containerPort: 8002
+              name: metrics
+          resources:
+            limits:
+              cpu: 0.1
+              memory: 1Gi
