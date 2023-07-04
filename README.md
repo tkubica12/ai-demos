@@ -4,3 +4,4 @@ This repository contains a collection of demos for AI using Azure services such 
 - [Azure Machine Learning](./azureml/README.md)
 - [Azure OpenAI Service](./openai/README.md)
 - [YOLOv8 - open source computer vision model](./yolo/README.md)
+- [Image Search](./image_search/README.md)
