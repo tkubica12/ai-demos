@@ -27,7 +27,7 @@ azureml/local_dev/localdata/
 lightning_logs/
 
 vector_database_wikipedia_articles_embedded.zip
-openai/vector_databases/data/
+vector_databases/data/
 
 .terraform
 .terraform.lock.hcl
