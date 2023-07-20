@@ -6,3 +6,4 @@ This repository contains a collection of demos for AI using Azure services such 
 - [Vector search databases in Azure](./vector_databases/README.md)
 - [YOLOv8 - open source computer vision model](./yolo/README.md)
 - [Image Search](./image_search/README.md)
+- [Llama](./llama/README.md)
