@@ -47,3 +47,8 @@ yolo/val2017
 yolo/test2017
 image_search/val2017
 image_search/test2017
+
+transformer/azure-docs
+transformer/azure-docs*
+transformer/azure-docs.md
+transformer/mingpt
