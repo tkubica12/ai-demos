@@ -56,4 +56,6 @@ transformer/data/azure_docs/*.md
 transformer/model.py
 transformer/train.py
 transformer/configurator.py
+transformer/sample.py
+transformer/azure_docs_out/
 */__pycache__
