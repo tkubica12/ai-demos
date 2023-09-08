@@ -51,4 +51,9 @@ image_search/test2017
 transformer/azure-docs
 transformer/azure-docs*
 transformer/azure-docs.md
-transformer/mingpt
+transformer/data/azure_docs/*.bin
+transformer/data/azure_docs/*.md
+transformer/model.py
+transformer/train.py
+transformer/configurator.py
+*/__pycache__
