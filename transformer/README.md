@@ -23,3 +23,11 @@ We are going to use GPT2 124M using 1024 block size (context window). Few notes 
 - GPT2 XL 1,5B finetuned with out data
 - GPT2 XL 1,5B with downloaded weights + in-context learning
 
+## Compare GPU A100 time taken
+- 3 hours with our 124M GPT2 model on 72k tokens
+- 3 minutes to finetune 124M GPT model with 50 iterations and 9 minutes to finetune GPT2 XL 1,5B with 20 iterations
+- 184320 hours to train 7B Llama 2 on 2T tokens
+- 1720320 hours to train 70B Llama 2 on 2T tokens (this is almost 200 years with single GPU)
+- Current models such as GPT-4 or PaLM2 are told to be in hundreds of billions parameters
+- Rumors are that next-get such as OpenAI GPT-5 or Google Gemini are beyond trillion (can you image costs associated with this?!)
+
