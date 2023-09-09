@@ -58,4 +58,6 @@ transformer/train.py
 transformer/configurator.py
 transformer/sample.py
 transformer/azure_docs_out/
+transformer/azure_docs_finetuning_out/
+transformer/azure_docs_finetuning_xl_out/
 */__pycache__

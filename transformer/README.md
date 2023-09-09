@@ -19,5 +19,7 @@ We are going to use GPT2 124M using 1024 block size (context window). Few notes 
 - GPT2 124M with downloaded weights
 - GPT2 124M trained from scratch using our data
 - GPT2 124M finetuned with out data
-- GPT2 124M with downloaded weights + in-context learning
+- GPT2 124M with downloaded weights + in-context 
+- GPT2 XL 1,5B finetuned with out data
+- GPT2 XL 1,5B with downloaded weights + in-context learning
 
