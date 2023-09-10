@@ -1,0 +1,1 @@
+In order to configure two Azure Virtual Networks in two different regions to communicate with each other you need to 
