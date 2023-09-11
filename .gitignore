@@ -61,3 +61,4 @@ transformer/azure_docs_out/
 transformer/azure_docs_finetuning_out/
 transformer/azure_docs_finetuning_xl_out/
 */__pycache__
+transformer/llama-2-70b/
