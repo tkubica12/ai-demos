@@ -1,3 +1,9 @@
+Overriding: out_dir = azure_docs_finetuning_xl_out
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: start = FILE:prompts/enhanced-1000.txt
+number of parameters: 1555.97M
+No meta.pkl found, assuming GPT-2 encodings...
 # Virtual network peering
 
 Virtual network peering enables you to seamlessly connect two or more [Virtual Networks](virtual-networks-overview.md) in Azure. The virtual networks appear as one for connectivity purposes. The traffic between virtual machines in peered virtual networks uses the Microsoft backbone infrastructure. Like traffic between virtual machines in the same network, traffic is routed through Microsoft's *private* network only.
@@ -48,3 +54,16 @@ Virtual network peering enables the next hop in a user-defined route to be the I
 -----------------------------------
 
 In order to configure two Azure Virtual Networks in two different regions to communicate with each other you need to 
+ * [Make sure that they have the same prefix so that all the traffic is sent through the same backbone gateway](../azure-networks/configure-virtual-network-peering.md).
+* [Make sure that they're on the same subnet](../azure-networks/configure-virtual-network-peering.md#subnets-within-virtual-network). On the Azure portal, access the Azure Virtual Networks management console and select the local subnet in the **VirtualNetworkPeering Status** section.
+
+**Important:** Make sure that the same prefix is used in both regions for all the virtual machines in the peered virtual networks to ensure that only one virtual network is ever down.
+
+**Note:** Subnets used for peering are assumed to be on the same subnet, subnet mask, or subnets in the AS subnet table. If you use a subnet mask in the AS table, make sure to use the same subnet mask in the peered virtual networks.
+
+## Requirements
+
+* You need to be deployed on the same Azure subscription as the virtual network.
+* Set up both networks in their own virtual network.
+* The default settings of the virtual networks don't allow peering between them.<|endoftext|>According to the source, the new design of the current-generation Porsche 911 has a significant number of changes and is still in the testing phase. The following
+---------------

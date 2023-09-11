@@ -113,5 +113,6 @@ Gateway Transit is a peering property that enables a virtual network to utilize 
 >[!NOTE]
 > A previous version of this document stated that virtual network peering charges would not apply on the spoke VNet (or non-gateway VNet) with Gateway Transit. It now reflects accurate pricing per the pricing page.
 
+-----------------------------------
 
 In order to configure two Azure Virtual Networks in two different regions to communicate with each other you need to 
