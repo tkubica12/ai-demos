@@ -1,0 +1,14 @@
+torch 
+torchvision 
+torchtext 
+lightning 
+matplotlib 
+numpy 
+pandas 
+scikit-learn 
+tensorboard 
+torchsummary 
+ultralytics 
+opencv-python 
+tiktoken 
+transformers
