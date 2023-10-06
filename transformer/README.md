@@ -31,3 +31,8 @@ We are going to use GPT2 124M using 1024 block size (context window). Few notes 
 - Current models such as GPT-4 or PaLM2 are told to be in hundreds of billions parameters
 - Rumors are that next-get such as OpenAI GPT-5 or Google Gemini are beyond trillion (can you image costs associated with this?!)
 
+Training is not only problem:
+- Biggest open source model as of this writing (Falcon 180B) requires 640GB of GPU run for inference - you need 8x A100 in its more expensive 80GB RAM version just to run the model
+- Model can be quantized to reduce memory footprint, but on expense of quality
+- 
+

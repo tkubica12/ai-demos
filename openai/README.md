@@ -16,3 +16,6 @@ See example data and code in [src/parsing](./src/parsing/) folder.
 
 ## Embeddings (similarity search)
 Example with movie descriptions: [notebooks/movies.ipynb](./notebooks/movies.ipynb
+
+## Chat
+Chatbot for shopping assistant for presents. Prompt-engineered to offer only in selected category, loading customer memory, using OpenAI function to call database for getting stock items.

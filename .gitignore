@@ -62,3 +62,6 @@ transformer/azure_docs_finetuning_out/
 transformer/azure_docs_finetuning_xl_out/
 */__pycache__
 transformer/llama-2-70b/
+langchain/rag/azuredocs.faiss
+langchain/rag/azuredocs.pkl
+langchain/chat_step_by_step/__pycache__/
