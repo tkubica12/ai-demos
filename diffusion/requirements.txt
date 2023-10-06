@@ -1,0 +1,10 @@
+diffusers
+transformers 
+ipywidgets
+huggingface_hub
+accelerate 
+scipy 
+safetensors
+imageio
+imageio[ffmpeg]
+invisible_watermark 
