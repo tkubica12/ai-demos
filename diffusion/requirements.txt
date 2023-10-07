@@ -8,3 +8,4 @@ safetensors
 imageio
 imageio[ffmpeg]
 invisible_watermark 
+dotenv
