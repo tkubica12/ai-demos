@@ -65,3 +65,4 @@ transformer/llama-2-70b/
 langchain/rag/azuredocs.faiss
 langchain/rag/azuredocs.pkl
 langchain/chat_step_by_step/__pycache__/
+embeddings_test/cc.cs.300*
