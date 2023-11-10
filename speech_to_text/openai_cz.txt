@@ -1,0 +1,1 @@
+Ahoj, tady Tomáš Kupica a tohle je zkušený nahrávka pro speech-to-text.  Právě věci jako míchaní češtiny s angličtinou,  pražské modifikace typu Hustej Borec,  novotvary jako je Četovat,  či jména jako je Líbeznice, Zámek Valtice,  nebo aortální stenóza,  nebo různé pauzy a výplně  mohou modelům dělat problémy. 

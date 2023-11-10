@@ -1,0 +1,1 @@
+Ahoj, tady Tomáš Kubica a tohle je zkušební nahrávka pro speech to text. Právě věci jako míchání češtiny s angličtinou, pražské modifikace typu hustej borec, novotvary jako je chatovat či jména jako je Líbeznice, Zámek Valtice nebo aortální stenóza nebo různé ehmmm pauzy a výplně, mohou modelům dělat problémy.
