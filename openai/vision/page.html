@@ -1,60 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Company Website</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-  }
-  .header {
-    width: 100%;
-    padding: 2rem;
-    background-color: #f0f0f0;
-    text-align: center;
-    margin-bottom: 1rem;
-  }
-  .sidebar {
-    width: 20%;
-    float: left;
-    padding: 1rem;
-    background-color: #e0e0e0;
-    height: calc(100vh - 4rem); /* Subtract header and footer height */
-  }
-  .main-content {
-    width: 78%; /* Sidebar width + some margin */
-    float: left;
-    padding: 1rem;
-    background-color: #e8e8e8;
-    margin-left: 2%;
-  }
-  .footer {
-    clear: both;
-    width: 100%;
-    padding: 1rem;
-    background-color: #f0f0f0;
-    text-align: center;
-    position: absolute;
-    bottom: 0;
-  }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Company</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="header">
-  <h1>Our Company</h1>
-</div>
-<div class="sidebar">
-  <h2>Menu</h2>
-  <!-- Add menu items here -->
-</div>
-<div class="main-content">
-  <h2>What's new</h2>
-  <!-- Add content here -->
-</div>
-<div class="footer">
-  <p>Links to our social media</p>
-  <!-- Add social media links here -->
-</div>
+  <header>
+    <h1>Our company</h1>
+  </header>
+  
+  <aside id="sidebar">
+    <nav>
+      <h2>Menu</h2>
+      <ul>
+        <li><a href="#blog">Blog</a></li>
+        <li><a href="#history">History</a></li>
+        <li><a href="#products">Products</a></li>
+      </ul>
+    </nav>
+  </aside>
+  
+  <main>
+    <section id="whats-new">
+      <h2>What's new</h2>
+      <!-- Content for what's new -->
+    </section>
+    <!-- Other main content goes here -->
+  </main>
+  
+  <footer>
+    <p>Links to our social media</p>
+    <!-- Social media links go here -->
+  </footer>
 </body>
 </html>
