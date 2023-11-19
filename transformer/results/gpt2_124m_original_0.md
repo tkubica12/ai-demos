@@ -1,12 +1,3 @@
-Overriding: init_from = gpt2
-Overriding: num_samples = 1
-Overriding: max_new_tokens = 300
-Overriding: start = FILE:prompts/basic.txt
-loading weights from pretrained gpt: gpt2
-forcing vocab_size=50257, block_size=1024, bias=True
-overriding dropout rate to 0.0
-number of parameters: 123.65M
-No meta.pkl found, assuming GPT-2 encodings...
 In order to configure two Azure Virtual Networks in two different regions to communicate with each other you need to  Install Azure Web Services  and we need to add  many-access authentication rules to our VM.
 An example of how to do this would be to test .NET 8.0 and .NET Core 5.0 deployments.
 In the wizard, see "Add an Azure Active Directory Server" , we set UPnP to our new virtual environment as shown above.

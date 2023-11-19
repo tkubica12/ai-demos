@@ -1,9 +1,3 @@
-Overriding: out_dir = azure_docs_finetuning_out
-Overriding: num_samples = 1
-Overriding: max_new_tokens = 300
-Overriding: start = FILE:prompts/basic.txt
-number of parameters: 123.65M
-No meta.pkl found, assuming GPT-2 encodings...
 In order to configure two Azure Virtual Networks in two different regions to communicate with each other you need to  enable any existing configuration rules that are created in the Azure Virtual Network configuration in the Azure Virtual Network interface.
 
 1.1.1. Download an  Azure Network configuration created in the Azure Virtual Network interface.
