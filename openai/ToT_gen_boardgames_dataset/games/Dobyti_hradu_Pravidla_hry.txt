@@ -1,0 +1,26 @@
+Nazev hry: Dobytí hradu
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Dobytí hradu je vzrušující desková hra plná strategie a dobrodružství, kde se hráči stávají rytíři, kteří se snaží dobýt nepřátelský hrad. Tato kapitola poskytuje podrobné pravidla pro hru.
+
+1. Příprava hry: 
+Každý hráč si vybere rytířskou figurku, kterou umístí na startovací pole. Každý hráč dostane také sadu karet s výbavou, která obsahuje zbraně, brnění a léčivé lektvary.
+
+2. Průběh hry: 
+Hráči se střídají v tazích, které se skládají z pohybu a akce. Pohyb rytíře je určen hozením kostky. Akce mohou zahrnovat boj s nepřáteli, vyhýbání se pastem nebo využití předmětů z výbavy.
+
+3. Pasti a nepřátelé: 
+Na hracím poli jsou rozmístěny pasti a nepřátelé. Pokud hráč vstoupí na pole s pastí, musí splnit určitý úkol nebo přijmout trest. Pokud hráč vstoupí na pole s nepřítelem, musí se střetnout v boji.
+
+4. Boj:
+Boj se uskuteční tak, že hráč a nepřítel hodí kostkou. Hráč může využít své zbraně a brnění pro zvýšení svého skóre. Pokud hráč porazí nepřítele, získá odměnu.
+
+5. Dobytí hradu:
+Hráč musí dorazit na konečné pole, které představuje nepřátelský hrad. Zde musí porazit strážce hradu v závěrečném boji. První hráč, který toto dokáže, vyhrává hru.
+
+6. Konec hry:
+Hra končí, když jeden z hráčů dobyje hrad. Pokud žádný hráč nedobyje hrad do určitého počtu kol, vyhrává hráč s největším počtem bodů.
+
+Dobytí hradu je strategická hra, která vyžaduje plánování a rozhodování. Každé rozhodnutí může ovlivnit výsledek hry, takže si dobře promyslete své tahy!

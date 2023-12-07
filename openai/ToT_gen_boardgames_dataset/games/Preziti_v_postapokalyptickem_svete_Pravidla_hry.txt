@@ -1,0 +1,29 @@
+Nazev hry: Přežití v postapokalyptickém světě
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Přežití v postapokalyptickém světě je dobrodružná desková hra, která testuje vaše schopnosti přežití a strategické myšlení. Hra je určena pro 2 až 6 hráčů a začíná se v centru herní desky, ve vyhořelé metropoli.
+
+1. Příprava hry: 
+Každý hráč si vybere postavu a umístí její figurku do centra herní desky. Každý hráč obdrží také 5 karet zásob (jídlo, voda, nástroje) a 3 karty dovedností (boj, stavba, hledání). 
+
+2. Průběh hry:
+Hra probíhá v kolech, přičemž v každém kole má každý hráč možnost provést dvě akce - pohyb, hledání zásob, stavbu úkrytu nebo boj s nepřáteli. Hráči se střídají v tahu podle směru hodinových ručiček.
+
+3. Pohyb:
+Hráč může pohnout svou figurkou o jedno políčko v libovolném směru. Pokud se hráč přesune na políčko s nepřítelem, musí se s ním utkat v boji.
+
+4. Hledání zásob:
+Hráč může za akci vyhledat zásoby na svém políčku. K tomu použije kartu dovednosti "Hledání". Pokud je úspěšný, získá kartu zásob.
+
+5. Stavba úkrytu:
+Hráč může za akci postavit úkryt, pokud má dostatek zásob a použije kartu dovednosti "Stavba". Úkryt chrání hráče před nepřáteli a umožňuje mu regenerovat zdraví.
+
+6. Boj s nepřáteli:
+Pokud se hráč ocitne na stejném políčku s nepřítelem, musí s ním bojovat. To provede tak, že použije kartu dovednosti "Boj". Pokud hráč vyhraje, získá odměnu. Pokud prohraje, ztrácí zdraví.
+
+7. Konec hry:
+Hra končí, když všichni hráči zemřou nebo když některý hráč dosáhne cílového počtu bodů přežití. Bod přežití získáváte za každý úspěšně postavený úkryt, za každého nepřítele, kterého porazíte, a za každou zásobu, kterou najdete.
+
+Hra Přežití v postapokalyptickém světě je plná dobrodružství a přežití, kde každé rozhodnutí může znamenat rozdíl mezi životem a smrtí. Připravte se na výzvu a ukažte, zda máte to, co je třeba k přežití v tomto drsném světě.

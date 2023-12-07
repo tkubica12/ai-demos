@@ -1,0 +1,20 @@
+Nazev hry: Poklad ztraceného města
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+1. Herní deska: Herní deska představuje divokou džungli plnou nástrah a tajemství. Na desce je zobrazena cesta, která hráče vede k ztracenému městu. Každé políčko na cestě může představovat různé překážky nebo události, které hráči musí překonat.
+
+2. Figurky hráčů: Každý hráč má k dispozici figurku, která reprezentuje jeho postavu v hře. Tyto figurky se pohybují po herní desce a jejich pohyb je určen hodem kostkou.
+
+3. Kostka: Kostka slouží k určení počtu kroků, které může hráč udělat během svého tahu. Kostka může také sloužit k rozhodování v různých situacích, například při boji s divokými zvířaty nebo při překonávání překážek.
+
+4. Karty událostí: Během hry můžou hráči narazit na různé události, které mohou ovlivnit jejich postup. Tyto události jsou reprezentovány kartami, které hráči otočí v případě, že na ně narazí na herní desce. Karty mohou obsahovat různé nástrahy, ale také užitečné nástroje nebo pomoc.
+
+5. Poklad: Cílem hry je najít poklad ztraceného města. Poklad je reprezentován speciální kartou, která je umístěna na konci cesty na herní desce.
+
+6. Žetony zdraví: Každý hráč má na začátku hry určitý počet žetonů zdraví. Pokud hráč během hry ztratí všechny žetony zdraví, je vyřazen z hry. Žetony zdraví mohou být ztraceny při boji s divokými zvířaty, při překonávání nástrah nebo vlivem událostí z karet.
+
+7. Nástroje: Během hry mohou hráči získat různé nástroje, které jim pomohou překonat nástrahy a události. Nástroje jsou reprezentovány kartami, které hráči mohou získat během svého tahu.
+
+8. Divoká zvířata: Na herní desce se mohou objevit i divoká zvířata, která mohou hráčům způsobit problémy. Boj s divokými zvířaty je řešen pomocí hodu kostkou.

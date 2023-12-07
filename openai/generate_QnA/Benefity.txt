@@ -1,0 +1,26 @@
+Otázka: Jaký je postup pro výběr dovolené?
+Odpověď: Přihlaš se do systému TomDovolená a vyber si termín, který ti vyhovuje. Ale nezapomeň, že musíš dodržet pravidla o maximální délce dovolené. A pamatuj, že nejsi jediný, kdo potřebuje odpočinek, takže se nezlob, když ti někdo ukradne tvůj vysněný termín.
+
+Otázka: Jak se přihlásím na povinné školení?
+Odpověď: Přihlaš se do systému TomŠkolení a podívej se na seznam nadcházejících školení. Ale nezapomeň, že pokud se na něco přihlásíš, je to jako slib, že tam přijdeš. A ne, bohužel nemůžeš poslat svou rostlinu místo sebe.
+
+Otázka: Jak se připojím na vzdálený server?
+Odpověď: Pokud chceš pracovat z domova nebo z kavárny, můžeš použít TomPřipojení. Ale nezapomeň, že připojení na server z veřejné Wi-Fi je jako plavat v bazénu plném piraní. Takže raději použij své mobilní data.
+
+Otázka: Jak objednám kancelářské potřeby?
+Odpověď: Pokud potřebuješ nové kancelářské potřeby, můžeš je objednat přes systém TomObjednávky. Ale nezapomeň, že to není vánoční seznam přání. Takže pokud objednáš 500 propisek, můžeš skončit s prázdnou.
+
+Otázka: Jak si zarezervuji konferenční místnost?
+Odpověď: Pokud potřebuješ konferenční místnost, můžeš si ji zarezervovat přes systém TomRezervace. Ale nezapomeň, že pokud ji rezervuješ a nepoužiješ, můžeš skončit jako osoba, která vykázala tým programátorů do chladu.
+
+Otázka: Jak se přihlásím na firemní večírek?
+Odpověď: Pokud se chceš zúčastnit firemního večírku, můžeš se přihlásit přes systém TomVečírek. Ale nezapomeň, že pokud se přihlásíš a nepřijdeš, můžeš skončit jako ten, kdo zmeškal nejlepší karaoke ročníku.
+
+Otázka: Jaký je postup pro objednání služebního auta?
+Odpověď: Pokud potřebuješ služební auto, můžeš ho objednat přes systém TomAuto. Ale nezapomeň, že pokud ho rezervuješ a nepoužiješ, můžeš skončit jako ten, kdo nechal kolegu stát na dešti.
+
+Otázka: Jak se přihlásím na firemní sportovní akci?
+Odpověď: Pokud se chceš zúčastnit firemní sportovní akce, můžeš se přihlásit přes systém TomSport. Ale nezapomeň, že pokud se přihlásíš a nepřijdeš, můžeš skončit jako ten, kdo zmeškal šanci stát se hrdinou fotbalového zápasu.
+
+Otázka: Jak se přihlásím na firemní teambuilding?
+Odpověď: Pokud se chceš zúčastnit firemního teambuildingu, můžeš se přihlásit přes systém TomTeambuilding. Ale nezapomeň, že pokud se přihlásíš a nepřijdeš, můžeš skončit jako ten, kdo zmeškal šanci stát se králem paintballu.

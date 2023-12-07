@@ -1,0 +1,22 @@
+Nazev hry: Záhada strašidelného domu
+Kapitola: Pravidla hry
+
+Pravidla hry
+
+Záhada strašidelného domu je vzrušující dobrodružná hra, která vyžaduje strategii, pozornost a silné detektivní dovednosti. Hráči se vžívají do role detektiva, který se snaží odhalit tajemství strašidelného domu. Následujte tato pravidla, aby byla vaše hra co nejlepší a nejvíce napínavá.
+
+1. Příprava hry: Rozložte herní plán domu na stůl a postavte na startovní pole svoji detektivní figurku. Každý hráč si náhodně vybere jednu záhadnou kartu, která určuje, jakou záhadu musí vyřešit. Zbylé karty se umístí lícem dolů vedle herního plánu.
+
+2. Průběh hry: Hráči se střídají v tazích, které se skládají z pohybu a akce. Pohyb je omezen na čtyři pole za tah a hráč se může pohybovat jakýmkoli směrem, s výjimkou pohybu skrz zdi. Akce mohou zahrnovat prozkoumání místnosti, sběr důkazů nebo vyhýbání se pastem.
+
+3. Prozkoumávání místností: Pokud se hráč nachází v místnosti, může se rozhodnout ji prozkoumat. To se provádí tak, že si hráč vezme vrchní kartu z balíčku místností a postupuje podle pokynů na kartě.
+
+4. Sběr důkazů: Během svého tahu může hráč sbírat důkazy, pokud se nachází v místnosti s důkazem. Důkaz se získá tím, že se odstraní z herního plánu a přidá do hráčovy zásoby.
+
+5. Pasti: Některé místnosti obsahují pasti, které mohou hráče zranit nebo zdržet. Pokud hráč vstoupí do místnosti s pastí, musí si vzít kartu pasti a postupovat podle pokynů na kartě.
+
+6. Řešení záhady: Hráč, který sbírá všechny potřebné důkazy a vrátí se na startovní pole, může pokusit se vyřešit záhadu. Pokud hráč správně vyřeší záhadu, vyhrává hru. Pokud hráč chybně vyřeší záhadu, musí pokračovat v hře a nemůže se pokusit o řešení záhady znovu až do svého dalšího tahu.
+
+7. Konec hry: Hra končí, když jeden z hráčů úspěšně vyřeší záhadu strašidelného domu. Pokud žádný z hráčů nesplní úkol do 30 kol, vyhraje hráč s nejvíce nasbíranými důkazy.
+
+Pamatujte, že hlavním cílem hry je zábava a dobrodružství. Přeji vám hodně štěstí při řešení Záhady strašidelného domu!

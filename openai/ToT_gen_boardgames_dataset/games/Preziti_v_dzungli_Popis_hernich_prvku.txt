@@ -1,0 +1,20 @@
+Nazev hry: Přežití v džungli
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+Hra Přežití v džungli je plná rozmanitých herních prvků, které hráči využívají k tomu, aby přežili v nehostinném prostředí divoké džungle. 
+
+1. Herní deska: Herní deska představuje mapu džungle, kterou hráči prozkoumávají. Obsahuje různé druhy terénů, jako jsou řeky, jezera, hory, jeskyně, bažiny či husté porosty. Každý terén má své specifické vlastnosti a výzvy. 
+
+2. Hrací karty: Hrací karty představují různé události, objekty nebo zvířata, se kterými se hráči mohou setkat. Mohou to být například zásoby jídla, čisté vody, nástroje, zbraně, pasti, divoká zvířata, nepřátelské kmeny nebo nepředvídatelné události, jako jsou bouřky nebo zemětřesení.
+
+3. Herní figurky: Každý hráč má svou figurku, kterou pohybuje po herní desce. Figurka symbolizuje postavu hráče uvězněnou v džungli.
+
+4. Žetony zdraví, jídla a vody: Tyto žetony hráči používají k sledování svého aktuálního stavu zdraví, jídla a vody. Pokud hráči dojdou zásoby jídla nebo vody nebo poklesne jejich zdraví na nulu, hra pro ně končí.
+
+5. Žetony staveb: Tyto žetony hráči používají k označení míst, kde postavili svůj úkryt nebo jiné stavby. Stavby mohou hráčům poskytnout ochranu, jídlo, vodu nebo jiné výhody.
+
+6. Kostky: Kostky se používají k rozhodování o výsledcích některých akcí, jako je boj s divokými zvířaty, hledání jídla nebo stavba úkrytů.
+
+Přežití v džungli je hra plná dobrodružství a napětí, kde každé rozhodnutí může mít zásadní dopad na přežití hráče. Díky bohaté škále herních prvků nabízí hra mnoho strategií a cest k přežití.

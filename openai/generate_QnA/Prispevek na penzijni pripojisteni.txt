@@ -1,0 +1,41 @@
+Odpověď: Pro zjištění svého příspěvku na penzijní připojištění se připoj do systému TomPension. Tam najdeš všechny podrobnosti o svém účtu. Ale pamatuj, že penze je daleko, takže se nesnaž ušetřit na kávě, abys mohl přidat více peněz do svého fondu.
+
+Oblast: Jak tisknout
+
+Otázka: Jak mohu tisknout dokumenty z mého počítače?
+Odpověď: Otevři dokument, který chceš vytisknout, a klikni na "Soubor" a poté na "Tisk". Poté vyber tiskárnu TomTisk a klikni na "Tisknout". Ale nezapomeň, že každý list papíru je důležitý, takže pokud můžeš, tiskni oboustranně.
+
+Otázka: Jak mohu tisknout na oboustranně?
+Odpověď: Při tisku dokumentu zvol možnost "Oboustranný tisk" v nastavení tiskárny TomTisk. Ale pamatuj, že pokud je tvůj dokument třístránkový, třetí strana bude tisknuta samostatně. To není chyba, to je feature.
+
+Oblast: Výběr dovolené
+
+Otázka: Jak mohu vybrat termín dovolené?
+Odpověď: Pro výběr termínu dovolené použij systém TomHoliday. Tam můžeš vidět dostupnost a vybrat si termín, který ti nejlépe vyhovuje. Ale nezapomeň, že pokud si vybereš dovolenou v době, kdy má všichni ostatní, může se stát, že budeš muset pracovat z pláže.
+
+Otázka: Jak mohu zjistit, kolik dní dovolené mi zbývá?
+Odpověď: Připoj se do systému TomHoliday a jdi do sekce "Můj účet". Tam najdeš zůstatek svých dní dovolené. Ale pamatuj, že pokud nevyužiješ všechny své dny, neznamená to, že můžeš příští rok pracovat méně.
+
+Oblast: Povinná školení
+
+Otázka: Jak se mohu přihlásit na povinné školení?
+Odpověď: Pro přihlášení na povinné školení použij systém TomTraining. Vyber si školení, na které se chceš přihlásit, a klikni na "Přihlásit se". Ale nezapomeň, že pokud se přihlásíš a nepřijdeš, bude to znamenat, že budeš muset absolvovat školení o etice.
+
+Otázka: Jak mohu zjistit, která školení jsou pro mě povinná?
+Odpověď: Připoj se do systému TomTraining a jdi do sekce "Mé školení". Tam najdeš seznam všech školení, které musíš absolvovat. Ale pamatuj, že pokud se ti některé školení nezdá zajímavé, to ještě neznamená, že ho můžeš vynechat.
+
+Oblast: Vzdálené připojení
+
+Otázka: Jak se mohu vzdáleně připojit k síti firmy?
+Odpověď: Pro vzdálené připojení k síti firmy použij systém TomConnect. Sleduj instrukce a budeš moci pracovat z jakéhokoli místa na světě. Ale nezapomeň, že pokud se připojíš z pláže, můžeš být požádán, abys udělal prezentaci o svých dojmech.
+
+Otázka: Jak mohu resetovat své heslo pro vzdálené připojení?
+Odpověď: Pokud potřebuješ resetovat své heslo pro vzdálené připojení, použij systém TomConnect a jdi do sekce "Zapomenuté heslo". Tam můžeš zadat nové heslo. Ale pamatuj, že pokud zvolíš heslo "123456", systém tě požádá, abys ho změnil.
+
+Oblast: Objednávání kancelářských potřeb
+
+Otázka: Jak mohu objednat kancelářské potřeby?
+Odpověď: Pro objednání kancelářských potřeb použij systém TomSupplies. Tam můžeš vybrat vše, co potřebuješ, a přidat to do svého košíku. Ale nezapomeň, že pokud objednáš 1000 tužek, budeme tě považovat za závislého na papírových výrobcích.
+
+Otázka: Jak mohu zkontrolovat stav své objednávky kancelářských potřeb?
+Odpověď: Připoj se do systému TomSupplies a jdi do sekce "Moje objednávky". Tam najdeš všechny své objednávky a jejich stav. Ale pamatuj, že pokud objednáš 1000 tužek a pak zjistíš, že jsi chtěl pera, bude to tvůj problém.

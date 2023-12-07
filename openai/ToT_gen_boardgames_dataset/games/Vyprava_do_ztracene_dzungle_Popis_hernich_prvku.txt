@@ -1,0 +1,20 @@
+Nazev hry: Výprava do ztracené džungle
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+Herní deska: Reprezentuje neznámou džungli, kterou musíte prozkoumat. Je rozdělena na několik políček, které představují různé typy terénu jako jsou bažiny, husté pralesy, horské oblasti atd. Každé pole má svá specifika a může na vás čekat různé nebezpečí.
+
+Dobrodružné karty: Reprezentují různé události, které se mohou stát během vašeho putování džunglí. Může se jednat o setkání s divokými zvířaty, nalezení skrytých pokladů, nástrahy nebo nečekané překážky. Tyto karty můžou být jak přínosem, tak i překážkou na vaší cestě.
+
+Předmětové karty: Tyto karty představují různé předměty, které můžete během své cesty najít nebo získat. Může se jednat o zbraně, léky, jídlo, nástroje a další vybavení, které vám pomůže přežít v nehostinném prostředí džungle.
+
+Karty ztraceného města: Těmito kartami je označen cíl vaší výpravy - ztracené město. Jsou zahrnuty v balíčku dobrodružných karet a jejich nalezení vám přinese velký bonus. Ale pozor, cesta k nim nebude jednoduchá.
+
+Karty postav: Každý hráč zastupuje jednu postavu s unikátními schopnostmi a vlastnostmi. Postavy se liší svými zdravotními body, silou, obratností a dalšími schopnostmi, které mohou být v průběhu hry vylepšovány.
+
+Kostky: Slouží k rozhodování o výsledku různých akcí, jako je boj s divokými zvířaty, překonávání překážek nebo hledání zdrojů. Počet hodů a potřebný výsledek se liší podle konkrétní situace.
+
+Žetony: Reprezentují různé herní prvky, jako jsou zdraví, energie, zásoby jídla a vody, munice a další. Žetony jsou klíčové pro sledování vašeho stavu a zásob.
+
+Výprava do ztracené džungle je hra plná nečekaných událostí a rozhodování, které může znamenat rozdíl mezi přežitím a smrtí. Každý herní prvek má svou roli a ovlivňuje průběh hry. Je na vás, jak je využijete k dosažení svého cíle.

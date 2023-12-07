@@ -1,0 +1,31 @@
+Oblast: Nefunkční klimatizace
+
+Otázka: Co mám dělat, když nefunguje klimatizace v mé kanceláři?
+Odpověď: Nezoufej a hlavně se nesnaž opravovat klimatizaci sám. Otevři si aplikaci TomHelp a zašlete žádost o opravu. Mezitím si můžeš jít pro vějířek na recepci.
+
+Otázka: Kdy můžu očekávat, že bude klimatizace opravena?
+Odpověď: Tým TomHelp se snaží opravit všechny problémy co nejdříve, ale záleží na závažnosti problému. Snaž se být trpělivý a mezitím se osvěžuj studenou vodou z lednice.
+
+Otázka: Jak můžu upravit teplotu v mém kancelářském prostoru?
+Odpověď: Pro regulaci teploty využij panel TomTemp, který se nachází u vchodu do každé kanceláře. Ale nezapomeň, že je třeba dbát na pohodlí všech, takže žádné experimenty s polárními teplotami.
+
+Otázka: Co mám dělat, pokud mi je příliš zima, i když klimatizace funguje?
+Odpověď: Zkuste si obléknout vrstvy. Pokud to nepomůže, můžete se pokusit přesvědčit své kolegy, aby se společně rozhodli zvýšit teplotu na panelu TomTemp. Nebo si můžete objednat horký čaj z TomCafe.
+
+Otázka: Kdo je zodpovědný za údržbu klimatizace?
+Odpověď: Tým TomHelp zajišťuje údržbu a opravy klimatizace. Pokud máš jakékoliv otázky nebo potřebuješ pomoc, neváhej se na ně obrátit.
+
+Otázka: Jak často se provádí údržba klimatizace?
+Odpověď: Pravidelná údržba klimatizace se provádí každý rok na začátku léta, ale pokud se objeví problémy, může se provést další údržba.
+
+Otázka: Co když je klimatizace příliš hlučná?
+Odpověď: Pokud je klimatizace příliš hlučná, může to znamenat, že potřebuje údržbu. Oznám to týmu TomHelp a oni se postarají o zbytek.
+
+Otázka: Je možné vypnout klimatizaci v mé kanceláři?
+Odpověď: Ano, můžeš vypnout klimatizaci pomocí panelu TomTemp. Ale pamatuj, že pokud vypneš klimatizaci, může to ovlivnit teplotu v celém budově.
+
+Otázka: Co když mi klimatizace vysušuje oči?
+Odpověď: Pokud ti klimatizace vysušuje oči, můžeš zkusit použít umělé slzy nebo se poradit s týmem TomHelp, jestli lze nastavit nižší průtok vzduchu.
+
+Otázka: Kde mohu najít více informací o klimatizaci?
+Odpověď: Pro více informací o klimatizaci si můžeš přečíst příručku TomClimate nebo se obrátit na tým TomHelp.

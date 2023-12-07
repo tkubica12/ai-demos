@@ -1,0 +1,91 @@
+Oblast: Zapomenuté heslo
+
+1. Otázka: Jak resetuji zapomenuté heslo do svého pracovního účtu?
+   Odpověď: Přejdi na stránku TomReset a klikni na tlačítko "Zapomněli jste heslo?". Sleduj pokyny a nezapomeň, že nové heslo by mělo být tak komplikované, že ho zapomeneš hned, jak ho zadáš.
+
+2. Otázka: Mohu používat stejné heslo jako dříve po resetování?
+   Odpověď: Ne, systém TomReset je chytrý a nepovolí ti použít stejné heslo dvakrát. Je to jako s pokusem jíst dvakrát stejný donut.
+
+3. Otázka: Jak dlouho trvá, než mi přijde email pro resetování hesla?
+   Odpověď: TomReset je rychlejší než rychlovarná konvice. Měl bys dostat email během pár minut.
+
+4. Otázka: Co když mi email pro resetování hesla nepřijde?
+   Odpověď: Zkontroluj složku se spamem. Pokud tam není, počkej pár minut. Pokud pořád nic, tak to zkus znovu. TomReset je občas trochu zlobivý.
+
+5. Otázka: Jak silné by mělo být mé nové heslo?
+   Odpověď: Silné jako Thorův kladivo. Použij kombinaci velkých a malých písmen, čísel a speciálních znaků.
+
+6. Otázka: Musím měnit heslo každých 30 dní?
+   Odpověď: Ano, je to jako měsíční úklid. TomReset tě upozorní, když bude čas.
+
+7. Otázka: Zapomněl jsem odpověď na svou bezpečnostní otázku, co mám dělat?
+   Odpověď: To je doopravdy trapas. Ale nezoufej, kontaktuj naši IT podporu a budou ti schopni pomoci.
+
+8. Otázka: Co když zapomenu heslo k TomReset?
+   Odpověď: To je jako zapomenout, kde máš klíče od auta, když sedíš v autě. Ale neboj, naše IT podpora ti pomůže.
+
+9. Otázka: Mohu si vybrat vlastní bezpečnostní otázku?
+   Odpověď: Ano, můžeš. Ale pokud si vybereš "Jaké je moje oblíbené jídlo?", ujisti se, že to nebude "pizza". To by hádali všichni na první pokus.
+
+10. Otázka: Mohu použít své rodné číslo jako heslo?
+    Odpověď: Ne, to by bylo jako použít "123456" jako heslo. Mysli na svou bezpečnost a vyber si něco těžšího.
+
+11. Otázka: Jak často mohu resetovat své heslo?
+    Odpověď: Tak často, jak potřebuješ, ale pokud to budeš dělat každý den, měli bychom se setkat a probrat tvou paměť.
+
+12. Otázka: Mohu použít heslo svého kolegy?
+    Odpověď: Ne, to by bylo jako nosit jeho ponožky. Každý by měl mít vlastní heslo.
+
+13. Otázka: Co když zapomenu heslo k emailu, který je spojený s mým účtem?
+    Odpověď: To už je na jinou úroveň zapomnětlivosti. Ale neboj, kontaktuj naši IT podporu a oni ti pomůžou.
+
+14. Otázka: Mohu si nechat poslat resetovací kód na mobil?
+    Odpověď: Ano, TomReset to umí. Je to jako posílat SMS, jen bez emoji.
+
+15. Otázka: Jak dlouho je resetovací kód platný?
+    Odpověď: 24 hodin. Je to jako Cinderella, po půlnoci už to nejde.
+
+16. Otázka: Zapomněl jsem heslo k TomSpace, co mám dělat?
+    Odpověď: To je jako zapomenout heslo k trezoru s pokladem. Ale neboj, použij TomReset a budeš zase v hře.
+
+17. Otázka: Mohu použít své jméno jako heslo?
+    Odpověď: Ne, to by bylo jako použít "heslo" jako heslo. Buď kreativní.
+
+18. Otázka: Co když si nevzpomenu na svůj uživatelský název?
+    Odpověď: No, to je jako zapomenout na své vlastní jméno. Ale neboj, naše IT podpora ti pomůže.
+
+19. Otázka: Jak dlouho může být mé heslo?
+    Odpověď: Dlouhé jako cesta na Měsíc. Ale pamatuj, že musíš být schopný si ho zapamatovat.
+
+20. Otázka: Co když mi nefunguje tlačítko "Zapomněli jste heslo?"?
+    Odpověď: To je jako kdyby ti nefungovala kávovar ráno. Ale neboj, kontaktuj naši IT podporu a oni ti pomůžou.
+
+21. Otázka: Jak mohu změnit svou bezpečnostní otázku?
+    Odpověď: Přejdi na TomReset a sleduj pokyny. Je to jako změnit heslo, jen s otázkou.
+
+22. Otázka: Zapomněl jsem heslo k TomPrint, co mám dělat?
+    Odpověď: To je jako zapomenout heslo k tiskárně. Ale neboj, použij TomReset a budeš zase tisknout.
+
+23. Otázka: Mohu použít své oblíbené slovo jako heslo?
+    Odpověď: Pokud je tvé oblíbené slovo něco jako "supercalifragilisticexpialidocious", pak ano.
+
+24. Otázka: Jak si mám zapamatovat své nové heslo?
+    Odpověď: Můžeš si ho napsat na papír a schovat ho do trezoru. Nebo ho prostě zkus zapamatovat.
+
+25. Otázka: Mohu mít stejné heslo pro všechny své účty?
+    Odpověď: Teoreticky ano, ale to by bylo jako mít stejný klíč od domu, auta a trezoru. 
+
+26. Otázka: Mohu si resetovat heslo kdykoliv?
+    Odpověď: Ano, TomReset je vždy připravený na akci. Je to jako 24/7 fast food pro hesla.
+
+27. Otázka: Co když zapomenu heslo k TomOrder?
+    Odpověď: To je jako zapomenout heslo k ledničce. Ale neboj, použij TomReset a budeš zase objednávat.
+
+28. Otázka: Co když mi nefunguje resetovací kód?
+    Odpověď: To je jako kdyby ti nefungoval dálkový ovladač od televize. Ale neboj, kontaktuj naši IT podporu a oni ti pomůžou.
+
+29. Otázka: Zapomněl jsem heslo k TomChat, co mám dělat?
+    Odpověď: To je jako zapomenout heslo k mobilu. Ale neboj, použij TomReset a budeš zase chatovat.
+
+30. Otázka: Co když si nepamatuji svůj email pro resetování hesla?
+    Odpověď: To je jako zapomenout na svou vlastní narozeninovou oslavu. Ale neboj, naše IT podpora ti pomůže.

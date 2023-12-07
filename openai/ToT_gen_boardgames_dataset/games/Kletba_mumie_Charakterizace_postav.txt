@@ -1,0 +1,16 @@
+Nazev hry: Kletba mumie
+Kapitola: Charakterizace postav
+
+Kapitola: Charakterizace postav
+
+1. Archeolog: Hlavní postava hry, kterou hráč ovládá. Archeolog je dobrodruh, který se vydal do starobylé pyramidy, aby prozkoumal její tajemství. Je odvážný, inteligentní a plný zvědavosti. Jeho schopnosti zahrnují dešifrování hieroglyfů, odhalování pastí a používání archeologických nástrojů. Nicméně, archeolog musí být opatrný, aby se vyhnul nebezpečím, která na něj čekají v pyramidě.
+
+2. Mumie: Mumie je hlavní protivník v hře. Je to kdysi mocný faraon, který byl proklet a nyní stráží pyramidu. Mumie je neúprosná a nebezpečná. Pokud se s ní archeolog setká, musí rychle najít způsob, jak ji porazit nebo utéct. Mumie může hráči způsobit mnoho problémů, včetně prokletí, které může archeologa oslabit.
+
+3. Příšery: V pyramidě nejsou jen pasti a mumie. Jsou zde také různé příšery, které chrání pyramidu a její tajemství. Tyto příšery jsou různé a každá z nich má své unikátní schopnosti a slabiny. Některé z nich mohou být poraženy pomocí archeologických nástrojů, zatímco jiné vyžadují specifické strategie.
+
+4. Pasti: Starobylá pyramida je plná různých pastí. Tyto pasti byly navrženy tak, aby zabránily jakémukoli vetřelci vstoupit do pyramidy. Pasti mohou zahrnovat padající kameny, skryté díry, jedovaté šípy a mnoho dalších. Archeolog musí být opatrný a používat své dovednosti k odhalení a obejití těchto pastí.
+
+5. Faraon: Faraon je duch, který občas pomůže archeologovi v jeho cestě. Faraon je moudrý a zná tajemství pyramidy. Může dát archeologovi rady, jak se vyhnout pastem nebo jak porazit příšery. Nicméně, faraon je také tajemný a jeho rady mohou být často záhadné. Archeolog musí být chytrý a interpretovat rady faraona správně. 
+
+Tyto postavy tvoří jádro hry Kletba mumie. Každá z nich přidává do hry unikátní prvek a dělá z ní vzrušující dobrodružství.

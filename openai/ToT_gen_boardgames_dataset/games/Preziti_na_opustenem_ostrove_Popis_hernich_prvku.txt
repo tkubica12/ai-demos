@@ -1,0 +1,20 @@
+Nazev hry: Přežití na opuštěném ostrově
+Kapitola: Popis herních prvků
+
+Popis herních prvků
+
+Herní deska: Herní deska je stylizovaná do podoby opuštěného ostrova s různými typy terénu, jako jsou pláže, džungle, hory a řeky. Některé oblasti na ostrově jsou skryté a hráči je musí průzkumem odhalit.
+
+Figurky: Každý hráč má svou vlastní figurku námořníka, kterou během hry pohybuje po herní desce. Figurka reprezentuje pozici hráče na ostrově a její pohyb je omezen počtem kroků, které hráč může udělat v jednom tahu.
+
+Karty akcí: Karty akcí umožňují hráčům provádět různé akce, jako je hledání jídla, stavění úkrytu, průzkum nebo oprava lodě. Hráči mohou v jednom kole použít pouze určitý počet karet.
+
+Karty dobrodružství: Karty dobrodružství představují různé události, které mohou hráče potkat, když prozkoumávají ostrov. Tyto události mohou být buď pozitivní (například nalezení zdroje vody), nebo negativní (například setkání s divokou zvěří).
+
+Karty přežití: Karty přežití reprezentují různé zdroje a nástroje, které hráči mohou v průběhu hry získat. Tyto zdroje a nástroje mohou hráčům pomoci přežít a dostat se zpět domů.
+
+Kostky: Kostky se používají k určení výsledku různých akcí, jako je hledání jídla, boj s divokou zvěří nebo oprava lodě. Počet oček na kostce určuje úspěch nebo neúspěch akce.
+
+Měřiče: Měřiče se používají k sledování zdraví, energie a hladu hráčů. Pokud některý z těchto měřičů klesne na nulu, hráč prohrává.
+
+Tyto herní prvky dohromady vytvářejí bohatou a napínavou hru, ve které musí hráči využít své strategické myšlení a dovednosti přežití, aby se dostali zpět domů z opuštěného ostrova.

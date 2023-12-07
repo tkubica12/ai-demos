@@ -1,0 +1,18 @@
+Nazev hry: Boj s draky
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Boj s draky je dobrodružná desková hra, která testuje vaši strategii, taktiku a odvahu. Abyste se mohli úspěšně postavit drakům a zachránit království, je důležité porozumět pravidlům hry. Následující pravidla vás provedou základními aspekty hry.
+
+1. Příprava hry: Hra je určena pro 2-4 hráče. Každý hráč si vybere rytířskou figurku, kterou umístí na startovní pole. Poté se zamíchají karty s draky a rozloží se na stůl obrázky dolů. Karty s nebezpečím se také zamíchají a položí se na samostatný balíček.
+
+2. Průběh hry: Hráči se střídají v tazích, které zahrnují pohyb po hracím plánu a boj s draky. Hráči mohou pohybovat svou figurku o tolik políček, kolik ukazuje hod kostkou. Když hráč skončí svůj tah na políčku s drakem, musí bojovat.
+
+3. Boj s draky: K boji s drakem dojde, když hráč skončí svůj tah na políčku s drakem. Hráč otočí kartu s drakem a porovná hodnotu svého rytíře s hodnotou draka. Pokud je hodnota rytíře vyšší nebo rovna hodnotě draka, hráč draka porazil a může si kartu draka ponechat jako trofej. Pokud je hodnota draka vyšší, hráč prohrál a musí vrátit kartu zpět na hromadu.
+
+4. Nebezpečí: Když hráč skončí svůj tah na políčku s nebezpečím, musí otočit kartu s nebezpečím. Tato karta může hráče posunout na jiné políčko, omezit jeho pohyb v dalším kole nebo mu odebrat kartu s drakem.
+
+5. Cíl hry: Hráč, který první porazí určený počet draků (např. pět), je prohlášen za vítěze a stává se hrdinou království.
+
+Pamatujte, že Boj s draky je hra o strategii a riziku. Každé rozhodnutí, které uděláte, může ovlivnit výsledek hry. Buďte odvážní, buďte moudří a především si hru užijte!

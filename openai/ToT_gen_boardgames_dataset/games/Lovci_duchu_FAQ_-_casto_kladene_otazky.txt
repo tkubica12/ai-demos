@@ -1,0 +1,31 @@
+Nazev hry: Lovci duchů
+Kapitola: FAQ - často kladené otázky
+
+FAQ - Často kladené otázky
+
+1. Otázka: Jak začíná hra Lovci duchů?
+   Odpověď: Hra začíná tím, že každý hráč vybere postavu lovce duchů a umístí ji na startovní pozici na hrací desce. Dále se připraví balíček karet s duchy a pastmi a náhodně se rozloží po hrací desce.
+
+2. Otázka: Jak se pohybuji po hrací desce?
+   Odpověď: Pohyb po hrací desce je určen hodem kostkou. Počet oček určuje, o kolik políček se můžete pohnout.
+
+3. Otázka: Jak funguje boj s duchy?
+   Odpověď: Když se ocitnete na stejném políčku s duchem, musíte s ním bojovat. Boj probíhá tak, že hodíte kostkou a snažíte se dosáhnout vyššího skóre než duch.
+
+4. Otázka: Co se stane, když naletím na past?
+   Odpověď: Pokud naletíte na past, ztrácíte jedno kolo a nemůžete se pohnout.
+
+5. Otázka: Jak vítězím v hře Lovci duchů?
+   Odpověď: Cílem hry je vyčistit dům od všech duchů. Hráč, který jako první vyčistí dům a vrátí se na startovní pozici, vyhrává.
+
+6. Otázka: Co mám dělat, když mi dojdou životy?
+   Odpověď: Pokud vám dojdou životy, musíte se vrátit na startovní pozici a ztrácíte jedno kolo.
+
+7. Otázka: Můžu hrát hru sám?
+   Odpověď: Hra Lovci duchů je určena pro 2 až 4 hráče. Sice můžete hrát sami, ale zážitek z hry bude mnohem lepší, pokud ji budete hrát s více hráči.
+
+8. Otázka: Jak dlouho trvá jedna hra?
+   Odpověď: Délka hry se liší podle počtu hráčů a jejich strategií. Průměrně však hra trvá asi 45 minut.
+
+9. Otázka: Je tato hra vhodná pro děti?
+   Odpověď: Hra Lovci duchů je určena pro hráče od 8 let. Pravidla jsou srozumitelná a jednoduchá, ale vzhledem k dobrodružnému a napínavému tématu doporučujeme rodičům, aby si hru předem sami vyzkoušeli.

@@ -1,0 +1,20 @@
+Nazev hry: Mise na Mars
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+Herní deska: Herní deska představuje mapu Marsu, kterou hráči prozkoumávají. Na desce jsou zobrazeny různé zóny, včetně zón s vysokou radiací, oblastí s nedostatkem kyslíku a oblastí, které jsou ideální pro výzkum. 
+
+Herní karty: Herní karty představují různé události, které mohou hráče potkat během mise. Mohou to být překážky, jako jsou písečné bouře nebo nedostatek zásob, ale také příležitosti, jako nalezení vodních zdrojů nebo vědeckých objevů. Některé karty mohou také hráčům umožnit vylepšit jejich vybavení.
+
+Herní figurky: Figurky představují astronauty na misi. Každý hráč má k dispozici jednu figurku, kterou pohybuje po herní desce. Figurky mohou být vystaveny riziku v případě, že se nacházejí v oblastech s vysokou radiací nebo když je hráč nucen čelit nebezpečným událostem.
+
+Kostky: Kostky jsou používány k rozhodnutí o následcích některých událostí. Například, pokud hráč narazí na písečnou bouři, může hodit kostkou, aby zjistil, zda se mu podaří bezpečně ji přečkat. 
+
+Zásoby: Zásoby jsou klíčové pro přežití hráčů na Marsu. Hráči musí pečlivě plánovat své zásoby potravin, vody a kyslíku, aby přežili. Pokud hráči dojdou zásoby, může to mít za následek ztrátu zdraví nebo dokonce konec hry.
+
+Vybavení: Vybavení zahrnuje různé nástroje a technologie, které hráči mohou použít během hry. To může zahrnovat věci, jako jsou dálkové ovládání robotů, skafandry nebo výzkumné přístroje. Vybavení může hráčům pomoci překonat překážky nebo vylepšit jejich schopnosti.
+
+Předměty pro výzkum: Tyto předměty, které hráči mohou najít během své mise, mohou přinést bonusové body nebo speciální schopnosti. Tyto předměty mohou zahrnovat vzorky půdy, minerály nebo dokonce mimozemské artefakty.
+
+Mise na Mars je dobrodružná desková hra, která vyžaduje strategické myšlení a plánování. Hráči musí správně využívat herní prvky, abychom přežili výzvy vesmíru a dosáhli svých cílů.

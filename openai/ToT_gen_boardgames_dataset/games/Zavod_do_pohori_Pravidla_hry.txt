@@ -1,0 +1,21 @@
+Nazev hry: Závod do pohoří
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Závod do pohoří je dobrodružná desková hra určená pro 2 až 4 hráče, ve které se utkáte v závodu na vrchol hory. Cílem hry je být prvním hráčem, který dosáhne vrcholu hory a vyhne se všem nebezpečím na cestě.
+
+1. Příprava hry:
+Každý hráč si vybere svou herní figurku a postaví ji na startovací pole na dno hory. Hrací karty jsou zamíchány a položeny lícem dolů vedle herního plánu.
+
+2. Průběh hry:
+Hráči se střídají v tazích, počínaje hráčem nejblíže levému rohu herního plánu. V každém tahu hráč otočí vrchní kartu z balíčku. Na kartě je buď počet políček, o které může hráč postoupit, nebo překážka či nebezpečí, kterému se musí vyhnout.
+
+Pokud hráč otočí kartu s počtem políček, posune svou figurku o daný počet políček směrem nahoru k vrcholu hory. Pokud narazí na pole s překážkou (např. lavina, převis, atd.), musí zůstat na tomto poli a vynechat svůj další tah.
+
+Pokud hráč otočí kartu s překážkou nebo nebezpečím, musí se tomuto nebezpečí vyhnout. To může znamenat vrátit se o několik polí zpět, přeskočit svůj další tah, nebo jiné nepříznivé účinky podle popisu na kartě.
+
+3. Konec hry:
+Hra končí, když první hráč dosáhne vrcholu hory. Tento hráč je prohlášen za vítěze. Pokud dojde karty dříve, než některý z hráčů dosáhne vrcholu, hráči pokračují v hře bez tahu. Hráč, který je v tu chvíli nejblíže vrcholu, je prohlášen za vítěze.
+
+Závod do pohoří je hra plná strategie a dobrodružství. Každé rozhodnutí může ovlivnit výsledek hry, takže si dobře rozmyslete každý tah!

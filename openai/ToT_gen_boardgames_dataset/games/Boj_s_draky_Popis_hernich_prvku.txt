@@ -1,0 +1,20 @@
+Nazev hry: Boj s draky
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+Herní deska: Herní deska je rozdělena do několika sekcí, které představují různé části království. Každý hráč se pohybuje po herní desce podle hodů kostkou.
+
+Figurky: Každý hráč má svou vlastní figurku rytíře, který se pohybuje po herní desce. Figurky jsou vyrobeny z kvalitního plastu a jsou detailně zpracovány.
+
+Kostky: Hra používá šestistěnné kostky, které se používají pro pohyb po herní desce a také v boji proti drakům.
+
+Karty akcí: Karty akcí představují různé akce, které může hráč v průběhu hry provést. Tyto akce mohou zahrnovat boj s draky, nalezení pokladu, vyhnutí se pastem nebo získání dalšího vybavení.
+
+Karty draků: Karty draků představují různé druhy draků, se kterými se hráči mohou setkat. Každý drak má své unikátní schopnosti a úrovně obtížnosti.
+
+Vybavení: V průběhu hry může hráč získávat různé druhy vybavení, které mu mohou pomoci v boji proti drakům. To může zahrnovat lepší zbraně, brnění, kouzelné předměty nebo léčivé lektvary.
+
+Herní pravidla: Herní pravidla jsou podrobně popsána v přiloženém návodu. Pravidla jsou jednoduchá a snadno pochopitelná, takže hra je vhodná pro hráče všech věkových kategorií.
+
+Hra Boj s draky je plná dobrodružství, akce a strategie. Vyzkoušejte své schopnosti a stáňte se hrdinou, který zachrání království před nebezpečnými draky.

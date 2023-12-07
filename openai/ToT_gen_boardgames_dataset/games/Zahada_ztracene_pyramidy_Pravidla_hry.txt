@@ -1,0 +1,26 @@
+Nazev hry: Záhada ztracené pyramidy
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Záhada ztracené pyramidy je dobrodružná desková hra určená pro 2 až 4 hráče. Vaším cílem je jako archeologovi prozkoumat starobylou pyramidu, vyhnout se pastem a příšerám a odhalit tajemství pyramidy.
+
+1. Příprava hry
+Na začátku hry si každý hráč vybere svou archeologickou postavu a umístí její figurku na startovací políčko. Každý hráč dostane také sadu karet s nástroji a důležitými artefakty, které mu pomohou během průzkumu pyramidy.
+
+2. Průběh tahu
+Hráči se střídají v tazích po směru hodinových ručiček. Na začátku tahu hráč hodí kostkou a posune svou figurku o příslušný počet políček. Políčka mohou obsahovat pasti, příšery nebo záhady, které hráč musí překonat nebo vyřešit.
+
+3. Překonávání pastí a příšer
+Pokud hráč narazí na past nebo příšeru, musí použít správný nástroj nebo artefakt, který má ve své sadě karet, aby je překonal. Pokud nemá potřebnou kartu, musí vynechat jedno kolo.
+
+4. Řešení záhad
+Některá políčka obsahují záhady, které hráči musí vyřešit. Tyto záhady mohou být různé - od hádanek a rébusů až po logické úlohy. Hráč, který správně vyřeší záhadu, získává bonusový bod.
+
+5. Konec hry
+Hra končí, když jeden z hráčů odhalí tajemství pyramidy - to znamená, že dosáhl posledního políčka a úspěšně vyřešil poslední záhadu. Ten hráč je poté prohlášen za vítěze.
+
+6. Zvláštní pravidla
+Pokud hráči nesplní úkol na svém políčku, může být poslán zpět na start nebo přijít o svůj další tah. Také pokud hráč narazí na políčko s příšerou a nemá potřebný nástroj k její poražení, může být příšera přenesena k jinému hráči.
+
+Tato pravidla poskytují základní přehled o tom, jak hrát Záhadu ztracené pyramidy. Hra je plná dobrodružství a záhad, takže připravte své logické myšlení a představivost a ponořte se do starobylých tajemství pyramidy.

@@ -1,0 +1,22 @@
+Nazev hry: Hledání svatého grálu
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Hledání svatého grálu je dobrodružná desková hra pro 2 až 4 hráče. Cílem hry je stát se rytířem, který se úspěšně probije přes různé nástrahy a nakonec najde svatý grál. 
+
+1. Začátek hry: Na začátku hry si každý hráč vybere jednu z dostupných postav rytířů. Každý rytíř má své unikátní schopnosti, které mu mohou pomoci v průběhu hry. Hráči umístí svou figurku rytíře na startovací pole herního plánu.
+
+2. Hra: Hráči se střídají v tazích, které se skládají z pohybu a akce. Pohyb se provádí podle hodů kostkou. Počet oček určuje, kolik polí může rytíř přejít.
+
+3. Akce: Po pohybu může hráč provést jednu z následujících akcí - vyhledat, bojovat nebo použít schopnost. Vyhledávání se používá na polích s poklady, kde může rytíř najít užitečné předměty nebo narazit na pasti. Boj se používá, pokud se rytíř nachází na stejném poli s nepřítelem. Použití schopnosti závisí na konkrétním rytíři.
+
+4. Nepřátelé: Pokud se hráč rozhodne bojovat s nepřítelem, hodí bojovou kostku. Pokud výsledek hodu překoná sílu nepřítele, hráč nepřítele porazí. Pokud je síla nepřítele vyšší, hráč ztrácí jeden život.
+
+5. Pasti: Na polích s poklady může být skryta past. Pokud na ni hráč narazí, musí vyřešit hádanku nebo splnit úkol, aby ji obešel. Pokud neuspěje, ztrácí jeden život.
+
+6. Svatý grál: Hráč, který dorazí na pole se svatým grálem a úspěšně ho vyhledá, vyhrává hru. Pokud však hráč dorazí na pole se svatým grálem a nemá již žádný život, je z hry vyřazen.
+
+7. Konec hry: Hra končí, když jeden z hráčů najde svatý grál nebo když jsou všichni hráči vyřazeni z hry.
+
+Pamatujte, že úspěch v Hledání svatého grálu závisí na strategii, štěstí a schopnosti přizpůsobit se nečekaným situacím. Také si nezapomeňte užít dobrodružství!

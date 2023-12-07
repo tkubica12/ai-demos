@@ -1,0 +1,20 @@
+Nazev hry: Výprava do divočiny
+Kapitola: Charakterizace postav
+
+Kapitola: Charakterizace postav
+
+Hra "Výprava do divočiny" nabízí řadu unikátních postav, které můžete ve svých dobrodružstvích hrát. Každý z nich má své vlastní schopnosti, síly a slabiny, které ovlivňují jejich přežití v divočině. Tady je detailní pohled na ně:
+
+1. Lovec: S břitkými instinkty a neuvěřitelnou schopností stopování je lovec mistrem přežití. Jeho schopnosti mu umožňují snadno najít jídlo a vodu, což je v divočině nezbytné. Avšak jeho nezávislá povaha znamená, že může mít potíže s týmovou spoluprací.
+
+2. Botanik: S hlubokými znalostmi o rostlinách je botanik schopný najít léčivé byliny a jedlé plody, kde se zdá, že nic není. Jeho slabostí je však fyzická síla - v přímém konfliktu s divokými zvířaty je zranitelný.
+
+3. Geolog: Geolog je expert na terén. Jeho schopnosti mu umožňují orientovat se v neznámých oblastech a vyhýbat se nebezpečím. Jeho slabina spočívá v nedostatku znalostí o rostlinách a zvířatech, což může způsobit problémy při hledání jídla.
+
+4. Průvodce: Průvodce je přirozený vůdce, který dokáže koordinovat členy týmu a udržet morálku vysoko, i když jsou věci špatné. Jeho schopnosti zajišťují týmovou spolupráci a rozhodování v kritických situacích. Jeho slabostí je však nedostatek specifických dovedností pro přežití, jako je lov nebo botanika.
+
+5. Rybář: Rybář je expert na vodu. Jeho schopnosti mu umožňují úspěšně lovit ryby a nalézt zdroje vody. Jeho slabostí je však orientace v terénu, což může vést k ztrátě směru.
+
+6. Zvěrolékař: Zvěrolékař má hluboké znalosti o chování zvířat a jejich zdraví. Jeho schopnosti mu umožňují zvládat setkání se zvířaty a léčit zranění způsobená zvířecími útoky. Jeho slabostí je však nedostatek znalostí o rostlinách, což může způsobit potíže při hledání jídla.
+
+Výběr správných postav pro váš tým je klíčový pro úspěšnou výpravu do divočiny. Každý hráč by měl pečlivě zvážit silné a slabé stránky své postavy a zjistit, jak je nejlépe využít pro přežití týmu.

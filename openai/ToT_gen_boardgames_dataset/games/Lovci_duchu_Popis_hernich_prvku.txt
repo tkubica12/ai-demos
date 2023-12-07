@@ -1,0 +1,24 @@
+Nazev hry: Lovci duchů
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+Hra Lovci duchů je plná různých herních prvků, které dohromady vytvářejí napínavou a dobrodružnou atmosféru. 
+
+1. Herní deska: Herní deska představuje strašidelný dům, který je rozdělen na různé pokoje a koridory. Každý pokoj může obsahovat různé překážky, pasti nebo duchy. 
+
+2. Figurky: Každý hráč má svou vlastní figurku lovce duchů. Figurka se pohybuje po herní desce a reprezentuje hráčovu polohu v domě.
+
+3. Karty duchů: Karty duchů reprezentují různé duchy, které hráči musí porazit. Každý duch má své vlastní schopnosti a sílu, které hráč musí překonat.
+
+4. Karty pastí: Karty pastí reprezentují různé pasti, které hráči mohou narazit při prozkoumávání domu. Pasti mohou hráčům způsobit různé škody nebo je zdržet.
+
+5. Karty vybavení: Karty vybavení představují různé předměty, které hráči mohou najít a použít k boji s duchy nebo k překonání pastí.
+
+6. Kostky: Kostky se používají k určení výsledku různých akcí, jako je boj s duchy, překonávání pastí nebo hledání předmětů.
+
+7. Žetony zdraví: Žetony zdraví reprezentují zdraví hráčů. Když hráč ztratí všechny své žetony zdraví, je z hry vyřazen.
+
+8. Žetony energie: Žetony energie reprezentují energii, kterou hráči potřebují k provádění různých akcí.
+
+Celkově je hra Lovci duchů plná různých herních prvků, které hráčům poskytují mnoho možností a strategií, jak vyčistit strašidelný dům. Každý prvek přispívá k napětí a dobrodružství hry a činí každou hru jedinečnou a nepředvídatelnou.

@@ -1,0 +1,31 @@
+Nazev hry: Poklad ztraceného města
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+"Poklad ztraceného města" je dobrodružná desková hra pro 2 až 4 hráče, ve které se hráči vydávají do divoké džungle na hledání tajemného pokladu. Hra je určena pro hráče ve věku 10 let a více. 
+
+Obsah hry:
+- Hrací deska zobrazující džungli a ztracené město
+- 4 figurky dobrodruhů
+- Karty dobrodružství
+- Karty pokladů
+- Kostka
+
+Pravidla hry:
+
+1. Před začátkem hry si každý hráč vybere jednu figurku dobrodruha a umístí ji na startovní pole na hrací desce. 
+
+2. Zamíchejte karty dobrodružství a rozložte je lícem dolů vedle hrací desky. Každý hráč si poté na začátku hry lízne dvě karty dobrodružství.
+
+3. Hráči hrají postupně ve směru hodinových ručiček. Hráč na tahu hodí kostkou a posune svou figurku o tolik polí, kolik ukazuje hod kostkou.
+
+4. Pokud hráč skončí na poli s ikonou dobrodružství, lízne si kartu dobrodružství a musí se vypořádat s událostí na kartě (např. potká divokou zvěř, najde pomocný nástroj, ztratí se v džungli).
+
+5. Pokud hráč skončí na poli s ikonou pokladu, lízne si kartu pokladu. Pokud je na kartě poklad, hráč ho může vzít. Pokud je na kartě past, hráč musí vrátit jednu svou kartu pokladu zpět do balíčku.
+
+6. Hráči se mohou rozhodnout zda chtějí pokračovat v hledání pokladu nebo se vrátit zpět k výchozímu bodu s nalezenými poklady. Pokud se hráč rozhodne vrátit zpět, musí procházet stejnými poli jako při cestě do džungle.
+
+7. Hra končí, jakmile některý z hráčů dorazí zpět na startovní pole s alespoň jedním pokladem. Ten se stává vítězem hry. Pokud se nikomu nepodaří najít poklad a vrátit se zpět, hra končí, když jsou všechny karty dobrodružství vyčerpány a vítězí hráč s nejvíce nalezenými poklady.
+
+Pamatujte, že tato hra je o dobrodružství a strategii. Bude na vás, jestli risknete a půjdete dál do neznáma, nebo se rozhodnete vrátit se s pokladem zpět. Mnoho štěstí, dobrodruzi!

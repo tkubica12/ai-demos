@@ -1,0 +1,20 @@
+Nazev hry: Kosmická expedice
+Kapitola: Charakterizace postav
+
+KAPITOLA: Charakterizace postav
+
+Ve hře Kosmická expedice každý hráč přebírá roli jednoho z astronautů na cestě do neznámé části vesmíru. Každý astronaut má jedinečné schopnosti a vlastnosti, které mu mohou pomoci vypořádat se s výzvami, které hra přináší. Níže jsou podrobněji popsány jednotlivé postavy:
+
+1. Kapitán: Tato postava je vůdčí osobností týmu. Kapitán má schopnost rozhodovat v kritických situacích a v případě nebezpečí může přijmout rychlá a efektivní rozhodnutí. Jeho další schopností je také motivovat ostatní členy posádky.
+
+2. Pilot: Pilot je zodpovědný za ovládání vesmírné lodi. Jeho důležitou schopností je schopnost rychle reagovat a přizpůsobit se různým situacím. Pilot také zvládá opravy a údržbu lodi.
+
+3. Inženýr: Inženýr je specialistou na technické aspekty vesmírné lodi. Je schopen provádět opravy a údržbu systémů lodi, což je klíčové pro přežití posádky v nepředvídatelném vesmírném prostředí.
+
+4. Vědec: Vědec je zodpovědný za analýzu a interpretaci dat, které posádka shromažďuje během cesty. Jeho schopnost analyzovat a řešit složité problémy je pro tým neocenitelná.
+
+5. Lékař: Lékař se stará o zdraví posádky. Je schopen řešit zdravotní problémy a zranění, které mohou vzniknout během cesty vesmírem.
+
+6. Komunikátor: Komunikátor je zodpovědný za komunikaci s ostatními vesmírnými stanicemi nebo s centrálním řídícím střediskem na Zemi. Jeho schopnost udržovat spojení a komunikovat efektivně je klíčová pro úspěch mise.
+
+Každá postava má svou důležitou roli a její schopnosti mohou být klíčové pro přežití a úspěch mise. Je důležité, aby si hráči vybrali postavy, které nejlépe odpovídají jejich strategii a stylu hry. Dobrý tým je ten, který dokáže efektivně využít schopnosti všech svých členů.

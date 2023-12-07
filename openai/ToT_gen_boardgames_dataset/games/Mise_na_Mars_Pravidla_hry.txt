@@ -1,0 +1,26 @@
+Nazev hry: Mise na Mars
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Mise na Mars je dobrodružná strategická hra určená pro 2 až 4 hráče. Vaším cílem je přežít na nepřátelské planetě Mars a splnit všechny úkoly, které vám hra přidělí.
+
+1. Příprava hry: 
+Na začátku hry si každý hráč vybere jednu z astronautských figur. Každá figura má své unikátní schopnosti a vlastnosti, které budou hrát důležitou roli v průběhu hry. Poté se zamíchají karty s úkoly a každý hráč dostane tři karty. Zbytek karet se položí stranou na balíček.
+
+2. Průběh hry:
+Hráči se střídají v tazích, které se skládají z následujících fází: 
+
+a) Fáze plánování: Hráč si vybere jednu z jeho tří úkolových karet a umístí ji na plánovací slot na hracím plánu.
+
+b) Fáze akce: Hráč provede akci uvedenou na kartě úkolu. To může zahrnovat pohyb po planetě, sběr zdrojů, stavbu úkrytu nebo čelit nebezpečím Marsu.
+
+c) Fáze odpočinku: Hráč doplní své zdroje a připraví se na další kolo. Pokud hráč nemůže doplnit své zdroje na požadovanou úroveň, ztrácí jednu životní jednotku.
+
+3. Konec hry:
+Hra končí, když jeden z hráčů splní všechny své úkoly nebo když všichni hráči ztratí všechny své životní jednotky. Hráč, který jako první splní všechny své úkoly, je vyhlášen vítězem. Pokud všichni hráči ztratí všechny své životy, hra končí a žádný hráč nevyhrává.
+
+4. Speciální pravidla:
+V průběhu hry můžete narazit na speciální události nebo úkoly, které mohou ovlivnit pravidla hry. Vždy se ujistěte, že pečlivě čtete text na kartách.
+
+Pamatujte, že Mise na Mars je hra plná strategie a dobrodružství, takže každé rozhodnutí může mít důsledky. Hodně štěstí a dobrou zábavu při dobývání rudé planety!

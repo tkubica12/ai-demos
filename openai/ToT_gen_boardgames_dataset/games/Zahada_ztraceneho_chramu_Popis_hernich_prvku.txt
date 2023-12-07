@@ -1,0 +1,20 @@
+Nazev hry: Záhada ztraceného chrámu
+Kapitola: Popis herních prvků
+
+Popis herních prvků
+
+1. Herní deska: Herní deska představuje mapu starobylého chrámu, kterou hráči postupně prozkoumávají. Obsahuje množství místností, chodeb a tajných průchodů, které hráči musí objevit a prozkoumat. Každá místnost na herní desce může skrývat hádanku, poklad nebo past.
+
+2. Hráčské figurky: Každý hráč má k dispozici figurku dobrodruha, kterou pohybuje po herní desce. Figurka symbolizuje pozici hráče v chrámu a její pohyb je omezen pravidly hry.
+
+3. Karty hádanek: Hra obsahuje balíček karet s hádankami, které hráči musí vyřešit, aby mohli postoupit v prozkoumávání chrámu. Hádanky mohou být různé - logické, matematické, vizuální atd. Když hráč vstoupí do místnosti s hádankou, musí vylosovat kartu z balíčku a pokusit se hádanku vyřešit.
+
+4. Karty pastí: Kromě hádanek může chrám skrývat i nebezpečné pasti. Ty jsou také reprezentovány kartami. Pokud hráč naletí na past, musí splnit určitou úlohu nebo zaplatit určitou cenu, aby se z pasti dostal.
+
+5. Karty pokladů: Poklady jsou dalším herním prvkem, který mohou hráči v chrámu objevit. Tyto karty mohou hráčům přinést různé výhody, jako jsou bonusové body, speciální schopnosti nebo nástroje, které jim pomohou vyřešit hádanky nebo se vyhnout pastem.
+
+6. Kostky: Kostky v této hře slouží k rozhodování o některých náhodných událostech, jako je například pohyb po herní desce, úspěch při řešení hádanek nebo schopnost uniknout pastem.
+
+7. Počítadlo bodů: Každý hráč má k dispozici počítadlo bodů, které ukazuje, kolik hádanek již vyřešil. Ten hráč, který na konci hry vyřeší nejvíce hádanek, se stává vítězem.
+
+8. Pravidla: Pravidla hry jsou obsažena v přiloženém návodu, který podrobně popisuje, jak se hra hraje, jak se řeší hádanky, jak se pohybuje po herní desce a jak se vyhýbá pastem. Pravidla také vysvětlují, jak se používají různé karty a jak se počítají body.

@@ -1,0 +1,28 @@
+Nazev hry: Kletba mumie
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Kletba mumie je dobrodružná desková hra pro 2 až 4 hráče, kde se hráči ujímají role odvážných archeologů, kteří se odhodlali prozkoumat tajemnou pyramidu. Výhrou je úspěšné prozkoumání pyramidy a získání starobylého pokladu. Ale pozor! Pyramida je plná nebezpečných pastí, děsivých příšer a samozřejmě prokleté mumie.
+
+1. Příprava hry
+
+Na začátku hry se vyloží hrací plán s pyramidou a hráči si vyberou svého archeologa. Každý archeolog má své unikátní schopnosti, které mu mohou pomoci při prozkoumávání pyramidy. Hráči si také připraví své karty s nářadím a zvláštními schopnostmi.
+
+2. Průběh hry
+
+Hráči se střídají v tazích. V každém tahu může hráč provést následující akce: pohyb, prozkoumání místnosti, odstranění pasti nebo boj s příšerou. 
+
+Pohyb: Hráč může pohnout svým archeologem o jedno políčko v jakémkoli směru. 
+
+Prozkoumání místnosti: Pokud se archeolog nachází v místnosti bez pasti nebo příšery, může prozkoumat místnost a získat tak poklad.
+
+Odstranění pasti: Pokud se archeolog nachází v místnosti s pastí, může se pokusit past odstranit. K tomu musí úspěšně absolvovat test odvahy.
+
+Boj s příšerou: Pokud se archeolog nachází v místnosti s příšerou, může se pokusit příšeru porazit. K tomu musí úspěšně absolvovat test síly.
+
+3. Konec hry
+
+Hra končí, když jeden z hráčů úspěšně prozkoumá pyramidu a získá poklad. Pokud se to žádnému z hráčů nepodaří a všichni jsou poraženi mumii, hra končí a vítězem je prokletí mumie. 
+
+Pamatujte, že v Kletbě mumie se nejedná jen o vítězství, ale také o dobrodružnou cestu plnou nebezpečí a záhad. Takže si hru užijte, prozkoumejte pyramidu a vyhněte se kletbě mumie!

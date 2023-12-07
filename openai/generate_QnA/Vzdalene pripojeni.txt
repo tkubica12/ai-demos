@@ -1,0 +1,29 @@
+Otázka: Jak se připojím k firemnímu serveru z domova?
+Odpověď: Použij TomVPN. Po připojení můžeš přistupovat k firemním souborům jako bys byl v kanceláři. Jen si dej pozor, ať nezapomeneš na rozdíl mezi prací a osobním životem. Zvláště pokud máš doma pes!
+
+Otázka: Co dělat, když se nemůžu připojit k TomVPN?
+Odpověď: Nejdřív zkontroluj své připojení k internetu. Pokud to není problém, vyzkoušej restartovat TomVPN. Pokud stále nemáš štěstí, kontaktuj TomHelpDesk. Pamatuj, že i IT pracovníci potřebují svůj spánek, tak je nekontaktuj v 3 ráno.
+
+Otázka: Jak se připojím ke svému firemnímu emailu z domova?
+Odpověď: Můžeš přistupovat ke svému emailu přes webový prohlížeč na adrese mail.tomspace.com. A nezapomeň, že každý email, který odešleš, může být přečten tvým šéfem. Takže žádné pomlouvání!
+
+Otázka: Jak mohu sdílet soubory s kolegy, když pracuji z domova?
+Odpověď: Můžeš použít TomCloud. Je to jako Dropbox, ale se super silou TomSpace. Jen si dej pozor na to, kolik dat nahráváš, může to ovlivnit rychlost tvého internetu.
+
+Otázka: Jak mohu komunikovat s kolegy, když pracuji z domova?
+Odpověď: Můžeš použít TomChat. Ale nezapomeň, že to není sociální síť. Takže žádné spamování gify koček!
+
+Otázka: Jak mohu provést videohovor s kolegy, když pracuji z domova?
+Odpověď: Můžeš použít TomMeet. A nezapomeň, že bys měl mít zapnutou kameru a mikrofon. A taky bys měl mít na sobě něco víc než jen pyžamo.
+
+Otázka: Co dělat, když se nemůžu připojit k TomChat?
+Odpověď: Nejdřív zkontroluj své připojení k internetu. Pokud to není problém, vyzkoušej restartovat TomChat. Pokud stále nemáš štěstí, kontaktuj TomHelpDesk. Ale nezapomeň, že i IT pracovníci potřebují svůj spánek, tak je nekontaktuj v 3 ráno.
+
+Otázka: Jak mohu přistupovat k firemnímu kalendáři z domova?
+Odpověď: Můžeš se připojit k TomCalendar přes webový prohlížeč. A nezapomeň, že bys měl aktualizovat svůj kalendář, aby tvůj šéf neplánoval schůzku, když máš hodinu jógy.
+
+Otázka: Jak se připojím k firemní tiskárně z domova?
+Odpověď: Bohužel, to není možné. Ale můžeš tisknout své soubory na domácí tiskárně a pak je naskenovat do svého počítače. A nezapomeň, že bys měl recyklovat vytištěné papíry. TomSpace je zelená firma!
+
+Otázka: Co dělat, když potřebuji technickou podporu, když pracuji z domova?
+Odpověď: Můžeš kontaktovat TomHelpDesk. Ale nezapomeň, že i IT pracovníci potřebují svůj spánek, tak je nekontaktuj v 3 ráno.

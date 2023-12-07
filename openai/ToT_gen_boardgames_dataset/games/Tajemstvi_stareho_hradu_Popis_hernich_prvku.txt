@@ -1,0 +1,24 @@
+Nazev hry: Tajemství starého hradu
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+Dobrodružná desková hra Tajemství starého hradu je rozdělena do několika hlavních herních prvků, které jsou navrženy tak, aby vytvořily napínavou atmosféru a poskytly hráčům možnosti pro strategické plánování a řešení záhad.
+
+1. Herní deska: Herní deska představuje plánek starého hradu. Skládá se z různých místností a koridorů, mezi nimiž hráči pohybují své figurky. Některé místnosti obsahují nápovědy nebo artefakty, které mohou pomoci odhalit tajemství hradu.
+
+2. Figurky: Každý hráč má k dispozici svou figurku, kterou pohybuje po herní desce. Figurky reprezentují dobrodruhy, kteří prozkoumávají hrad.
+
+3. Karty záhad: Karty záhad představují různé hádanky a záhady, které hráči musí vyřešit, aby postoupili v hře. Tyto karty jsou smíchány a umístěny dolů na vyhrazené místo na herní desce. Každý hráč odtáhne kartu, když vstoupí do nové místnosti.
+
+4. Karty pastí: Karty pastí představují různé nástrahy, které jsou skryty v hradu. Tyto karty mohou způsobit hráčům škodu nebo je zdržet. Karty pastí jsou rovněž smíchány a umístěny dolů vedle karet záhad.
+
+5. Artefakty: Artefakty jsou speciální předměty, které hráči mohou najít a použít k řešení záhad nebo k ochraně před pastmi. Některé artefakty mohou být klíčové pro odhalení tajemství hradu.
+
+6. Kostky: Kostky se používají k určení počtu kroků, které může hráč udělat během svého tahu, nebo k rozhodnutí o výsledku některých akcí, jako je například pokus o deaktivaci pasti.
+
+7. Deník dobrodruha: Deník dobrodruha obsahuje záznamy o prozkoumání hradu a může hráčům poskytnout důležité nápovědy nebo kontext k záhadám a tajemstvím hradu.
+
+8. Časomíra: Hra je omezena časem. Časomíra určuje, kolik času zbývá hráčům, než se hrad definitivně uzavře a všichni v něm uvíznou.
+
+Tajemství starého hradu je hra, která klade důraz na strategii, týmovou práci a řešení problémů. Každý herní prvek je navržen tak, aby přispíval k celkovému hernímu zážitku a vytvářel atmosféru napětí a dobrodružství.

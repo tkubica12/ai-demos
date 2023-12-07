@@ -1,0 +1,20 @@
+Nazev hry: Expedice do zapomenutého světa
+Kapitola: Popis herních prvků
+
+Popis herních prvků:
+
+1. Herní deska: Herní deska představuje zapomenutý svět, který hráči budou prozkoumávat. Je rozdělená na několik sekcí, které reprezentují různé terény, jako jsou lesy, hory, řeky a jeskyně. Každá sekce má své vlastní nebezpečí a překážky, které hráči musí překonat.
+
+2. Hráčské karty: Každý hráč dostane sadu karet, které reprezentují jeho schopnosti a vybavení. Tyto karty mohou hráčům pomoci překonat překážky a nebezpečí, které na ně čekají v zapomenutém světě.
+
+3. Žetony: Hra obsahuje řadu žetonů, které reprezentují různé prvky hry. Některé žetony ukazují zdravotní stav hráčů, jiné mohou reprezentovat nalezené předměty nebo zvířata, která hráči potkají.
+
+4. Kostky: Kostky v Expedici do zapomenutého světa mají mnoho funkcí. Mohou určit, jak daleko se hráč může pohnout, jak úspěšný je v boji nebo jak dobře se mu daří vyhnout se pastím.
+
+5. Pasti a divoká zvířata: Na herní desce jsou rozmístěny různé pasti a divoká zvířata. Hráči musí být opatrní, když se s nimi setkají, protože mohou způsobit zranění nebo dokonce smrt.
+
+6. Spolupráce: Hra vyžaduje týmovou spolupráci mezi hráči. Každý hráč má své vlastní schopnosti a vybavení, které mohou pomoci týmu překonat překážky a nebezpečí.
+
+7. Rozhodování: Každé rozhodnutí v této hře je důležité. Hráči musí pečlivě vybírat, jaké kroky podniknout, protože každé rozhodnutí může znamenat výhru nebo prohru.
+
+Expedice do zapomenutého světa je dobrodružná hra plná nečekaných obratů a napínavých momentů. Hráči musí spolupracovat a využívat své schopnosti a vybavení, aby přežili a vrátili se zpět z tohoto nebezpečného světa.

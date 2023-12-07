@@ -1,0 +1,18 @@
+Nazev hry: Závod do pohoří
+Kapitola: Charakterizace postav
+
+Charakterizace postav:
+
+1. Odvážný horolezec: Tato postava je pravý dobrodruh. S nesmírnou odvahou a statečností je připraven překonat jakékoli překážky. Jeho výhodou je, že dokáže rychleji zdolávat strmé svahy a útesy.
+
+2. Zkušený průvodce: Tato postava je moudrá a zkušená. Své znalosti získala po letech strávených v horách. Její výhodou je, že dokáže předvídat nebezpečí a snáze se vyhnout lavinám a sesuvům půdy.
+
+3. Opatrný výzkumník: Tato postava je opatrná a promyšlená. Její silou je schopnost pečlivě plánovat cestu a minimalizovat tak rizika. Její výhodou je, že má větší šanci najít zkratky a zvládne lépe zvládat náročné podmínky jako je mráz a sníh.
+
+4. Silný nosič: Tato postava je fyzicky nejodolnější. Díky své síle a vytrvalosti dokáže nést více vybavení a zvládne lépe náročné terény. Jeho výhodou je, že se méně unaví a dokáže rychleji regenerovat.
+
+5. Odolný poutník: Tato postava je zvyklá na dlouhé túry a nelehké podmínky. Jeho výhodou je, že je méně náchylný k únavě a dokáže dlouho vydržet bez jídla a pití.
+
+6. Rychlý běžec: Tato postava je nejrychlejší ze všech. Její výhodou je, že dokáže rychle ujít velké vzdálenosti a má tak větší šanci dostat se na vrchol jako první.
+
+Každá postava má své silné a slabé stránky, které mohou ovlivnit jejich postup v závodě na vrchol. Při výběru postavy se zamyslete nad tím, která strategie vám nejvíce vyhovuje a jaké výzvy jste připraveni překonat.

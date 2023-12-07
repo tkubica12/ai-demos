@@ -1,0 +1,31 @@
+Oblast: IT podpora
+
+Otázka: Co dělám, když můj počítač odmítne zapnout?
+Odpověď: Nejprve zkontroluj, zda je zapojen do zásuvky a zkuste stisknout tlačítko zapnutí. Pokud to nepomůže, zavolej TomIT na interní linku 1234. Ale pokud jsi ho včera zalil kafem, možná bude lepší se přiznat.
+
+Otázka: Jak se připojím k VPN?
+Odpověď: Otevři TomVPN aplikaci na tvém počítači, zadej své přihlašovací údaje a klikni na tlačítko "Připojit". Pokud se nemůžeš připojit, zkontroluj, zda jsi zadával správné údaje a zda máš zapnutý internet.
+
+Otázka: Proč mi nefunguje tiskárna?
+Odpověď: Zkontroluj, zda je tiskárna zapojena a správně připojena k počítači. Pokud je vše v pořádku a tiskárna stále nefunguje, zavolej naši IT podporu TomTisk a oni ti rádi pomohou. A ne, tiskárna nepotřebuje kafe, aby fungovala.
+
+Otázka: Jak obnovím své heslo do e-mailu?
+Odpověď: Jdi na webovou stránku TomMail a klikni na "Zapomněl jsem heslo". Postupuj podle pokynů na obrazovce. A pokud si budeš heslo příště zapisovat na papír, ujisti se, že ho nenecháš na viditelném místě.
+
+Otázka: Co dělám, když mi nefunguje internet?
+Odpověď: Zkontroluj, zda je router zapojen a správně nastaven. Pokud je vše v pořádku a internet stále nefunguje, zavolej naši IT podporu TomNet. A ne, na internet se nedá nalít káva, aby fungoval rychleji.
+
+Otázka: Jak se přihlásím do systému TomSpace?
+Odpověď: Otevři webovou stránku TomSpace a zadej své přihlašovací údaje. Pokud se nemůžeš přihlásit, zkontroluj, zda zadáváš správné údaje. Pokud si nejsi jistý svým heslem, můžeš ho obnovit kliknutím na "Zapomněl jsem heslo".
+
+Otázka: Jak mohu získat přístup k sdílenému disku?
+Odpověď: Pro přístup k sdílenému disku potřebuješ oprávnění od svého manažera. Jakmile je získáš, můžeš se připojit k disku přes síťové disky na svém počítači. Pokud nevíš, jak na to, kontaktuj naši IT podporu TomDisk.
+
+Otázka: Jak mohu získat nový počítač?
+Odpověď: Pokud potřebuješ nový počítač, požádej o něj svého manažera. Jakmile schválí tvoji žádost, můžeš si počítač vyzvednout u IT podpory TomIT. A ne, nemůžeš si vybrat počítač v barvě svého oblíbeného fotbalového týmu.
+
+Otázka: Jak mohu získat nový software?
+Odpověď: Pokud potřebuješ nový software, požádej o něj svého manažera. Jakmile schválí tvoji žádost, můžeš si software stáhnout z našeho interního portálu TomSoft. A ne, nemůžeš si stáhnout hru pro svého mazlíčka.
+
+Otázka: Jak mohu získat přístup k e-mailu z mého mobilu?
+Odpověď: Pro přístup k e-mailu z mobilu si stačí stáhnout aplikaci TomMail a přihlásit se svými údaji. Pokud máš problémy s přihlášením, kontaktuj naši IT podporu TomMail. A ne, nemůžeš posílat e-maily svému mazlíčkovi.

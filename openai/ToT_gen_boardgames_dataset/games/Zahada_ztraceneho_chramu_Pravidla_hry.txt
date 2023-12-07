@@ -1,0 +1,25 @@
+Nazev hry: Záhada ztraceného chrámu
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Úvod:
+Záhada ztraceného chrámu je dobrodružná desková hra, která testuje vaše logické myšlení, strategické rozhodování a schopnost týmové spolupráce. Hra je určena pro 2 až 4 hráče a je vhodná pro osoby starší 10 let.
+
+Obsah balení:
+Hra obsahuje herní plán zobrazující labyrint chrámu, herní karty s hádankami, 4 figurky dobrodruhů, časomíru a množství žetonů.
+
+Začátek hry:
+Každý hráč si vybere jednu figurku dobrodruha, kterou umístí na startovní políčko vstupu do chrámu. Herní karty s hádankami se zamíchají a položí na určené místo vedle herního plánu.
+
+Průběh hry:
+Hráči se pohybují po herním plánu podle počtu očí, které hodí na časomíře. Při vstupu na políčko s hádankou musí hráč vyřešit jednu z hádanek na herních kartách. Pokud hádanku úspěšně vyřeší, získá odpovídající žeton. Pokud ne, zůstává na stejném místě a pokračuje další hráč. 
+
+Pasti a překážky:
+Některá políčka na herním plánu značí pasti nebo překážky. Při vstupu na takové políčko musí hráč splnit určitou podmínku nebo zaplatit určitý počet žetonů, aby mohl pokračovat v cestě.
+
+Cíl hry:
+Hra končí, když jeden z hráčů najde cestu ven z chrámu a má nejvíce žetonů za vyřešené hádanky. Ten se stává vítězem hry. Pokud dojde k situaci, kdy dva hráči mají stejný počet žetonů, rozhoduje o vítězi počet vyřešených hádanek.
+
+Závěr:
+Záhada ztraceného chrámu je hra plná napětí a zábavy, kde nejde jen o štěstí, ale také o strategii a taktiku. Připravte se na dobrodružství plné hádanek a tajemství. Budeš tím, kdo odhalí tajemství ztraceného chrámu?

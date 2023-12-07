@@ -1,0 +1,22 @@
+Nazev hry: Dobytí hradu
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+1. Herní deska: Herní deska představuje prostor nepřátelského hradu, který se skládá z různých polí. Tato pole mohou obsahovat nepřátele, pasti nebo užitečné předměty. Každé pole má své vlastní charakteristiky, které ovlivňují hru.
+
+2. Figurky: Každý hráč disponuje figurkou rytíře. Tato figurka se pohybuje po herní desce podle hodů kostkou. Rytíři mají schopnost bojovat s nepřáteli a vyhýbat se pastem.
+
+3. Kostky: Kostky určují pohyb rytířů po herní desce. Počet oček na kostce určuje, kolik polí může rytíř přejít. Kostky se také používají v bojích s nepřáteli.
+
+4. Karty: Herní karty představují různé události, které mohou ovlivnit hru. Mohou obsahovat výhody, jako jsou zbraně nebo kouzla, které mohou pomoci při boji s nepřáteli, nebo nevýhody, jako jsou pasti nebo kletby, které mohou zkomplikovat dobytí hradu.
+
+5. Zdraví rytíře: Každý rytíř začíná hru s určitým počtem životů. Životy mohou být ztraceny v boji s nepřáteli nebo při aktivaci pastí. Pokud rytíř ztratí všechny životy, je z hry vyřazen.
+
+6. Nepřátelé: Na herní desce jsou rozmístěni různí nepřátelé, se kterými se rytíři mohou setkat. Boj s nepřáteli je řešen hody kostkou. 
+
+7. Předměty: Po herní desce jsou rozmístěny různé předměty, které mohou rytířům pomoci v jejich úkolu. Tyto mohou zahrnovat zbraně, brnění, léčivé lektvary a další.
+
+8. Hrad: Cílem hry je dobýt hrad, který je umístěn ve středu herní desky. Hrad je dobře střežen a pro jeho dobytí je potřeba překonat řadu výzev.
+
+Tyto herní prvky představují základní složky hry Dobytí hradu. Hra nabízí mnoho strategických rozhodnutí a překvapivých událostí, které mohou ovlivnit výsledek.

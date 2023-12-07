@@ -1,0 +1,23 @@
+Nazev hry: Tajemství zámku Dracula
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Tajemství zámku Dracula je dobrodružná desková hra, která vás uvede do role detektiva, jehož cílem je odhalit tajemství strašidelného zámku. Hra je určena pro 2 až 5 hráčů a hrací doba je přibližně 60 minut. 
+
+1. Příprava hry: 
+Na začátku hry si každý hráč vybere jednu z pěti postav detektivů a dostane příslušnou figurku a kartu postavy, která ukazuje základní schopnosti a zdraví postavy. Poté se zamíchají karty důkazů a položí se na připravené místo na hracím plánu. Nakonec se zamíchají karty příšer a pastí a tvoří tak balíček, ze kterého budou hráči v průběhu hry odkrývat nové výzvy.
+
+2. Průběh hry:
+Hráči se střídají v tazích. Každý tah se skládá z dvou částí – pohybu a akce. Hráč může postavou pohnout o jedno políčko a následně provést jednu akci – buď prozkoumat místnost (odkrýt kartu příšery nebo pasti) nebo sbírat důkazy.
+
+3. Příšery a pasti:
+Pokud hráč při prozkoumávání narazí na příšeru nebo past, musí se s ní vypořádat. To znamená, že musí hodit kostkou a dosáhnout hodnoty rovné nebo vyšší než je síla příšery nebo pasti. Pokud se mu to nepodaří, ztrácí tolik životů, kolik je rozdíl mezi požadovanou hodnotou a hodem na kostce.
+
+4. Sběr důkazů:
+Pokud hráč zvolí akci sběru důkazů, otočí vrchní kartu z balíčku důkazů a pokud splňuje podmínky na kartě, připojí ji k sobě. 
+
+5. Konec hry:
+Hra končí, když některý z hráčů nasbírá potřebný počet důkazů nebo když jsou všichni hráči poraženi příšerami nebo pastmi. Vítězem se stává hráč, který nasbíral nejvíce důkazů. 
+
+Pamatujte, že Tajemství zámku Dracula je hra plná napětí a záhad. Vaším úkolem je být nejen odvážný, ale také chytrý a důmyslný. Hodně štěstí!

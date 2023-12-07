@@ -1,0 +1,16 @@
+Nazev hry: Arktická výprava
+Kapitola: Charakterizace postav
+
+Charakterizace postav:
+
+1. Kapitán Larsen: Jako velitel výpravy je Larsen zodpovědný za strategické rozhodnutí a vedení týmu. Je odvážný a rozhodný, ačkoli někdy může být tvrdohlavý. Má zkušenosti s navigací v arktických podmínkách a je skvělý v přežití na divoké přírodě.
+
+2. Dr. Emma Frost: Emma je lékařka a vědkyně týmu. Její hlavní úkol je udržovat tým zdravý a studovat arktické podmínky a divokou zvěř. Je inteligentní a pečlivá, ale někdy může být příliš opatrná.
+
+3. Inženýr Erik Nansen: Erik je zodpovědný za veškeré technické a mechanické aspekty výpravy, včetně údržby vybavení a případné opravy. Je praktický a vynalézavý, ale jeho obsedantní soustředění na detaily může zpomalit pokrok výpravy.
+
+4. Průvodce Inuitů Aput: Aput je původem z Inuitů a jako takový má hluboké znalosti a porozumění pro arktické podmínky. Jeho dovednosti v stopování a lovu jsou neocenitelné pro tým. Je tichý a vyrovnaný, ale jeho odlišný pohled na svět může někdy způsobit konflikty.
+
+5. Kuchař a zásobovač Bjorn: Bjorn je zodpovědný za jídlo a zásoby týmu. Je silný a odolný, s velkým smyslem pro humor, který pomáhá udržovat morálku týmu. Jeho slabostí je však jeho láska k jídlu, která může způsobit problémy s zásobami.
+
+Každá postava má své silné stránky a slabiny, které mohou ovlivnit průběh hry. Hráči musí správně využít dovednosti svých postav, aby úspěšně dosáhli severního pólu a přežili nebezpečí Arktidy.

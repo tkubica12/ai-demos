@@ -1,0 +1,20 @@
+Nazev hry: Hledání ztraceného pokladu
+Kapitola: Charakterizace postav
+
+Kapitola: Charakterizace postav
+
+Hledání ztraceného pokladu je hra plná různých dobrodruhů, kteří jsou odlišní nejen svými vlastnostmi, ale také dovednostmi, které mohou využít v průběhu hry. Níže najdete charakteristiku jednotlivých postav, mezi kterými si hráči mohou vybrat.
+
+1. Rytíř: Odvážný a silný, Rytíř je postava, která se nebojí vstoupit do nebezpečí. Jeho vysoká obrana a útočná síla jsou ideální pro boj s monstry. Jeho slabostí je nižší rychlost, kvůli které může ztrácet v honbě za pokladem.
+
+2. Zloděj: Svému jménu dostojí Zloděj svou schopností vyhýbat se pastem a otevírat zamčené dveře. Jeho rychlost je také nejvyšší ze všech postav, což mu umožňuje rychle se pohybovat po mapě. Na druhou stranu, jeho obrana a útočná síla jsou nízké.
+
+3. Mág: Mág je postava, která ovládá magii a může tak zaútočit na monstra z dálky. Jeho magické schopnosti také umožňují odhalovat skryté pasti a tajné chodby. Jeho slabostí je však jeho nízká obrana.
+
+4. Drakobijec: Drakobijec je expert na boj s velkými monstry. Jeho speciální dovednosti mu poskytují bonusy v boji proti těmto tvorům. Jeho slabostí je pomalost a neschopnost vyhýbat se pastem.
+
+5. Průzkumník: Průzkumník je postava, která je schopna prozkoumávat nová území a odhalovat pasti. Jeho rychlost a obrana jsou průměrné, ale jeho schopnosti umožňují hráčům získat výhodu v průzkumu mapy.
+
+6. Alchymista: Alchymista může vytvářet léčivé lektvary a protijedy, které mohou být užitečné v průběhu hledání pokladu. Jeho slabostí je nízká obrana a útočná síla.
+
+Každá postava v Hledání ztraceného pokladu má své silné a slabé stránky, které hráči musí využít k dosažení svého cíle. Důležitou roli hraje taktika a strategie, a to, jak hráči využijí schopnosti svých postav v dané situaci.

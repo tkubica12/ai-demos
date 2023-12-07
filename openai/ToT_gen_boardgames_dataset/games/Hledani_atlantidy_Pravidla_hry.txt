@@ -1,0 +1,26 @@
+Nazev hry: Hledání atlantidy
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Hledání Atlantidy je dobrodružná desková hra pro 2-6 hráčů. Hlavním cílem hry je prozkoumat mapu, vyhnout se nebezpečím a nakonec objevit ztracené město Atlantida.
+
+1. Příprava hry: 
+Každý hráč si vybere svou postavu dobrodruha a obdrží odpovídající kartu postavy s unikátními schopnostmi. Hráči rozmístí své postavy na startovací pole a poté zamíchají balíček karet s událostmi a položí ho lícem dolů vedle herního plánu.
+
+2. Průběh hry: 
+Hráči na tahu hodí dvěma kostkami a posunou svou postavu o počet polí, který padl na kostkách. Na každém poli, na které hráč přistane, musí odhalit kartu události a vyřešit ji. To může zahrnovat boj s monstry, nalezení pokladu nebo potřebu vyřešit hádanku. 
+
+3. Vyhnout se nebezpečím: 
+Některé karty událostí představují nebezpečí. Hráč, který na takovou kartu narazí, musí vyřešit danou situaci, často za pomoci svých schopností nebo předmětů, které má u sebe. Pokud hráč neuspěje, může být zraněn a ztratit jedno ze svých životů.
+
+4. Prozkoumání lokací: 
+Některá pole na herním plánu představují tajemné lokality, které hráči mohou prozkoumat. Pokud se hráč rozhodne prozkoumat lokalitu, odhalí vrchní kartu z balíčku lokací a pokusí se splnit její požadavky. Pokud je úspěšný, může získat cenné předměty nebo informace, které mu pomohou v hledání Atlantidy.
+
+5. Nalezení Atlantidy: 
+Atlantida je skryta někde na herním plánu a hráči ji mohou objevit pouze tehdy, pokud mají potřebné informace. Tyto informace mohou získat prozkoumáním lokací nebo vyřešením určitých událostí.
+
+6. Konec hry: 
+Hra končí, když jeden z hráčů najde Atlantidu. Pokud se to nikomu nepodaří do doby, než je vyčerpán balíček karet událostí, hra končí a hráč s nejvíce získanými poklady vyhrává.
+
+Hra Hledání Atlantidy je plná vzrušení a dobrodružství. Každá hra je jedinečná díky velkému množství možných událostí a lokalit. Připravte se na cestu plnou nebezpečí a objevů a vydejte se hledat ztracené město!

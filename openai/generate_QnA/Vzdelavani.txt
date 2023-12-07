@@ -1,0 +1,85 @@
+Oblast: Vzdělávání
+
+Otázka: Kde najdu nabídku interních školení?
+Odpověď: Všechna naše interní školení nalezneš v systému TomEdu. Ale buď opatrný, některé kurzy jsou tak zajímavé, že se na ně musíš přihlásit svižně, než tě předběhne Tom z IT oddělení.
+
+Otázka: Jak se mohu přihlásit na školení?
+Odpověď: Přihlášení na školení je velmi jednoduché. Stačí jít do systému TomEdu, najít si školení, které tě zajímá a kliknout na tlačítko "Přihlásit". Ale pozor, tlačítko je velmi citlivé a rádo mění barvu.
+
+Otázka: Co když mi nějaké školení nevyhovuje termínově?
+Odpověď: V tom případě můžeš zkusit napsat lektorovi přes TomEdu a požádat ho o změnu termínu. Ale budeš potřebovat dobrý důvod, třeba že máš plánovanou dovolenou na Marsu.
+
+Otázka: Jak zjistím, kdy mám školení?
+Odpověď: Termíny všech tvých školení se zobrazí v kalendáři v systému TomEdu. Ale pokud se ti tam nezobrazí, zkontroluj, jestli nejsi přihlášen pod svým superhrdinským jménem.
+
+Otázka: Můžu se školit v pracovní době?
+Odpověď: Ano, můžeš. Ale pokud se budeš školit v pracovní době každý den, mohli bychom tě začít podezírat, že se chceš stát profesionálním studentem.
+
+Otázka: Co když mi nějaké školení unikne?
+Odpověď: Pokud ti nějaké školení unikne, můžeš se podívat do sekce "Archiv školení" v systému TomEdu. Ale buď opatrný, některé školení tam mohou být ukryté pod kódovými jmény.
+
+Otázka: Jak zjistím, jestli jsem školení úspěšně dokončil?
+Odpověď: Po úspěšném dokončení školení obdržíš certifikát přímo v systému TomEdu. Pokud ho tam nenajdeš, zkontroluj, jestli nepatříš k těm, co je ještě mají v košíku. 
+
+Otázka: Můžu se zúčastnit školení z domova?
+Odpověď: Samozřejmě, můžeš se zúčastnit školení z pohodlí svého domova. Ale nezabudni, že je nevhodné přijít na videohovor jen v pyžamu.
+
+Otázka: Mohu se přihlásit na školení mimo moji pracovní pozici?
+Odpověď: Ano, můžeš. Ale pokud budeš chtít chodit na všechny kurzy pro astronauty, budeme muset prověřit, jestli nemáš tajný plán na cestu na Měsíc. 
+
+Otázka: Kde najdu materiály ke školení?
+Odpověď: Materiály ke školení nalezneš přímo v systému TomEdu. Ale pozor, některé dokumenty se rády schovávají na nečekaných místech. 
+
+Otázka: Co když se mi něco na školení nezdá?
+Odpověď: Pokud se ti na školení něco nezdá, můžeš to napsat přímo lektorovi přes systém TomEdu. Ale neboj, nejsme zlí a nekoušeme. 
+
+Otázka: Můžu navrhnout vlastní školení?
+Odpověď: Ano, můžeš. Ale pokud navrhneš školení o chovu jednorožců, budeme muset prověřit, jestli jsi náhodou nepil něco silnějšího. 
+
+Otázka: Kde mohu získat potvrzení o absolvování školení?
+Odpověď: Potvrzení o absolvování školení obdržíš přímo v systému TomEdu. Ale pokud ho tam nenajdeš, zkontroluj, jestli jsi opravdu byl na školení a nejen ve svých snech. 
+
+Otázka: Jakou formu mají naše školení?
+Odpověď: Naše školení mohou mít různé formy - od prezentací, přes workshopy, až po online kurzy. Ale nezabudni, že ani při online kurzech není vhodné jíst popcorn před kamerou. 
+
+Otázka: Kde mohu získat zpětnou vazbu na školení?
+Odpověď: Zpětnou vazbu na školení můžeš získat přímo v systému TomEdu. Ale neboj, nejsme zlí a nekoušeme. 
+
+Otázka: Jak se mohu připravit na školení?
+Odpověď: Příprava na školení je velmi individuální. Někdo si rád přečte materiály předem, někdo se raději nechá překvapit. Ale pokud se chystáš na školení o kosmu, doporučujeme si předem natrénovat nevolnost. 
+
+Otázka: Kde najdu seznam lektorů?
+Odpověď: Seznam všech našich lektorů nalezneš v systému TomEdu. Ale pozor, někteří z nich se rádi převlékají za superhrdiny. 
+
+Otázka: Jak se mohu stát lektorem?
+Odpověď: Chceš se stát lektorem? Skvělé! Stačí se přihlásit přes systém TomEdu. Ale nezapomeň, že k tomu budeš potřebovat super schopnosti a plášť je volitelný. 
+
+Otázka: Co když se mi nedaří přihlásit na školení?
+Odpověď: Pokud se ti nedaří přihlásit na školení, zkus to znovu později. Ale pokud to stále nebude fungovat, zavolej Tomovi z IT oddělení. Ten už s počítači vykouzlí skoro cokoli. 
+
+Otázka: Co když se mi nezobrazují materiály ke školení?
+Odpověď: Pokud se ti nezobrazují materiály ke školení, zkontroluj, jestli jsi přihlášen pod správným účtem. Ale pokud to stále nebude fungovat, zavolej Tomovi z IT oddělení. Ten už s počítači vykouzlí skoro cokoli. 
+
+Otázka: Co když nechci absolvovat některé povinné školení?
+Odpověď: Pokud nechceš absolvovat některé povinné školení, můžeš se pokusit přesvědčit svého šéfa, že to není nutné. Ale pozor, budeš potřebovat dobré argumenty. 
+
+Otázka: Mohu školení absolvovat vícekrát?
+Odpověď: Ano, můžeš. Ale pokud budeš chtít absolvovat stejné školení desetkrát, budeme muset prověřit, jestli se ti nepletou školení s oblíbenými seriály. 
+
+Otázka: Jak dlouho trvá školení?
+Odpověď: Délka školení se různí. Některé trvají jen pár hodin, jiné mohou trvat i několik dní. Ale neboj, ještě se nestalo, aby někdo na školení zůstal uvězněný navždy. 
+
+Otázka: Kde se konají školení?
+Odpověď: Školení se konají buď online, nebo v našich kancelářích. Ale pokud se chceš zúčastnit školení na Marsu, budeme muset prověřit, jestli máme dostatečný rozpočet. 
+
+Otázka: Co když nemám k dispozici počítač na online školení?
+Odpověď: Pokud nemáš k dispozici počítač na online školení, můžeš se zkusit připojit přes mobil. Ale pozor, některé školení mohou být tak fascinující, že tě mobil přestane bavit. 
+
+Otázka: Jak mohu zlepšit své dovednosti v oblasti, která mě zajímá?
+Odpověď: Pokud chceš zlepšit své dovednosti v oblasti, která tě zajímá, doporučujeme ti absolvovat relevantní školení v systému TomEdu. Ale nezapomeň, že kromě školení je důležitá i praxe. Takže pokud chceš zlepšit své dovednosti v létání, budeš muset opustit své gaučové hnízdo. 
+
+Otázka: Můžu se zúčastnit školení ve svém volném čase?
+Odpověď: Ano, můžeš. Ale pokud se budeš chtít zúčastnit školení v půlnoci, budeme muset prověřit, jestli nejsi upír. 
+
+Otázka: Kde mohu získat certifikáty po absolvování školení?
+Odpověď: Certifikáty po absolvování školení obdržíš přímo v systému TomEdu. Ale pokud je tam nenajdeš, zkontroluj, jestli jsi opravdu byl na školení a nejen ve svých snech.

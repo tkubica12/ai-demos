@@ -1,0 +1,18 @@
+Nazev hry: Tajemství starého hradu
+Kapitola: Charakterizace postav
+
+Charakterizace postav:
+
+1. Dobrodruh:
+Hlavní postava hry, kterou hráč ovládá. Dobrodruh je odvážný, chytrý a obratný. Má vynikající schopnosti v oblasti přežití, detektivní práce a řešení hádanek. Jeho cílem je prozkoumat starý hrad, odhalit jeho tajemství a najít cestu ven. Dobrodruh je vždy připravený čelit nebezpečí a pastím, které na něj v hradu čekají.
+
+2. Duch Hradu:
+Tato tajemná entita je duch, který obývá starý hrad. Jako strážce hradu je jeho úkolem chránit jeho tajemství před cizinci. Duch Hradu je neviditelný, ale jeho přítomnost je cítit v každém koutě hradu. Může vytvářet pasti a klamat dobrodruha, aby mu znemožnil najít cestu ven.
+
+3. Starý Rytíř:
+Starý rytíř je dávný obyvatel hradu, který se stal jeho vězněm. Je moudrý a zná hrad jako své boty. Může poskytnout cenné rady a klíče k řešení záhad hradu, pokud ho dobrodruh najde a osvobodí.
+
+4. Temný Čaroděj:
+Temný čaroděj je zlý a mocný kouzelník, který kdysi ovládal hrad. Jeho kouzla jsou stále aktivní a mohou představovat vážné nebezpečí pro dobrodruha. Čaroděj sám je však už dávno mrtvý, takže se s ním hráč nepotká přímo, ale pocítí jeho přítomnost skrze magické pasti a záhady.
+
+Každá postava představuje jedinečný prvek hry a přidává do ní další vrstvu dobrodružství a záhad. Jejich interakce s hráčem a mezi sebou tvoří dynamické a napínavé prostředí plné nečekaných zvratů.

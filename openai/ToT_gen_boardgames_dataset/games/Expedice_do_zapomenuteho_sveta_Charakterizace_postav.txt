@@ -1,0 +1,14 @@
+Nazev hry: Expedice do zapomenutého světa
+Kapitola: Charakterizace postav
+
+Charakterizace postav
+
+1. Odvážný Průzkumník: Průzkumník je jedna z klíčových postav v Expedici do zapomenutého světa. Jeho odvaha a touha po dobrodružství ho motivují k prozkoumání neznámého terénu. Je to první hráč, který se nebojí čelit nebezpečím, ať už je to divoká zvěř nebo smrtelné pasti. Jeho schopnosti zahrnují vyšší odolnost vůči útokům a lepší orientaci v terénu.
+
+2. Moudrý Navigátor: Navigátor je další důležitou postavou v naší hře. Jeho schopnost číst mapy a rozhodovat o nejlepší cestě je klíčová pro úspěch expedice. Navigátor je vždy ten, kdo rozhoduje o dalším směru cesty a pomáhá vyhýbat se nebezpečným pastím.
+
+3. Opatrný Přeživší: Přeživší je postava, která se umí přizpůsobit jakékoliv situaci a vždy najde způsob, jak přežít. Má schopnost shánět potravu a vodu, a tak zajišťuje základní potřeby celé skupiny. Navíc je schopen léčit zranění, což se může hodit po setkání s divokou zvěří.
+
+4. Silný Lovčí: Lovčí je postava, která chrání skupinu před divokými zvířaty. Jeho fyzická síla a dovednosti v lovu jsou neocenitelné pro obranu skupiny a zajištění potravy. Lovčí je také schopen stavět úkryty, které mohou chránit skupinu před nepříznivým počasím.
+
+Každá postava má své unikátní schopnosti a dovednosti, které mohou ovlivnit výsledek hry. Hráči musí efektivně využívat schopnosti svých postav a spolupracovat, aby mohli přežít a vrátit se zpět z této nebezpečné expedice. Každé rozhodnutí, ať už malé nebo velké, může znamenat výhru nebo prohru.

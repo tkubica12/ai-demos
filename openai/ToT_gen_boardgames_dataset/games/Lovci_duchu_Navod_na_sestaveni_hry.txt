@@ -1,0 +1,22 @@
+Nazev hry: Lovci duchů
+Kapitola: Návod na sestavení hry
+
+Kapitola: Návod na sestavení hry Lovci duchů
+
+1. Rozložení hrací desky: Hrací deska představuje strašidelný dům, který se snažíte vyčistit od duchů. Deska je rozdělena na několik sekcí, včetně různých místností a chodeb. Rozložte hrací desku na stůl tak, aby byla pro všechny hráče dobře viditelná a přístupná. 
+
+2. Příprava karet: Karty v hře představují různé duchy, pasti a dobrodružství, které na vás v průběhu hry čekají. Zamíchejte karty a položte je lícem dolů vedle hrací desky. 
+
+3. Rozdělení hráčských figur: Každý hráč si vybere jednu figurku lovce duchů. Figurky umístěte na startovní pole hrací desky. 
+
+4. Příprava hracích žetonů: Hrací žetony reprezentují zdraví a energii vašeho lovce duchů. Každý hráč dostane určitý počet žetonů, které umístí vedle sebe. 
+
+5. Nastavení hracích kamenů: Hrací kameny slouží jako pasti a překážky na hrací desce. Rozložte je náhodně po hrací desce podle pokynů v pravidlech. 
+
+6. První tah: Hráč, který byl naposledy v strašidelném domě (nebo pokud se nikdo neozve, hráč nejmladší) zahajuje hru.
+
+7. Průběh hry: Hráči se střídají v tazích a postupují po hrací desce podle vržených kostek. Cílem je vyčistit dům od duchů, vyhnout se pastem a překonat všechny překážky. 
+
+8. Konec hry: Hra končí, když jeden z hráčů úspěšně vyčistí dům od duchů. Vítěz je hráč, který to dokázal nejrychleji, nebo, v případě, že se to nikomu nepodařilo, hráč s nejvíce zachovanými žetony zdraví a energie. 
+
+Nyní, když je vše připraveno, můžete se ponořit do strašidelného dobrodružství plného napětí a zábavy. Lovci duchů, připravte se, vaše výprava začíná!

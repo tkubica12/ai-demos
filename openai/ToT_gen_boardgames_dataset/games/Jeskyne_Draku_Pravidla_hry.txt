@@ -1,0 +1,25 @@
+Nazev hry: Jeskyně Draků
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Hra "Jeskyně Draků" je určena pro 2 až 5 hráčů. Hráči se stávají odvážnými dobrodruhy, kteří vstupují do temné jeskyně plné draků a pokladů. Cílem každého hráče je přežít, porazit draky a sebrat co nejvíce pokladů.
+
+Příprava hry:
+1. Rozložte herní plán, který představuje jeskyni, na střed stolu.
+2. Každý hráč si vybere postavu dobrodruha a umístí ji na startovní políčko.
+3. Zamíchejte karty pokladů a draků a položte je na předem určená místa na herním plánu.
+4. Rozdejte každému hráči 5 karet zbraní.
+
+Průběh hry:
+Hráči se střídají v tazích, které probíhají ve směru hodinových ručiček. V každém tahu má hráč možnost provést jednu z následujících akcí: pohyb, boj s drakem nebo sebrání pokladu.
+
+1. Pohyb: Hráč smí přesunout svou postavu o jedno políčko.
+
+2. Boj s drakem: Pokud se hráč nachází na políčku s drakem, může se s ním pokusit bojovat. Hráč musí odhodit kartu zbraně a poté hodit kostkou. Pokud výsledek hodu je vyšší nebo roven síle draka (udáno na kartě draka), hráč draka porazí a odstraní ho z herního plánu.
+
+3. Sebrání pokladu: Pokud se hráč nachází na políčku s pokladem a na tomto políčku není drak, může poklad sebrat.
+
+Hra končí, když jeden z hráčů sebere určený počet pokladů nebo když všichni hráči jsou poraženi draky. Vyhrává hráč, který sebral nejvíce pokladů. V případě remízy rozhoduje počet poražených draků.
+
+"Hra Jeskyně Draků" je plná napětí a adrenalinu. Každý tah může být rozhodující a hráči musí pečlivě plánovat své akce. Přežijete v jeskyni plné draků a stane se z vás nejbohatší dobrodruh?

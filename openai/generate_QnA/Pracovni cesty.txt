@@ -1,0 +1,31 @@
+Oblast: Pracovní cesty
+
+Otázka: Jak si mohu objednat letenky pro pracovní cestu?
+Odpověď: Je to jednoduché, stačí se přihlásit do našeho systému TomTravel a vyplnit formulář s názvem "Žádost o letenky". Ale nezapomeň, že nejsme letecká společnost, takže si nevybírej tu nejluxusnější třídu!
+
+Otázka: Kde najdu informace o možných ubytováních pro pracovní cesty?
+Odpověď: Všechny možnosti ubytování jsou v systému TomTravel. A ne, sorry, nezahrnuje to 5-hvězdičkové hotely s nekonečným bazénem.
+
+Otázka: Jak si mohu rezervovat auto pro pracovní cestu?
+Odpověď: Pro rezervaci vozu použij systém TomTravel. Ale nezapomeň, že Ferrari není v seznamu možností.
+
+Otázka: Mohu si na pracovní cestu vzít rodinu?
+Odpověď: Ano, můžeš, ale všechny náklady spojené s rodinnými členy budou na tvém vrubu. A ne, neplatíme za dětské hlídače.
+
+Otázka: Co když se mi něco stane na pracovní cestě?
+Odpověď: Máme pojištění pro všechny naše zaměstnance na pracovních cestách. Ale to neznamená, že můžeš skákat z letadel nebo se potápět s žraloky.
+
+Otázka: Jaké jsou limity pro stravovací náklady na pracovní cestě?
+Odpověď: Limity jsou uvedeny v našem systému TomTravel. A ne, nemůžeš jíst každý den steak a kaviár.
+
+Otázka: Jak mohu vyúčtovat náklady spojené s pracovní cestou?
+Odpověď: Všechny účty a doklady naskenuj a nahraj do systému TomTravel. A ne, nejsme schopni proplatit tvou návštěvu v kasinu.
+
+Otázka: Jak dlouho předem musím plánovat pracovní cestu?
+Odpověď: Doporučujeme plánovat cestu alespoň měsíc předem. A ne, nemůžeš jít na "pracovní cestu" na poslední chvíli na Maldívy.
+
+Otázka: Jaký je postup při zrušení pracovní cesty?
+Odpověď: V takovém případě kontaktuj náš tým TomTravel co nejdříve. A ne, nemůžeš zrušit cestu jen proto, že jsi se rozhodl zůstat doma a sledovat Netflix.
+
+Otázka: Mohu si vybrat vlastní hotel pro pracovní cestu?
+Odpověď: Ano, můžeš, ale musí splňovat naše standardy a limity pro ubytování. A ne, to neznamená, že můžeš bydlet v hotelu, který vypadá jako zámek.

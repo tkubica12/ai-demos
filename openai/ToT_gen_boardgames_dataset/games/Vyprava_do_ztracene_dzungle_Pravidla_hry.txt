@@ -1,0 +1,21 @@
+Nazev hry: Výprava do ztracené džungle
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Výprava do ztracené džungle je dobrodružná desková hra určená pro 2 až 4 hráče. Vaším úkolem je prozkoumat neznámou džungli, vyhnout se nebezpečím, najít ztracené město a přežít. Následující pravidla vám pomohou pochopit, jak hru hrát.
+
+1. Příprava hry: Každý hráč si vybere svého dobrodruha a postaví svou figurku na startovní pole na herní desce. Poté zamíchejte karty dobrodružství a vytvořte balíček. Každý hráč obdrží tři karty dobrodružství do ruky.
+
+2. Průběh hry: Hra se hraje na kola. V každém kole hráč provede následující akce:
+   - Pohyb: Hráč hodí kostkou a posune svou figurku o počet polí, který ukázala kostka.
+   - Akce: Hráč může hrát jednu ze svých karet dobrodružství. Karty mohou obsahovat různé akce, jako je například vylepšení vybavení, léčení zranění nebo získání speciálních schopností.
+   - Dobrodružství: Pokud hráč skončí svůj tah na poli s ikonou dobrodružství, musí potáhnout kartu z balíčku dobrodružství a vyřešit situaci, kterou karta popisuje.
+
+3. Nebezpečí: Některá pole na herní desce obsahují ikony nebezpečí. Pokud hráč skončí svůj tah na takovém poli, musí hodit kostkou a porovnat výsledek s tabulkou nebezpečí v pravidlech. Mohou se stát různé věci, od zranění až po ztrátu vybavení.
+
+4. Ztracené město: Cílem hry je najít ztracené město. To se nachází na posledním poli herní desky. První hráč, který se tam dostane, vyhrává hru. Nicméně, pokud se mu to nepodaří do určitého počtu kol, všechny hráče čeká porážka.
+
+5. Přežití: Během hry hráči ztrácejí životy. Pokud hráč ztratí všechny životy, je z hry vyloučen. Pokud je vyloučen poslední hráč, hra končí a všichni hráči prohrávají.
+
+Výprava do ztracené džungle je plná dobrodružství a přežití. Pamatujte, že nejdůležitější není vyhrát, ale užít si hru. Přejeme vám hodně štěstí a dobrou zábavu na vaší výpravě!

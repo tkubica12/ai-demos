@@ -1,0 +1,14 @@
+Nazev hry: Dobytí hradu
+Kapitola: Charakterizace postav
+
+Charakterizace postav
+
+1. Rytíř: Jako hlavní hrdina hry, rytíř je odvážný a neohrožený bojovník. Jeho cílem je dobýt nepřátelský hrad a přitom se vyhnout různým pastem a nebezpečím. Rytíř je velmi silný a odolný, což mu umožňuje přežít v náročných bitvách. Jeho největšími výhodami jsou jeho zkušenosti v boji a jeho schopnost čelit strachu. Rytíř je také velmi strategický, což mu umožňuje plánovat své tahy a předvídat pohyby nepřítele.
+
+2. Nepřátelé: Nepřátelé v hradě jsou různé. Mohou to být stráže, rytíři nepřítele, ale také různá monstra a mytické bytosti. Nepřátelé jsou v hradě k ochraně a jejich cílem je zabránit rytíři v dobývání hradu. Jejich síla a dovednosti se mohou lišit, někteří jsou silnější a těžší na poražení, zatímco jiní jsou slabší, ale mohou být nebezpeční svými lstivými pastmi.
+
+3. Stráže: Stráže jsou obecně slabší nepřátelé, ale jejich početnost a přesná koordinace mohou být pro rytíře výzvou. Jejich hlavním úkolem je chránit hrad a zabránit rytíři v jeho dobývání.
+
+4. Monstra a mytické bytosti: Tyto nepřátelé jsou obzvláště nebezpeční, protože mají speciální schopnosti a sílu, která převyšuje běžné stráže nebo rytíře. Mohou být schopni ovládat magii, nebo mít obrovskou fyzickou sílu. Rytíř musí být velmi opatrný a promyšlený při boji s nimi.
+
+5. Páni hradu: Jsou to nejvyšší a nejmocnější nepřátelé v hradě. Pán hradu je obvykle velmi silný a má unikátní dovednosti, které ho činí největším výzvou pro rytíře. Poražení pána hradu je klíčové pro dobýtí hradu.

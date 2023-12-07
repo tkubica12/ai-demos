@@ -1,0 +1,34 @@
+Nazev hry: Kletba mumie
+Kapitola: FAQ - často kladené otázky
+
+FAQ - Často kladené otázky
+
+1. Jak dlouho trvá jedna hra Kletba mumie?
+Jedna partie hry Kletba mumie může trvat od 45 minut do 2 hodin. Doba hry závisí na počtu hráčů a na tom, jak rychle hráči procházejí pyramidou.
+
+2. Kolik hráčů může hrát Kletbu mumie?
+Hra je určena pro 1 až 4 hráče. Každý hráč představuje archeologa, který se snaží prozkoumat pyramidu a vyhnout se kletbě mumie.
+
+3. Jaké je doporučené věkové rozmezí pro hru Kletba mumie?
+Hra je vhodná pro hráče od 12 let. Některé prvky hry, jako jsou pasti, příšery a prokletí, mohou být pro mladší hráče obtížné nebo děsivé.
+
+4. Jaký je cíl hry Kletba mumie?
+Cílem hry je prozkoumat pyramidu, najít cenné artefakty a uniknout před kletbou mumie. Hráč, který se dostane z pyramidy s nejvíce body získanými za artefakty, vyhrává.
+
+5. Jaké jsou základní pravidla hry?
+Hráči se pohybují po herním plánu, který představuje pyramidu, a snaží se vyhnout pastem a příšerám. Pokud narazí na mumii, musí se pokusit uniknout před její kletbou. Během hry mohou hráči sbírat artefakty, které jim přináší body.
+
+6. Je hra Kletba mumie kooperativní?
+Ne, Kletba mumie je soutěživá hra. Ačkoli hráči mohou spolupracovat při prozkoumání pyramidy, každý hráč hraje za sebe a snaží se získat nejvíce bodů.
+
+7. Co dělám, když narazím na mumii?
+Pokud narazíte na mumii, musíte hodit kostkou a pokusit se uniknout před její kletbou. Pokud se vám to nepodaří, ztrácíte jedno kolo.
+
+8. Jaké jsou artefakty a jak je mohu získat?
+Artefakty jsou cenné předměty, které můžete nalézt v pyramidě. Pro jejich získání musíte prozkoumat určité lokace na herním plánu. Každý artefakt vám přináší určitý počet bodů.
+
+9. Jak se vyhýbám pastem a příšerám?
+Každý pohyb po herním plánu je rizikový. Před vstupem do nového prostoru musíte hodit kostkou. Pokud hodíte nízké číslo, můžete narazit na past nebo příšeru.
+
+10. Co se stane, když zemřu v hře?
+Pokud zemřete v hře, buďto kvůli pasti, příšerě nebo kletbě mumie, jste z hry vyřazeni. Pokud však máte určitý artefakt, můžete jej použít k oživení a pokračování v hře.

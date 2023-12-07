@@ -1,0 +1,22 @@
+Nazev hry: Jeskyně Draků
+Kapitola: Návod na sestavení hry
+
+Návod na sestavení hry Jeskyně Draků:
+
+1. Rozložení hrací plochy: Hra Jeskyně Draků se hraje na hrací ploše, která představuje temnou jeskyni. Rozložte hrací desku na stůl tak, aby byla dobře viditelná pro všechny hráče. 
+
+2. Příprava karet: Hra obsahuje karty draků a karty pokladů. Zamíchejte je zvlášť a položte je na připravená místa na hrací desce. Zamíchejte karty a vytvořte z nich dva zásobníky - jeden pro draky a jeden pro poklady.
+
+3. Příprava hráčů: Každý hráč si vybere jednu figurku, kterou bude reprezentovat na hrací ploše. Figurky se umístí na startovací pole.
+
+4. Příprava kostek: Kostky slouží k rozhodování o výsledku bojů s draky. Položte je vedle hrací desky na místo, kde jsou pro všechny hráče dobře dosažitelné.
+
+5. Příprava žetonů života: Každý hráč obdrží na začátku hry určitý počet žetonů života. Tyto žetony se během hry odkládají, když hráč utrpí zranění od draka. Pokud hráč ztratí všechny své žetony života, je z hry vyřazen.
+
+6. Příprava žetonů pokladů: Žetony pokladů se v průběhu hry sbírají. Každý poklad má určitou hodnotu. Hráč, který na konci hry má nejvíce bodů za poklady, vyhrává.
+
+7. Nastavení pravidel: Přečtěte si pravidla hry a ujistěte se, že je všichni hráči rozumí. Můžete je také vysvětlit ostatním hráčům.
+
+8. Zahájení hry: Hra může začít. Hráč, který je na tahu, si vybere, zda chce bojovat s drakem nebo sbírat poklady. Hráči se střídají v tahách, dokud někdo nevyhraje nebo nejsou všichni hráči poraženi.
+
+Toto je základní návod na sestavení hry Jeskyně Draků. Hra může být složitější, pokud se přidají další pravidla a komponenty, ale základní principy se nezmění. Pamatujte, že nejdůležitější je, aby se všichni hráči bavili a užívali si hru.

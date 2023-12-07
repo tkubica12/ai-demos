@@ -1,0 +1,20 @@
+Nazev hry: Průzkum podzemí
+Kapitola: Charakterizace postav
+
+Kapitola: Charakterizace postav
+
+Průzkum podzemí nabízí hráčům možnost prožít dobrodružství v kůži některé z následujících postav:
+
+1. Rytíř: Tento statečný bojovník je vybaven silným mečem a těžkým štítem. Jeho nesmírná síla a odvaha mu umožňují čelit nejstrašnějším monstům. Jeho slabostí je však pomalost a malá obratnost, což ho činí zranitelným pro pasti.
+
+2. Zloděj: Obratný a rychlý, zloděj je mistrem v obcházení pastí a otevírání zamčených dveří. Jeho lehký krok a schopnost zůstat neslyšný mu dávají výhodu při překvapení nepřátel. Jeho slabostí je ale nízká síla v přímém boji.
+
+3. Mág: S jeho kouzly může mág uzdravit spoluhráče, vytvářet ochranná pole nebo útočit na nepřátele. Jeho slabostí je nízké zdraví a fyzická slabost, což ho činí zranitelným pro přímé útoky.
+
+4. Lovec: Lovec je mistrem v lukostřelbě, umí dobře zacházet s lukem a šípy. Jeho rychlé reflexy a přesnost mu umožňují účinně bojovat na dálku. Jeho slabostí je slabá obrana v blízkém boji.
+
+5. Druid: Tato postava je spojená s přírodou a jejími silami. Dokáže využít svou magii k léčení, ochraně nebo útoku. Je vyváženou postavou s dobrou obranou a útokem, ale jeho magie je omezená a vyžaduje regeneraci.
+
+6. Trpaslík: Trpaslík je tvrdý bojovník s vysokou obranou a silným útokem. Jeho schopnost odolat těžkým úderům a pastem ho činí vynikající volbou pro průzkum nebezpečného podzemí. Jeho slabostí je pomalost a nízká magie.
+
+Pamatujte, že každá postava má své silné a slabé stránky. Nejlepší strategií je využít jejich unikátní schopnosti a pracovat jako tým, abyste překonali všechny výzvy, které Průzkum podzemí před vás postaví.

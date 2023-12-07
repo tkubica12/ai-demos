@@ -1,0 +1,18 @@
+Nazev hry: Boj s draky
+Kapitola: Charakterizace postav
+
+Kapitola: Charakterizace postav
+
+V dobrodružné deskové hře Boj s draky se setkáte s různými postavami, které představují jednotlivé role, jež můžete zastávat. 
+
+1. Rytíř: Jako hlavní hrdina hry je rytíř postava plná odvahy a statečnosti. Jeho úkolem je porazit draky a zachránit království. Rytíř je vybaven mečem pro boj s draky a štítem pro obranu proti jejich útokům. Má také schopnost léčení, která mu pomáhá regenerovat zdraví po boji.
+
+2. Draci: Draci jsou hlavními protivníky v této hře. Jsou to mocné a nebezpečné bytosti, které ohrožují království. Draci mají různé schopnosti, jako je oheň, led nebo jed, které hráč musí překonat. Každý drak je jedinečný a vyžaduje odlišnou strategii k poražení.
+
+3. Král: Král je postava, kterou rytíř chrání. Je to moudrý a spravedlivý vládce království. Král hráči poskytuje rady a poskytuje mu odměny za úspěšné mise.
+
+4. Kouzelník: Kouzelník je spojenec rytíře. Pomáhá mu v boji proti drakům díky svým magickým schopnostem. Kouzelník může rytíře léčit, posilovat jeho útoky nebo oslabovat draky.
+
+5. Vesničané: Vesničané jsou obyvatelé království, které rytíř chrání. I když nemají bojové schopnosti, jsou důležití pro hru. Rytíř může vesničanům pomoci, a oni mu v reakci na to mohou poskytnout informace, zbraně nebo jiné užitečné předměty.
+
+Každá postava v hře Boj s draky přináší unikátní prvky a strategie, které hráči musí využít k dosažení svého cíle - zachránit království. Každá postava má své silné a slabé stránky, které hráč musí poznat a využít ve svůj prospěch.

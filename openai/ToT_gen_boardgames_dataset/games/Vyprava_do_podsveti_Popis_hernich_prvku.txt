@@ -1,0 +1,24 @@
+Nazev hry: Výprava do podsvětí
+Kapitola: Popis herních prvků
+
+Kapitola: Popis herních prvků
+
+1. Herní Deska: Tvoje dobrodružství se odehrává na herní desce, která představuje temné podsvětí. Deska je rozdělena do čtvercových polí, po kterých se tvůj hrdina pohybuje.
+
+2. Figurka Hrdiny: Každý hráč má k dispozici figurku, která reprezentuje jeho hrdinu v podsvětí. Figurka se pohybuje po herní desce a interaguje s ostatními herními prvky.
+
+3. Karty Nepřátel: Karty nepřátel jsou rozloženy po herní desce. Pokud se tvůj hrdina dostane na pole s kartou nepřítele, musí s ním bojovat. Každá karta nepřítele má specifické atributy a schopnosti, které ovlivňují průběh boje.
+
+4. Předměty a Vybavení: Po celé herní desce jsou rozmístěny karty předmětů a vybavení, které tvůj hrdina může získat. Tyto předměty mohou zlepšit schopnosti tvého hrdiny, pomoci mu v boji nebo mu poskytnout jiné výhody.
+
+5. Karty Pastí: Karty pastí představují nebezpečí, kterému se musí tvůj hrdina vyhnout. Pokud tvůj hrdina vstoupí na pole s kartou pasti, musí se pokusit ji obejít nebo zneškodnit. 
+
+6. Kostka: Kostka je používána pro boj, zneškodňování pastí a další akce. Počet bodů, který na kostce padne, ovlivňuje výsledek těchto akcí.
+
+7. Herní Karty: Herní karty představují různé události, které se mohou v průběhu hry stát. Tyto karty mohou ovlivnit průběh hry a přidávají další vrstvu strategie.
+
+8. Žetony Zdraví: Žetony zdraví reprezentují životy tvého hrdiny. Pokud tvůj hrdina ztratí všechny žetony zdraví, je poražen a hra končí.
+
+9. Mise: Každá hra je ovlivněna misí, kterou si hráči na začátku vyberou. Mise určuje cíl hry a může přidat speciální pravidla nebo omezení.
+
+Výprava do podsvětí je plná dobrodružství a akce. Každý herní prvek přidává do hry unikátní prvek a ovlivňuje strategii, kterou musíš jako hráč zvolit. Buď připraven na cestu plnou nebezpečí a vzrušení!

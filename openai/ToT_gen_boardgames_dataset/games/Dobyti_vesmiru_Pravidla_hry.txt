@@ -1,0 +1,22 @@
+Nazev hry: Dobytí vesmíru
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Dobytí vesmíru je strategická hra plná dobrodružství, kde se stáváte velitelem vesmírné lodi s cílem dobýt co nejvíce planet. Hra je určena pro 2 až 4 hráče a trvá přibližně 60-90 minut. 
+
+Hra začíná tak, že každý hráč dostane svoji vesmírnou loď a určený počet zdrojů. Všechny planety jsou na začátku hry neutrální a čekají na dobytí. Každý hráč má na výběr z následujících akcí: pohyb, boj, dobývání, sběr zdrojů a výstavba.
+
+1. Pohyb: Vesmírnou lodí se můžete pohybovat o jedno políčko za tah. Pokud narazíte na nebezpečí, musíte ho vyřešit. To může zahrnovat boj s nepřáteli nebo vyhnutí se překážkám.
+
+2. Boj: Pokud se na stejném políčku setkáte s nepřítelem, musíte s ním bojovat. Boj se řeší pomocí speciálních bojových kostek. Kdo má na konci kola více bodů na kostkách, ten vyhrává.
+
+3. Dobývání: Pokud se nacházíte na políčku s planetou, můžete se pokusit ji dobýt. To vyžaduje určité množství zdrojů a času. Pokud je vaše dobývání úspěšné, planeta se stává vaší a přináší vám pravidelný příjem zdrojů.
+
+4. Sběr zdrojů: Na některých políčkách můžete sbírat zdroje. Ty vám pomohou při dobývání planet a v boji s nepřáteli.
+
+5. Výstavba: Pokud máte dostatek zdrojů, můžete na svých planetách stavět různé budovy, které vám přinášejí různé výhody.
+
+Cílem hry je dobýt co nejvíce planet. Hra končí, když už nejsou žádné neutrální planety nebo když jeden z hráčů dosáhne určeného počtu bodů. Hráč s nejvíce body na konci hry vyhrává.
+
+Dobytí vesmíru je hra plná strategie a dobrodružství. Každý tah může znamenat velký zisk, ale také velké nebezpečí. Připravte se na cestu vesmírem, kde vás čekají neznámé planety, silní nepřátelé a nekonečné možnosti.

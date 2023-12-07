@@ -1,0 +1,16 @@
+Nazev hry: Poklad ztraceného města
+Kapitola: Charakterizace postav
+
+Charakterizace postav:
+
+1. Odvážný Dobrodruh: Jako vrcholný dobrodruh, je tato postava velmi odvážná a nebojí se neznáma. Je to rychlý myslitel, který je schopen rychle se přizpůsobit novým situacím a vyzvat jakékoli nebezpečí. Tato postava má výhodu v rychlosti pohybu a výdrži.
+
+2. Bystrý Archeolog: Tato postava je známá svými schopnostmi řešení hádanek a znalostmi o starověkých civilizacích. Její silou je schopnost odhalit skryté cesty a zkratky, což jí dává výhodu při hledání pokladu.
+
+3. Zdatný Lovec: Lovec je zkušený v přežití v divoké přírodě. Je schopen se orientovat v džungli, loví potravu a umí se vyhnout nebezpečí. Tato postava má výhodu v přežití a boji s divokými zvířaty.
+
+4. Opatrný Průzkumník: Průzkumník je ostražitý a opatrný. Jeho silou je schopnost odhalit pasti a nebezpečí, která by mohla ostatní překvapit. Tato postava má výhodu v detekci nebezpečí a pastí.
+
+5. Statečný Námořník: Námořník je zkušený v navigaci a plavbě. Jeho schopnosti mu pomáhají překonávat řeky a jezera v džungli. Tato postava má výhodu v plavbě a překonávání vodních překážek.
+
+Každá postava v hře "Poklad ztraceného města" má své unikátní schopnosti a výhody, které mohou hráči využít k dosažení cíle. Je na hráčích, aby se rozhodli, kterou postavu si vyberou a jak nejlépe využijí její schopnosti k nalezení pokladu.

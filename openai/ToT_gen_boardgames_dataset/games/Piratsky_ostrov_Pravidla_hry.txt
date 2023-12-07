@@ -1,0 +1,26 @@
+Nazev hry: Pirátský ostrov
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Pirátský ostrov je dobrodružná hra pro 2 až 6 hráčů, kde každý hráč představuje piráta hledajícího poklad na tajemném ostrově. Hra je plná dobrodružství, akce a strategie. Cílem hry je najít poklad dříve než ostatní hráči, přičemž je nutné se vyhnout pastem a bojovat s monstry.
+
+1. Příprava hry:
+Na začátku hry si každý hráč vybere pirátskou figurku a postaví ji na startovní políčko. Poté se zamíchají karty pokladů a karty pastí a monsterek. Každý hráč dostane jednu kartu pokladu a jednu kartu pasti a/nebo monstra. Zbytek karet tvoří dobírací balíček.
+
+2. Průběh hry:
+Hráči se střídají v tazích směrem hodinových ručiček. V každém tahu si hráč může vybrat, zda se pohybuje po ostrově, bojuje s monstrem nebo hledá poklad. Pohyb po ostrově se provádí pomocí hodů kostkou. 
+
+3. Pohyb po ostrově:
+Hráč hodí kostkou a posune svou figurku o tolik políček, kolik ukazuje hod kostky. Pokud hráč skončí na políčku s pastí nebo monstrem, musí se s ní vypořádat.
+
+4. Boj s monstrem:
+Pokud hráč skončí na políčku s monstrem, musí s ním bojovat. Boj probíhá tak, že hráč a monstrum hodí kostkou a ten, kdo hodí více, vyhrává. Pokud hráč prohraje, zůstává na stejném políčku a ztrácí jedno kolo.
+
+5. Hledání pokladu:
+Pokud hráč skončí na políčku s pokladem, může se pokusit ho najít. To provede tak, že si vezme kartu z dobíracího balíčku pokladů. Pokud na kartě je poklad, může ho hráč uchovat. Pokud na kartě je past nebo monstrum, musí se s ním hráč vypořádat.
+
+6. Konec hry:
+Hra končí, když některý z hráčů najde poslední poklad. Vítězem se stává hráč, který našel nejvíce pokladů. Pokud mají dva nebo více hráčů stejný počet pokladů, vítězí ten, kdo našel poslední poklad.
+
+Pirátský ostrov je hra plná napětí a dobrodružství, kde rozhoduje nejen štěstí, ale také strategické rozhodování. Připravte se na cestu plnou nebezpečí a pokladů, které čekají na své objevení. Staňte se nejlepším pirátem na ostrově!

@@ -1,0 +1,23 @@
+Nazev hry: Lovci duchů
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Lovci duchů je dobrodružná desková hra, která vás přenese do strašidelného domu plného duchů a pastí. Aby byla hra spravedlivá a zábavná pro všechny, je důležité se řídit pravidly.
+
+1. Příprava hry: 
+Hra je určená pro 2 až 4 hráče. Každý hráč si vybere svou postavu lovce duchů a postaví svou figurku na startovací pole. Každý hráč také dostane sadu karet s nástroji, které mu pomohou v boji proti duchům a pastem.
+
+2. Průběh tahu: 
+Hráči se střídají v tazích. Během svého tahu může hráč pohnout svou postavou o počet polí odpovídající hodnotě, kterou hodil kostkou. Hráč se může pohybovat jakoukoliv směrem, ale nemůže se vrátit na pole, ze kterého právě vyšel.
+
+3. Duchové a pasti: 
+Pokud hráč skončí svůj tah na poli s duchem, musí se s ním utkat. Používá k tomu své nástroje na kartách. Pokud hráč skončí na poli s pastí, musí se vyhnout jejímu spuštění. Pokud hráč v boji s duchem prohraje nebo spustí past, musí se vrátit na startovací pole.
+
+4. Vítězství: 
+Cílem hry je vyčistit dům od všech duchů. Hráč, který jako první porazí všechny duchy, je vítězem. Pokud žádný hráč nedokáže vyčistit dům, hra končí po 10 kolech a vítězem se stává hráč s nejvíce poraženými duchy.
+
+5. Spolupráce a konkurence: 
+Ačkoliv každý hráč hraje za sebe, může dojít k situacím, kdy hráči budou muset spolupracovat, aby porazili silnějšího ducha. Ale pozor, jen jeden může být vítězem!
+
+Lovci duchů je hra plná napětí a dobrodružství, která testuje vaše strategické myšlení a schopnost týmové spolupráce. Pamatujte, že nejdůležitější je si hru užít. Hodně štěstí!

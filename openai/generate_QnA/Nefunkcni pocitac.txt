@@ -1,0 +1,88 @@
+Oblast: Nefunkční počítač
+
+Otázka: Co mám dělat, když mi počítač vůbec nereaguje?
+Odpověď: Pokud tvůj počítač podléhá kouzlu spánku krásy, zkus ho restartovat. Pokud to nepomůže, zavolej naší technickou podporu TomTech. A pamatuj, že ho nemáš krmit po půlnoci. 
+
+Otázka: Co mám dělat, když mi nefunguje internet?
+Odpověď: Zkuste restartovat modem nebo se připojit k jiné síti. Pokud problém přetrvává, obraťte se na naše IT oddělení, TomNet. A ne, nemůžeme ti pomoci s tvým domácím internetem, i když se nám tvůj pes líbí.
+
+Otázka: Co mám dělat, když mi nefunguje tiskárna?
+Odpověď: Zkontroluj, zda je tiskárna správně připojena a zapnuta. Pokud problém přetrvává, zavolej TomPrint. A ne, nemůžeme ti vytisknout nové auto.
+
+Otázka: Co mám dělat, když mi nefunguje klávesnice?
+Odpověď: Ujisti se, že je klávesnice správně připojena. Pokud to nepomůže, zkus jinou klávesnici nebo zavolej TomTech. A ne, nepůjčíme ti naši kouzelnou klávesnici.
+
+Otázka: Co mám dělat, když mi nefunguje myš?
+Odpověď: Zkontroluj, zda je myš správně připojena a zda má dostatek energie. Pokud to nepomůže, zavolej TomTech. Ne, nemluvíme o skutečné myši, ale pokud máš v kanceláři skutečnou myš, měl bys zavolat údržbu.
+
+Otázka: Co mám dělat, když mi nefunguje monitor?
+Odpověď: Zkontroluj, zda je monitor správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout 3D brýle, abys viděl svůj monitor lépe.
+
+Otázka: Co mám dělat, když mi nefunguje reproduktor?
+Odpověď: Zkontroluj, zda je reproduktor správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout skutečný orchestr.
+
+Otázka: Co mám dělat, když mi nefunguje webkamera?
+Odpověď: Zkontroluj, zda je webkamera správně připojena a zapnuta. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout osobního kameramana.
+
+Otázka: Co mám dělat, když mi nefunguje mikrofon?
+Odpověď: Zkontroluj, zda je mikrofon správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastního zvukaře.
+
+Otázka: Co mám dělat, když mi nefunguje sluchátka?
+Odpověď: Zkontroluj, zda jsou sluchátka správně připojena a zapnuta. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout osobní koncert.
+
+Otázka: Co mám dělat, když mi nefunguje USB port?
+Odpověď: Zkuste restartovat počítač. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní cloud.
+
+Otázka: Co mám dělat, když mi nefunguje CD/DVD mechanika?
+Odpověď: Zkontroluj, zda je disk správně vložen. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní filmovou sbírku.
+
+Otázka: Co mám dělat, když mi nefunguje tiskárna?
+Odpověď: Zkontroluj, zda je tiskárna správně připojena a zda má dostatek papíru a inkoustu. Pokud to nepomůže, zavolej TomPrint. A ne, nemůžeme ti tisknout peníze.
+
+Otázka: Co mám dělat, když mi nefunguje skener?
+Odpověď: Zkontroluj, zda je skener správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti skenovat budoucnost.
+
+Otázka: Co mám dělat, když mi nefunguje prohlížeč?
+Odpověď: Zkus prohlížeč restartovat nebo vymazat cache. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti najít toho správného.
+
+Otázka: Co mám dělat, když mi nefunguje email?
+Odpověď: Zkontroluj své připojení k internetu a nastavení e-mailu. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti napsat ten email za tebe.
+
+Otázka: Co mám dělat, když mi nefunguje software?
+Odpověď: Zkus software restartovat nebo reinstalovat. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastního programátora.
+
+Otázka: Co mám dělat, když mi nefunguje VPN?
+Odpověď: Zkontroluj své připojení k internetu a nastavení VPN. Pokud to nepomůže, zavolej TomNet. A ne, nemůžeme tě teleportovat do kanceláře.
+
+Otázka: Co mám dělat, když mi nefunguje tiskárna?
+Odpověď: Zkontroluj, zda je tiskárna správně připojena a zda má dostatek papíru a inkoustu. Pokud to nepomůže, zavolej TomPrint. A ne, nemůžeme ti tisknout oběd.
+
+Otázka: Co mám dělat, když mi nefunguje klávesnice?
+Odpověď: Ujisti se, že je klávesnice správně připojena. Pokud to nepomůže, zkus jinou klávesnici nebo zavolej TomTech. A ne, nemůžeme ti napsat ten report za tebe.
+
+Otázka: Co mám dělat, když mi nefunguje myš?
+Odpověď: Zkontroluj, zda je myš správně připojena a zda má dostatek energie. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout kouzelný koberec.
+
+Otázka: Co mám dělat, když mi nefunguje monitor?
+Odpověď: Zkontroluj, zda je monitor správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní IMAX.
+
+Otázka: Co mám dělat, když mi nefunguje reproduktor?
+Odpověď: Zkontroluj, zda je reproduktor správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní koncert.
+
+Otázka: Co mám dělat, když mi nefunguje webkamera?
+Odpověď: Zkontroluj, zda je webkamera správně připojena a zapnuta. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme tě poslat do televize.
+
+Otázka: Co mám dělat, když mi nefunguje mikrofon?
+Odpověď: Zkontroluj, zda je mikrofon správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme tě poslat do rádia.
+
+Otázka: Co mám dělat, když mi nefunguje sluchátka?
+Odpověď: Zkontroluj, zda jsou sluchátka správně připojena a zapnuta. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní kapelu.
+
+Otázka: Co mám dělat, když mi nefunguje USB port?
+Odpověď: Zkuste restartovat počítač. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní server.
+
+Otázka: Co mám dělat, když mi nefunguje CD/DVD mechanika?
+Odpověď: Zkontroluj, zda je disk správně vložen. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti poskytnout vlastní filmovou sbírku.
+
+Otázka: Co mám dělat, když mi nefunguje skener?
+Odpověď: Zkontroluj, zda je skener správně připojen a zapnut. Pokud to nepomůže, zavolej TomTech. A ne, nemůžeme ti skenovat budoucnost.

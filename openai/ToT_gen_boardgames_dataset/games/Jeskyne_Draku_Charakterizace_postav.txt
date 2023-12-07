@@ -1,0 +1,16 @@
+Nazev hry: Jeskyně Draků
+Kapitola: Charakterizace postav
+
+Charakterizace postav:
+
+1. Rytíř: Rytíř je silný a odvážný. Jeho hlavní zbraní je meč a štít, který používá k boji s draky. Rytíř je také velmi odolný, a tak je schopen vydržet mnoho útoků, než je poražen. Jeho slabostí je pomalost, protože jeho těžká zbroj ho zpomaluje.
+
+2. Zloděj: Zloděj je mazaný a rychlý. Jeho hlavní zbraní jsou dýky, které používá k překvapivým útokům. Zloděj je také velmi šikovný, a tak se dokáže vyhnout mnoha útokům draků. Jeho slabostí je nízká obrana, protože nemá těžkou zbroj.
+
+3. Kouzelník: Kouzelník je moudrý a vynalézavý. Jeho hlavní zbraní je magie, kterou používá k útokům na dálku. Kouzelník je také velmi zručný, a tak dokáže vyrobit léčivé lektvary a magické předměty. Jeho slabostí je nízká fyzická síla, protože se spoléhá na svou magii.
+
+4. Lovec: Lovec je tichý a ostražitý. Jeho hlavní zbraní je luk, který používá k útokům na dálku. Lovec je také velmi bystrý, a tak dokáže najít skryté poklady a pasti. Jeho slabostí je nízká odolnost, protože preferuje skrývání a útoky z dálky nad přímý boj.
+
+5. Trpaslík: Trpaslík je houževnatý a odolný. Jeho hlavní zbraní je sekera, kterou používá k silným útokům. Trpaslík je také velmi silný, a tak dokáže unést mnoho pokladů. Jeho slabostí je nízká rychlost, protože jeho těžké vybavení ho zpomaluje.
+
+Každá postava má své unikátní schopnosti a slabosti, které hráči musí využít k přežití v Jeskyni Draků. Je důležité, aby hráči týmově spolupracovali a využívali své schopnosti k dosažení cíle hry - porazit draky, sebrat poklady a vyváznout živí.

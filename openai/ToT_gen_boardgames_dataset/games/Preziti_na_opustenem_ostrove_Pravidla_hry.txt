@@ -1,0 +1,24 @@
+Nazev hry: Přežití na opuštěném ostrově
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+1. Začátek hry: Každý hráč obdrží svou postavu námořníka a začíná na vylosovaném místě na ostrově. Hra začíná tím, že se hráč dostane na pobřeží ostrova. 
+
+2. Tahy: Hráči se střídají v tazích, které se skládají z akcí jako je pohyb, hledání jídla a vody, stavba úkrytu nebo hledání způsobu, jak se dostat zpět domů. Každý hráč může v jednom tahu provést až tři akce.
+
+3. Pohyb: Hráč může přesunout svou postavu na jiné políčko ostrova. Počet políček, které může hráč za tah překonat, je omezen na tři.
+
+4. Hledání jídla a vody: Hráč může prohledávat své aktuální políčko v naději, že najde potravu nebo vodu. Úspěch hledání je určen hodem kostkou.
+
+5. Stavba úkrytu: Hráč může strávit akci na stavbu úkrytu. Úspěch stavby je určen hodem kostkou. Úkryt chrání hráče před nepřízní počasí a divokou zvěří.
+
+6. Hledání cesty domů: Hráč může strávit akci na hledání možnosti, jak se dostat z ostrova. To může zahrnovat hledání signalizačního zařízení, výrobu voru nebo pokus o vyslání signálu SOS.
+
+7. Dobrodružství: Na ostrově se může hráč setkat s různými dobrodružstvími, které mohou přinést odměny nebo tresty. Ty jsou určeny pomocí karet dobrodružství.
+
+8. Přežití: Hráč musí udržet svou postavu naživu. Pokud hráčovi dojdou zásoby jídla a vody nebo se setká s nebezpečím, může zemřít a je ze hry vyřazen.
+
+9. Konec hry: Hra končí, když všichni hráči buď zemřou, nebo se někomu podaří úspěšně opustit ostrov. Vítěz je ten, kdo jako první opustí ostrov, nebo, pokud všichni hráči zemřou, ten, kdo přežil nejdéle.
+
+Vždy si pamatujte, že hlavním cílem hry je přežít. Dobrodružství a výzvy, které vám ostrov připraví, jsou součástí hry a je na vás, jak se s nimi poperete. Hodně štěstí a dobrou zábavu!

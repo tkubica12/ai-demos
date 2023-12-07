@@ -1,0 +1,16 @@
+Nazev hry: Záhada ztracené pyramidy
+Kapitola: Charakterizace postav
+
+V Záhadě ztracené pyramidy se setkáte s několika postavami, které pomáhají vytvořit jedinečnou atmosféru dobrodružné hry. Následuje charakterizace jednotlivých postav.
+
+1. Archeolog: Hlavní postava hry, kterou hráč ovládá. Archeolog je odvážný a inteligentní, s hlubokou znalostí starověkých civilizací. Jeho cílem je prozkoumat starobylou pyramidu a odhalit její tajemství. Archeolog je vybaven řadou nástrojů, jako je lopata, svítilna a kompas, které mu pomáhají v jeho dobrodružství.
+
+2. Múmie: Tyto strašidelné postavy jsou hlavními nepřáteli v pyramidě. Jsou rychlé, silné a neúprosné v honbě za archeologem. Múmie se objevují náhodně během hry a představují nebezpečí, kterému se musíte vyhnout.
+
+3. Faraón: Faraón je nejvyšší autoritou v pyramidě a jeho duch stále bdí nad svým posledním odpočinkovým místem. Když se dostanete do jeho komnaty, musíte vyřešit záhadu, kterou faraón ponechal, abyste odhalili tajemství pyramidy. Faraón může být nápomocen nebo naopak představovat další překážku.
+
+4. Šakal: Tato záhadná postava je ochráncem pyramidy. Šakal je rychlý a nebezpečný, ale také může být užitečný, pokud dokážete rozluštit jeho hádanky. Šakal může hráčům poskytnout cenné pokyny nebo klíče k otevření tajných komnat.
+
+5. Had Anubis: Tento obrovský had je jedním z nejnebezpečnějších stvoření v pyramidě. Had Anubis stráží cenné artefakty a poklady. Chcete-li je získat, musíte se mu vyhnout nebo ho porazit.
+
+Každá z těchto postav přináší do hry unikátní prvek a přispívá k dobrodružné atmosféře Záhady ztracené pyramidy. Správné rozhodnutí a strategie mohou vést k úspěchu, zatímco špatné kroky mohou vést k nebezpečí.

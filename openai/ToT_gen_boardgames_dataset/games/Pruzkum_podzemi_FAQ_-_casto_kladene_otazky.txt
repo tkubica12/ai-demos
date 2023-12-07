@@ -1,0 +1,34 @@
+Nazev hry: Průzkum podzemí
+Kapitola: FAQ - často kladené otázky
+
+KAPITOLA: Často kladené otázky (FAQ)
+
+1. Jaký je hlavní cíl hry Průzkum podzemí?
+Hlavním cílem hry je prozkoumat podzemí, vyhnout se pastem, porazit příšery a najít poklad. Hra končí, když hráč úspěšně najde poklad a unikne z podzemí.
+
+2. Kolik hráčů může hrát Průzkum podzemí?
+Hra je určena pro 1-4 hráče.
+
+3. Jak dlouho trvá jedna hra Průzkum podzemí?
+Délka hry se může lišit podle počtu hráčů a jejich rozhodnutí během hry, ale obvykle trvá mezi 45 až 90 minut.
+
+4. Jaké věkové skupiny jsou vhodné pro hru Průzkum podzemí?
+Hra je vhodná pro hráče od 12 let.
+
+5. Co když narazím na past během průzkumu podzemí?
+Pokud narazíš na past, musíš vyhodit kostkou a pokud padne alespoň jedna šestka, pasti se vyhneš. Pokud ne, postava utrpí určité zranění.
+
+6. Jak můžu bojovat s příšerami v Průzkumu podzemí?
+Boj s příšerou se řeší hodem kostkou. Pokud hodíš více než příšera, porazíš ji. Pokud hodíš méně, příšera tě zraní. 
+
+7. Co se stane, když moje postava zemře?
+Pokud tvá postava zemře, hra pro tebe končí. Ostatní hráči mohou pokračovat v hře.
+
+8. Jak můžu najít poklad v Průzkumu podzemí?
+Poklad je schován náhodně v podzemí. Musíš prozkoumávat místnosti a hledat nápovědy, které ti pomohou najít jeho skrýš.
+
+9. Jakou roli hrají dovednosti postavy v Průzkumu podzemí?
+Dovednosti postavy mohou ovlivnit různé aspekty hry, jako je boj s příšerami, vyhýbání se pastem nebo hledání pokladu. Každá postava má specifické dovednosti, které jí dávají určité výhody.
+
+10. Je možné hru Průzkum podzemí hrát opakovaně?
+Ano, hra je navržena tak, aby byla každá hra jiná díky náhodnému rozmístění příšer, pastí a pokladu v podzemí.

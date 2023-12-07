@@ -1,0 +1,23 @@
+Nazev hry: Arktická výprava
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Arktická výprava je dobrodružná desková hra určená pro 2 až 4 hráče. Úkolem hráčů je dosáhnout severního pólu, a to za předpokladu, že přežijí v drsných arktických podmínkách a vyhnou se různým nebezpečím.
+
+1. Příprava hry:
+Na začátku hry si každý hráč vybere svého dobrodruha a k němu přidělený tým. Každý tým se skládá z vybavení, které zahrnuje potraviny, teplé oblečení, nástroje a další vybavení potřebné k přežití. Vybavení se umístí na herní plán vedle postavy hráče.
+
+2. Průběh hry:
+Hráči se střídají v tazích a pohybují se po herním plánu směrem k severnímu pólu. Během tahu může hráč buď posunout svoji postavu o jedno pole dopředu, nebo využít své vybavení. Vybavení může hráči pomoci překonat obtíže, jako je například říčka, nebo ho může ochránit před nebezpečím, jako je například bouře. 
+
+3. Nebezpečí:
+Během hry se hráči mohou setkat s různými nebezpečími, jako jsou ledové trhliny, polární medvědi nebo sněhové bouře. Pokud hráč narazí na nebezpečí, musí ho překonat pomocí svého vybavení nebo riskovat ztrátu zdraví.
+
+4. Zdraví a přežití:
+Každý hráč má na začátku hry určitý počet životů. Pokud hráč ztratí všechny své životy, je z hry vyřazen. Pokud se hráči podaří dosáhnout severního pólu a stále má alespoň jeden život, stává se vítězem.
+
+5. Konec hry:
+Hra končí, když všichni hráči buď dosáhnou severního pólu, nebo jsou z hry vyřazeni. Pokud dosáhne severního pólu více hráčů, vítězí ten, kdo má nejvíce životů.
+
+Arktická výprava je hra plná strategie a dobrodružství, která hráče zaujme svou dynamikou a nevyzpytatelností. Každé rozhodnutí může mít zásadní vliv na výsledek hry, takže si dobře promyslete každý svůj tah. Přežijte v drsných podmínkách a dosáhněte severního pólu jako první!

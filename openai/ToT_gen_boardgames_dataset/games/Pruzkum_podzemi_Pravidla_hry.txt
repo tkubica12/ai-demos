@@ -1,0 +1,18 @@
+Nazev hry: Průzkum podzemí
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Průzkum podzemí je dobrodružná desková hra pro 2 až 6 hráčů. Cílem hry je stát se nejbohatším dobrodruhem skrze prozkoumávání podzemí, boj s příšerami a hledání pokladů. Pojďme se podívat na podrobné pravidla hry.
+
+Příprava hry: Na začátku hry se každý hráč rozhodne, jakým dobrodruhem bude. Každý dobrodruh má své unikátní schopnosti, které mu mohou pomoci v průběhu hry. Dobrodruzi se umístí na startovní pole na hracím plánu, který představuje temné podzemí. Balíček karet s příšerami a poklady se zamíchá a položí vedle hracího plánu.
+
+Průběh hry: Hráči se střídají v tazích. V každém tahu si hráč může vybrat, zda se pohne o jedno nebo dvě pole vpřed. Poté, co se hráč pohne, otočí kartu z vrcholu balíčku. Tato karta může být buď poklad, past nebo příšera. 
+
+Pokud je karta poklad, hráč ji může vzít a přidat do svého inventáře. Pokud je karta past, hráč musí splnit nějaký úkol, aby ji obešel. Pokud je to příšera, hráč s ní musí bojovat. Boj se řeší pomocí kostky, kde počet bodů na kostce představuje sílu útoku.
+
+Boj s příšerami: Každá příšera má určitý počet životů. Hráč, který bojuje s příšerou, hodí kostkou a počet bodů na kostce se odečte od životů příšery. Pokud má příšera stále nějaké životy, hodí kostkou i ona a počet bodů se odečte od životů hráče. Boj pokračuje, dokud jeden z účastníků neztratí všechny životy.
+
+Konec hry: Hra končí, když jeden z hráčů dosáhne konce podzemí. V tu chvíli se všichni hráči spočítají poklady v jejich inventáři. Hráč s největším množstvím pokladů vyhrává.
+
+Pravidla hry Průzkum podzemí jsou jednoduchá, ale nabízí spoustu dobrodružství a zábavy. Každá hra je jiná díky proměnlivému balíčku karet s příšerami a poklady. Takže zahrajte si a prozkoumejte temné podzemí plné příšer a pokladů!

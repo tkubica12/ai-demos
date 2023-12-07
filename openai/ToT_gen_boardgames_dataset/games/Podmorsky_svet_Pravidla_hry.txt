@@ -1,0 +1,20 @@
+Nazev hry: Podmořský svět
+Kapitola: Pravidla hry
+
+PRÁVIDLA HRY
+
+1. Příprava hry: Na začátku hry rozložte herní plán na stůl a umístěte na něj různé karty příšer a pokladů. Každý hráč si vybere jednu figurku potápěče, kterou umístí na startovní pole.
+
+2. Cíl hry: Cílem každého hráče je prozkoumat podmořský svět, vyhnout se nebezpečím, která na něj číhají, a sbírat poklady. Hráč, který na konci hry nasbírá nejvíce bodů za poklady, vyhrává.
+
+3. Průběh hry: Hráči na tahu vždy vrhají kostkou a posouvají svou figurku o počet polí, který na kostce padl. Pokud hráč přistane na poli s kartou pokladu, může ji vzít a přičíst si body. Pokud ale přistane na poli s kartou příšery, musí se jí vyhnout, nebo riskovat ztrátu bodů. 
+
+4. Karty příšer: Pokud hráč přistane na poli s kartou příšery, může se rozhodnout, zda se pokusí příšeru porazit, nebo se jí vyhne. Porážka příšery vyžaduje hod kostkou a dosažení určitého čísla nebo vyššího. Pokud hráč příšeru neporazí, ztrácí počet bodů uvedených na kartě příšery.
+
+5. Karty pokladů: Karty pokladů obsahují různé poklady, které hráči mohou sbírat během hry. Každý poklad má určitou hodnotu bodů, které hráč přičte k celkovému skóre.
+
+6. Konec hry: Hra končí, když jsou všechny poklady na herním plánu sebrány. Hráč s nejvyšším počtem bodů z pokladů je vítězem. V případě shody rozhoduje o vítězi počet poražených příšer.
+
+7. Speciální pravidla: Během hry mohou nastat různé situace, které ovlivňují průběh hry. Například karta s pokladem může být zároveň i pastí nebo může příšera ukrást hráči poklad. Tyto situace jsou podrobně popsány na příslušných kartách.
+
+Pamatujte, že hlavním cílem hry je prozkoumat podmořský svět a užít si spoustu zábavy při dobrodružství plném objevování. Hodně štěstí!

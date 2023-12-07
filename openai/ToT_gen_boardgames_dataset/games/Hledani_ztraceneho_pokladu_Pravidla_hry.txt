@@ -1,0 +1,20 @@
+Nazev hry: Hledání ztraceného pokladu
+Kapitola: Pravidla hry
+
+Kapitola: Pravidla hry
+
+Hledání ztraceného pokladu je dobrodružná desková hra pro 2-6 hráčů. Cílem každého hráče je najít ztracený poklad a dostat se s ním zpět na začátek, dříve než to dokáže kterýkoli z ostatních hráčů. 
+
+Hra začíná tak, že každý hráč si vybere jednoho z dostupných dobrodruhů, kteří se liší svými schopnostmi a silami. Poté se hráči postaví na startovní pole a začíná dobrodružství.
+
+Na začátku tahu hráč hodí kostkou a posune svou figurku o příslušný počet polí. Pole na hrací desce jsou různých typů: prázdná pole, pole s monstry, pole s pastmi a pole s pokladem. 
+
+Pokud hráč skončí na poli s monstrem, musí s ním bojovat. Boj se rozhoduje hodem kostkou a porovnáním hodnoty s hodnotou síly monstra. Pokud hráč hodí vyšší číslo, než je síla monstra, zvítězil a pole s monstrem se stává prázdným polem. Pokud je hod hráče nižší než síla monstra, hráč ztrácí jedno ze svých životů a zůstává na tomto poli.
+
+Pokud hráč skončí na poli s pastí, musí se vyhnout pasti. To se rozhoduje opět hodem kostkou. Pokud hráč hodí číslo vyšší než je hodnota pasti, úspěšně se vyhnul pasti a může pokračovat v dalším tahu. Pokud ale hodí nižší číslo, ztrácí jeden život a zůstává na poli s pastí.
+
+Pokud hráč skončí na poli s pokladem, získává poklad a musí se vrátit zpět na startovní pole. Pokud se mu to podaří dříve než ostatním hráčům, stává se vítězem hry. 
+
+Hráč může ztratit všechny své životy buď bojem s monstry nebo chycením do pasti. Pokud se to stane, je z hry vyřazen a ostatní hráči pokračují bez něj.
+
+Hra končí, jakmile první hráč úspěšně dorazí se ztraceným pokladem na startovní pole. Ten se stává vítězem dobrodružné hry Hledání ztraceného pokladu. Pokud žádný hráč nedokáže najít poklad a vrátit se na startovní pole, hra končí, když je poslední hráč vyřazen a nikdo nevyhrává.

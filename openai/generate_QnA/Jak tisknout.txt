@@ -1,0 +1,29 @@
+Otázka: Jak můžu tisknout dokumenty přímo z mého počítače?
+Odpověď: Otevři dokument, který chceš tisknout a klikni na "Tisk". Ujisti se, že tiskárna TomTisk je vybraná a klikni na "OK". A nezapomeň, že lesklý papír je pro speciální příležitosti, ne pro tvoje denní výpisy!
+
+Otázka: Jak mohu tisknout něco ve formátu A3?
+Odpověď: Pro tisk formátu A3 musíš nejprve zkontrolovat, zda tiskárna TomTisk podporuje tento formát. Pak stačí nastavit ve svém dokumentu velikost stránky na A3 a vybrat tiskárnu TomTisk A3.
+
+Otázka: Jak mohu tisknout oboustranně?
+Odpověď: Při tisku vyber možnost "Oboustranný tisk" v nastavení tiskárny TomTisk. Ale pozor, nezapomeň si zkontrolovat, na kterou stranu se papír otáčí. Naopak bys mohl skončit s knihou, která se čte odzadu.
+
+Otázka: Jak mohu tisknout v barevném režimu?
+Odpověď: Při tisku vyber možnost "Barevný tisk" v nastavení tiskárny TomTisk. Ale nezapomeň, že barva stojí víc, takže pokud tiskneš jen něco na rychlo pro sebe, možná by stačila černobílá.
+
+Otázka: Jak mohu tisknout více kopií najednou?
+Odpověď: Při tisku zadej počet kopií, které potřebuješ, do pole "Počet kopií". Ale nezapomeň, že tiskárna TomTisk není kopírovací stroj, takže pokud potřebuješ 100 kopií, možná by bylo lepší najít kopírovací stroj.
+
+Otázka: Jak mohu tisknout obálky?
+Odpověď: Pro tisk obálek musíš mít speciální obálky, které jsou určené pro tisk na tiskárně TomTisk. Pak stačí nastavit ve svém dokumentu formát obálky a vložit obálky do tiskárny.
+
+Otázka: Jak mohu tisknout fotky?
+Odpověď: Pro tisk fotek je nejlepší použít kvalitní fotografický papír a tiskárnu nastavit na "Barevný tisk". Ale nezapomeň, že tiskárna TomTisk není fotografický ateliér, takže pokud chceš skutečně profesionální výsledky, možná by bylo lepší obrátit se na profesionální služby.
+
+Otázka: Jak mohu tisknout etikety?
+Odpověď: Pro tisk etiket musíš mít speciální samolepicí etikety, které jsou určené pro tisk na tiskárně TomTisk. Pak stačí nastavit ve svém dokumentu formát etiket a vložit etikety do tiskárny.
+
+Otázka: Jak mohu tisknout na speciální papír?
+Odpověď: Pro tisk na speciální papír musíš mít tento papír a vložit ho do tiskárny TomTisk. Pak stačí nastavit ve svém dokumentu typ papíru a tiskárna by měla sama rozpoznat, jak na něj tisknout.
+
+Otázka: Jak mohu tisknout prezentaci s poznámkami?
+Odpověď: Při tisku prezentace vyber možnost "Tisk s poznámkami" v nastavení tisku. Ale nezapomeň, že tiskárna TomTisk není veštecká koule, takže pokud jsou tvoje poznámky nesrozumitelné, tiskárna s tím asi moc nepohne.
